@@ -1,0 +1,524 @@
+0	enamine	amin,amine
+1	lithium carbonate	lithium salt,lithiumsalz,carbonate salt,carbonate salts,lithiumsalze,lithium salts
+2	calcium ion	metal cation,elemental calcium,metal cations
+3	ferric oxide	iron oxides,iron oxide
+4	messenger rna	ribonucleic acids,ribose nucleic acid,ribonukleinsaeure,rns,yeast nucleic acid,ribonucleic acid
+5	tartaric acid	2,3-dihydroxybutanedioic acid,2,3-dihydroxysuccinic acid
+6	nitroglycerin	nitroglycerol,nitroglycerols
+7	lauric acid	medium-chain fatty acids,medium-chain fatty acid,mcfas,straight-chain saturated fatty acid,mcfa,straight-chain saturated fatty acids
+8	ammonia	azane,mononuclear parent hydride,azanes,mononuclear hydride
+9	fumigant	pesticide,pestizide,pestizid,pesticides
+10	permanganic acid	manganese oxoacid,manganese oxoacids
+11	phenothiazine	mancude organic heterotricyclic parents,mancude organic heterotricyclic parent,mancude-ring organic heterotricyclic parents,phenothiazines
+12	potassium iodide	potassium salts,kaliumsalz,kaliumsalze,potassium salt
+13	gallic acid	trihydroxybenzoic acid,trihydroxybenzoic acids
+14	tributyrin	triglycerides,triglyceride,triglyzerid,triglycerid
+15	herbicide	pesticide,pestizide,pestizid,pesticides
+16	cytochrome	hemoprotein,haemprotein,haemoprotein,heme protein,hemoproteins
+17	cortisone	glucocorticoid,20-oxo steroids,21-hydroxy steroids,11-oxo steroids,3-oxo steroid,17alpha-hydroxy steroids,21-hydroxy steroid,11-oxo steroid,11-oxosteroids,3-oxosteroids,20-oxo steroid,c21-steroid,17alpha-hydroxy steroid,glucocorticoids,3-oxo steroids,21-hydroxysteroids
+18	urea	one-carbon compounds,acid amides,monocarboxylic acid amide,one-carbon compound,monocarboxylic acid amides
+19	provitamin a	provitamin,provitamins
+20	pseudoephedrine	sekundaeres amin,secondary amine,secondary alcohol,secondary alcohols
+21	acyl halide	halide,halides
+22	alkylbenzene	monocyclic arene,benzenes,monocyclic arenes
+23	myristic acid	long-chain fatty acid,straight-chain saturated fatty acid,long-chain fatty acids,lcfa,straight-chain saturated fatty acids,lcfas
+24	ketone body	carbonyl compound
+25	polyphosphate	oxoanions of phosphorus,phosphorus oxoanion,phosphorus oxoanions
+26	polymethyl methacrylate	polyacrylates,polyacrylic,poly(acrylic)s,homopolymer,acrylic polymer,poly(acrylics),polyacrylate
+27	enol	organic hydroxy compound,organic hydroxy compounds,organic alcohol
+28	alicyclic compound	carbocyclic compound,aliphatic compound,carbocycle
+29	cholesterol	3beta-hydroxysteroids,3beta-sterols,3beta-sterol,cholestanoid,cholestanoids
+30	neoprene	homopolymer
+31	methane	one-carbon compounds,alkane,mononuclear parent hydride,mononuclear hydride,alkan,one-carbon compound
+32	hydrogen iodide	hydrogen halides,mononuclear parent hydride,hydrogen halide,mononuclear hydride
+33	thiazine	heterocyclic organosulfur compounds,organonitrogen heterocyclic compounds,organic heteromonocyclic compound,organosulfur heterocyclic compound,organosulfur heterocyclic compounds,organonitrogen heterocyclic compound,organic heteromonocyclic compounds,heterocyclic organonitrogen compounds,one-ring heterocyclic compounds
+34	sulfide	sulfur molecular entities,sulfur molecular entity,sulfur compounds
+35	acid	chemical role
+36	stearic acid	sfas,long-chain fatty acid,saturated fatty acids,straight-chain saturated fatty acid,saturated fatty acid,long-chain fatty acids,lcfa,straight-chain saturated fatty acids,lcfas,sfa
+37	lipid	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+38	cholic acid	bile acids,gallensaeure,trihydroxy-5beta-cholanic acid,gallensaeuren,trihydroxy-5beta-cholanic acids,bile acid
+39	amygdalin	gentiobioside,disaccharide derivatives,disaccharide derivative,gentiobiosides
+40	caffeine	trimethylxanthines,trimethylxanthine,purine alkaloids,purine alkaloid
+41	margaric acid	long-chain fatty acid,straight-chain saturated fatty acid,long-chain fatty acids,lcfa,straight-chain saturated fatty acids,lcfas
+42	isocyanic acid	hydracid,one-carbon compounds,hydracids,one-carbon compound
+43	polyphosphoric acid	phosphorus oxoacid,acyclic phosphorus acid anhydrides,oxosaeure des phosphors,acyclic phosphorus acid anhydride,phosphorus oxoacids,oxoacids of phosphorus
+44	quaternary ammonium compound	organoammonium salt,quaternary nitrogen compound,organoammonium salts,quaternary nitrogen compounds
+45	sucrose	glycosyl glycosides,glycosyl glycoside
+46	chlorate	chlorine oxoanions,monovalent inorganic anions,chlorine oxoanion,monovalent inorganic anion
+47	ribose	aldopentose,aldopentoses
+48	hyaluronic acid	extracellular polymeric substance,extracellular polymeric substances,mucopolysaccharide,mucopolysaccharid,exopolysaccharide,exopolysaccharides,mukopolysaccharid,mucopolisacarido
+49	imide	secondary amide
+50	water	oxygen hydrides,mononuclear parent hydride,inorganic hydroxides,mononuclear hydride,oxygen hydride,inorganic hydroxy compound,hydrides of oxygen
+51	benzoic acid	benzoic acids
+52	disaccharide	o-glycosylglycosides,oligosaccharide,oligosacarido,o-glycosylglycoside
+53	hypochlorite	monovalent inorganic anions,chlorine oxides,chlorine oxide,chlorine oxoanions,chlorine oxoanion,monovalent inorganic anion
+54	acceptor	chemical role
+55	simazine	diamino-1,3,5-triazines,diamino-1,3,5-triazine,chloro-1,3,5-triazine,chloro-1,3,5-triazines
+56	periodic acid	iodine oxoacids,iodine oxoacid
+57	fumaric acid	butenedioic acid,2-butenedioic acid
+58	elaidic acid	18:1, n-9,9-octadecenoic acid,c18:1, n-9,octadec-9-enoic acid
+59	nitrogen oxide	inorganic oxide,nitrogen compounds,nitrogen molecular entity,inorganic oxides,nitrogen molecular entities
+60	ethane	alkan,alkane
+61	hemin	heme,protoheme,heme b
+62	macromolecule	polyatomic entities,polyatomic entity
+63	potassium chloride	inorganic chloride salt,inorganic chlorides,potassium salt,inorganic chloride,inorganic chloride salts,kaliumsalz,kaliumsalze,potassium salts
+64	diamine	organic amino compounds,organic amino compound
+65	sulfate	sulfur oxoanions,oxides of sulfur,sulfur oxides,oxoanions of sulfur,divalent inorganic anions,sulfur oxoanion,inorganic anions,schwefeloxide,divalent inorganic anion,sulfur oxide,inorganic anion
+66	zeaxanthin	carotenols,carotenol,hydroxycarotenoids
+67	acetylcholine	acetates,acylcholines,acetate,acetyl esters,acetate esters,acylcholine,acetate ester
+68	perchloric acid	chlorine oxoacid,chlorine oxoacids
+69	potassium dichromate	potassium salts,kaliumsalz,kaliumsalze,potassium salt
+70	myoglobin	globin,globins
+71	polyunsaturated fatty acid	alkene acid,unsaturated fatty acids,olefinic acid,unsaturated fatty acid
+72	valeric acid	short-chain fatty acid,scfas,straight-chain saturated fatty acid,straight-chain saturated fatty acids,short-chain fatty acids,scfa
+73	urate	organisches salz,organic salt,organic salts
+74	calcium carbonate	one-carbon compounds,kalziumsalze,carbonate salt,carbonate salts,kalziumsalz,calcium salt,calcium salts,one-carbon compound
+75	cyanohydrin	alpha-hydroxynitriles,alpha-hydroxynitrile
+76	tetrasaccharide	o-glycosylglycosides,oligosaccharide,oligosacarido,o-glycosylglycoside
+77	chloride	halogen anion,atomic chlorine,halides,halide anion,halide(1-),monoatomic chlorine,halide anions
+78	sodium iodide	inorganic sodium salts,inorganic sodium salt,iodide salt,iodides,iodide salts
+79	chlorpromazine	tertiaeres amin,organochlorine compound,tertiary amine,phenothiazines,chloroorganic compounds,organochlorine compounds,chlororganische verbindungen
+80	ethyl acetate	acetates,acetyl esters,acetate ester,acetate,acetate esters
+81	paraquat	organic cation,organic cations
+82	simple protein	protein
+83	pectin	galacturonans,galacturonan
+84	lipoprotein	clathrate compound,klathrat,clathratverbindung,klathratverbindung,compuesto de clatrato,clathrate compounds,clathrat,conjugated protein
+85	nitrile	cyanides
+86	hexane	alkan,alkane
+87	pyruvic acid	2-oxo monocarboxylic acids,2-oxo monocarboxylic acid
+88	tnt	nitrotoluene,nitrotoluenes
+89	polypeptide	peptidos,polymer,peptid,macromolecule,polymers,peptido,peptide,macromolecules
+90	thymine	pyrimidine bases,pyrimidine nucleobases,pyrimidine nucleobase,pyrimidones,pyrimidone
+91	hydrochloride	organic chloride salts,organic chloride salt
+92	copper oxide	inorganic oxide,inorganic oxides
+93	mucopolysaccharide	glycosaminoglycans,glycosaminoglycan,glykosaminoglykan
+94	oxide	heteroatomic molecular entity,oxygen molecular entities,heteroatomic molecular entities,chemical compound,oxygen molecular entity,oxygen compounds
+95	stabilizer	food additive,food additives
+96	resorcinol	resorcinols,benzenediol,dihydroxybenzene
+97	methylene blue	organic chloride salts,organic chloride salt
+98	oxalic acid	alpha,omega-dicarboxylic acid,alpha,omega-dicarboxylic acids
+99	bile acid	monocarboxylic acids,hydroxy-5beta-cholanic acid,cholanoids,hydroxy-5beta-cholanic acids,monocarboxylic acid,cholanoid
+100	androsterone	androstanoids,17-keto steroids,17-oxo steroid,androstanoid,3alpha-hydroxy steroids,3alpha-hydroxy steroid,17-ketosteroids,17-oxo steroids
+101	aniline	anilines,primary arylamine,primary arylamines
+102	chromogen	one-colour indicator
+103	hemoglobin	globin,globins
+104	eicosapentaenoic acid	straight-chain fatty acid,straight-chain fatty acids,long-chain fatty acid,polyunsaturated fatty acid,polyunsaturated fatty acids,lcfas,long-chain fatty acids,pufas,lcfa,pufa
+105	ornithine	alpha-amino acid,alpha-amino acids
+106	copolymer	polymers,macromolecules,macromolecule,polymer
+107	phosphor	non-metal,nitrogenoideos,non-metaux,nichtmetalle,nonmetal atom,no metales,nonmetals,nichtmetall,pnictogene,no metal,group 15 elements,pnictogenes,group v elements,nitrogenoides,pnictogen,nonmetal
+108	plasticizer	application
+109	capric acid	medium-chain fatty acids,medium-chain fatty acid,mcfas,straight-chain saturated fatty acid,mcfa,straight-chain saturated fatty acids
+110	lysine	alpha-amino acid,diamino acid,alpha-amino acids,diamino acids
+111	polyurethane	homopolymer
+112	sodium chlorate	inorganic sodium salts,chlorate salt,inorganic sodium salt,chlorates,chlorate salts
+113	starch	glucans,glucan
+114	sodium chloride	inorganic chloride salt,inorganic chlorides,inorganic sodium salts,inorganic sodium salt,inorganic chloride,inorganic chloride salts
+115	digoxin	cardenolide glycosides,glycosyl steroid,cardenolide glycoside,cardiac glycosides,5beta-cardenolide glycoside,steroid saponins,sterol glycosides,steryl glycosides,steroidal glycosides,steroidal glycoside,steroid saponin,steryl glycoside,glycosteroid,glycosyl steroids,glycosteroids,5alpha-cardenolide glycoside,steroid glycoside,sterol glycoside,steroid glycosides
+116	benzofuran	mancude organic heterobicyclic parents,mancude organic heterobicyclic parent,benzofurans,mancude-ring organic heterobicyclic parents
+117	aldohexose	hexose,hexoses,aldoses,aldose
+118	propanal	alpha-ch2-containing aldehydes,alpha-methylene aldehyde,alpha-methylene aldehydes,alpha-ch2-containing aldehyde,propanals
+119	nitrobenzene	nitroarenes,nitrobenzenes,nitroarene
+120	estrone	17-keto steroids,17-oxo steroid,3-hydroxy steroids,3-hydroxy steroid,17-ketosteroids,17-oxo steroids
+121	lycopene	acyclic carotene,acyclic carotenes
+122	buffer	chemical role
+123	arsenate	arsenic oxoanions,oxoanions of arsenic,arsenic oxoanion
+124	trypsin	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+125	boron trifluoride	boron fluoride,boron fluorides
+126	potassium nitrate	inorganic nitrate salts,inorganic nitrates,potassium salt,inorganic nitrate salt,kaliumsalz,kaliumsalze,potassium salts
+127	uracil	pyrimidine bases,pyrimidine nucleobases,pyrimidine nucleobase,pyrimidones,pyrimidone
+128	glycogen	glycogens
+129	carotenoid	tetraterpenoid,tetraterpenoides
+130	triglyceride	acylglycerols,glyceride,glycerides
+131	raffinose	raffinose family oligosaccharides,trisaccharide,raffinose family oligosaccharide,trisaccharides
+132	lactate	hydroxymonocarboxylic acid anion,hydroxymonocarboxylic acid anions,hydroxy monocarboxylic acid anion,hydroxy monocarboxylic acid anions
+133	ferritin	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+134	deoxyribonucleic acid	acidos nucleicos,acides nucleiques,acido nucleico,na,nukleinsaeuren,nukleinsaeure,acide nucleique,nucleic acid
+135	inosine	inosines
+136	tyramine	monoamines,primary amino compounds,monamines,tyramines,monoamine molecular messenger,primary amino compound
+137	ribonucleic acid	acidos nucleicos,acides nucleiques,acido nucleico,na,nukleinsaeuren,nukleinsaeure,acide nucleique,nucleic acid
+138	glycolic acid	primary alcohols,primary alcohol,2-hydroxy monocarboxylic acid,2-hydroxy monocarboxylic acids,2-hydroxy acid
+139	chlorpyrifos	chloropyridine,organic thiophosphate,organic thiophosphates,chloropyridines
+140	hypochlorous acid	chlorine oxoacid,ros,reactive oxygen species,chlorine oxoacids
+141	superoxide	oxygen radical,inorganic radical anions,diatomic oxygen,reactive oxygen species,inorganic radical anion,oxygen radicals,inorganic anion radical,ros
+142	alkene	acyclic olefin,acyclic olefins
+143	collagen	polymer,kunststoff
+144	aldehyde	carbonyl compound
+145	ferricyanide	iron coordination compounds,iron coordination entity,iron coordination entities
+146	tartrate	tetraric acid anions,tetrarates,tetrarate,tetraric acid anion
+147	carbon monoxide	one-carbon compounds,oxides of carbon,carbon oxide,carbon oxides,one-carbon compound
+148	acetic acid	monocarboxylic acid,monocarboxylic acids
+149	histidine	alpha-amino acid,alpha-amino acids,imidazoles
+150	carbamic acid	one-carbon compounds,oxoacids of carbon,carbon oxoacid,organonitrogen compound,organonitrogens,carbon oxoacids,one-carbon compound
+151	flavone	2-arylchromen-4-one,2-arylchromen-4-ones,2-aryl-1-benzopyran-4-one,flavones,2-aryl-1-benzopyran-4-ones
+152	transfer rna	ribonucleic acids,ribose nucleic acid,ribonukleinsaeure,rns,yeast nucleic acid,ribonucleic acid
+153	maltose	maltooligosaccharide,1,4-alpha-d-glucooligosaccharide,maltooligosaccharides,(1->4)-alpha-d-glucooligosaccharides,glycosylglucose,glycosylglucoses
+154	nitric acid	nitrogen oxoacid,oxoacids of nitrogen,nitrogen oxoacids
+155	ammonium nitrate	inorganic molecular entity,inorganic molecular entities,ammoniumsalz,ammoniumsalze,inorganic entity,ammonium salts,inorganic nitrate salts,inorganic nitrates,inorganic compounds,ammonium salt,inorganic nitrate salt,anorganische verbindungen,inorganics
+156	hydroxide	oxygen hydrides,oxygen hydride,hydrides of oxygen
+157	glucoside	hexosides,hexoside
+158	carbon dioxide	one-carbon compounds,oxides of carbon,carbon oxide,carbon oxides,one-carbon compound
+159	insecticide	pesticide,pestizide,pestizid,pesticides
+160	stachyose	raffinose family oligosaccharides,tetrasaccharide,tetrasaccharides,raffinose family oligosaccharide
+161	xanthophyll	carotenoids,carotenoid
+162	putrescine	alkane-alpha,omega-diamines,alkane-alpha,omega-diamine
+163	strychnine	monoterpenoid indole alkaloids,monoterpenoid indole alkaloid
+164	potassium bromide	potassium salts,kaliumsalz,kaliumsalze,potassium salt
+165	flavin	benzopteridines,benzopteridine
+166	parathion	organophosphorothioate insecticide,organothiophosphate insecticide,organothiophosphate insecticides,organic thiophosphate,organic thiophosphates,c-nitro compound
+167	digitoxin	cardenolide glycosides,cardenolide glycoside,cardiac glycosides,5beta-cardenolide glycoside,5alpha-cardenolide glycoside
+168	thrombin	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+169	iodic acid	iodine oxoacids,iodine oxoacid
+170	pantothenic acid	pantothenic acids
+171	acrylamide	acrylamides
+172	chlorine dioxide	inorganic radicals,chlorine oxides,inorganic radical,chlorine oxide
+173	manganic acid	manganese oxoacid,manganese oxoacids
+174	base	chemical role
+175	iodothyronine	phenols,iodoamino acids,iodoamino acid
+176	dichromic acid	chromium oxoacids,chromium oxoacid,oxoacids of chromium
+177	methyl salicylate	salicylates,benzoic acid esters,benzoate ester,benzoate esters
+178	galactose	aldohexoses,aldohexose
+179	naphthol	naphthol,naphthols,monohydroxynaphthalenes
+180	hdl cholesterol	lipoprotein cholesterol
+181	citric acid	tricarbonsaeure,tricarboxylic acids,trikarbonsaeure,tricarboxylic acid
+182	ricinoleic acid	straight-chain fatty acid,straight-chain fatty acids,long-chain fatty acid,mufas,monounsaturated fatty acid,monounsaturated fatty acids,hydroxy fatty acids,mufa,long-chain fatty acids,hydroxy fatty acid,lcfa,lcfas
+183	indene	ortho-fused bicyclic hydrocarbons,ortho-fused bicyclic hydrocarbon
+184	cyanide	pseudohalogen anion,pseudohalogen ion,pseudohalide anions,pseudohalides,pseudohalide anion
+185	pyridine	mancude organic heteromonocyclic parent,mancude organic heteromonocyclic parents,mancude-ring organic heteromonocyclic parents,azaarene,monocyclic heteroarene,pyridines,monocyclic heteroarenes,azaarenes
+186	dextrin	dextrins
+187	chromic acid	chromium oxoacids,chromium oxoacid,oxoacids of chromium
+188	potassium cyanide	one-carbon compounds,cyanide salt,one-carbon compound,cyanide salts
+189	succinic acid	alpha,omega-dicarboxylic acid,c4-dicarboxylic acid,c4-dicarboxylic acids,alpha,omega-dicarboxylic acids
+190	paraldehyde	trioxane,trioxanes
+191	vanillin	phenols,benzaldehydes
+192	fluoroform	one-carbon compounds,fluoromethanes,one-carbon compound
+193	thymol	monoterpenoid,phenols,monoterpenoids
+194	tripalmitin	triglycerides,triglyceride,triglyzerid,triglycerid
+195	caproic acid	medium-chain fatty acids,medium-chain fatty acid,mcfas,straight-chain saturated fatty acid,mcfa,straight-chain saturated fatty acids
+196	catechin	hydroxyflavan,hydroxyflavans,flavanols
+197	cyanuric acid	1,3,5-triazines,s-triazines
+198	silicone	polysiloxane,polysiloxane polymer,polysiloxanes
+199	threonine	2-amino-3-hydroxybutanoic acid
+200	calcium oxide	calcium oxides
+201	xanthine	oxopurine,oxopurines,purine nucleobases,oxypurines,purine nucleobase,purine bases
+202	carbonate	oxocarbon anion,carbon oxoanions,oxocarbon anions,carbon oxoanion
+203	bromide	halogen anion,atomic bromine,halides,halide anion,monoatomic bromine,halide(1-),halide anions
+204	neurotransmitter	molecular messenger,chemical messenger
+205	glucose	d-glucose,glucopyranose
+206	halite	kochsalz,natrii chloridum,halides,halide mineral,cloruro sodico,sodium chloride,halide minerals,chlorure de sodium
+207	wax	chemical substance,chemische substanz
+208	glutamic acid	alpha-amino acid,alpha-amino acids
+209	serotonin	monoamines,phenols,primary amino compounds,monamines,monoamine molecular messenger,primary amino compound,tryptamines
+210	magnesium hydroxide	alkaline earth hydroxides,magnesium molecular entity,alkaline-earth hydroxides,alkaline earth base,alkaline-earth bases,alkaline earth bases,magnesium molecular entities,magnesium compounds,alkaline earth hydroxide
+211	formaldehyde	one-carbon compounds,aldehydes,aldehidos,aldehido,aldehyd,aldehydum,aldehyde,one-carbon compound
+212	pentose	monosacarido,monosacharid,monosaccharid,monosaccharide
+213	tungstate	tungsten oxoanion,tungsten oxoanions,divalent inorganic anion,divalent inorganic anions
+214	pyrogallol	benzenetriol,benzenetriols,trihydroxybenzenes,benzene triols
+215	amide	nitrogen compounds,nitrogen molecular entity,nitrogen molecular entities
+216	provitamin	grouped_by_functions,biological role,biological function
+217	cysteine	alpha-amino acid,alpha-amino acids,sulfur amino acids,sulfur-containing amino acid,sulfur-containing amino acids
+218	quinone	organic entity,organic compounds,organic molecular entities,organic molecular entity,organic molecules,cyclic ketone
+219	nucleic acid	polynucleotides,polynucleotide
+220	sulfonic acid	sulfur oxoacids,oxoacids of sulfur,sulfur oxoacid
+221	sodium fluoride	fluoride salt,fluorides,fluoride salts
+222	acetylene	terminal acetylenic compound,c#c-h containing compounds,terminal acetylenic compounds,alkynes,c#ch containing compound,alkyne,c#ch containing compounds,c#c-h containing compound
+223	juniperic acid	long-chain fatty acid,omega-hydroxy fatty acids,omega-hydroxy fatty acid,long-chain fatty acids,lcfa,lcfas
+224	butadiene	alkadiene,alkadienes
+225	saturated fatty acid	fatty acids,fettsaeuren,acidos grasos,fatty acid,acido graso,fettsaeure,acide gras
+226	monoamine	aralkylamino compounds,aralkylamino compound
+227	malathion	organophosphorothioate insecticide,organothiophosphate insecticide,organothiophosphate insecticides,carboxyalkyl phosphate,organic thiophosphate,organic thiophosphates,carboxyalkyl phosphates
+228	cadaverine	alkane-alpha,omega-diamines,alkane-alpha,omega-diamine
+229	sebacic acid	alpha,omega-dicarboxylic acid,alpha,omega-dicarboxylic acids
+230	hexose	monosacarido,monosacharid,monosaccharid,monosaccharide
+231	calcium hydroxide	alkaline earth hydroxides,calcium molecular entity,alkaline-earth hydroxides,calcium molecular entities,alkaline earth base,alkaline-earth bases,alkaline earth bases,calcium compounds,alkaline earth hydroxide
+232	ammonium chloride	inorganic chloride salt,ammoniumsalze,ammoniumsalz,ammonium salts,inorganic chlorides,ammonium salt,inorganic chloride,inorganic chloride salts
+233	urobilinogen	bilanes,bilinogen
+234	citrulline	citrullines
+235	peroxidase	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+236	cofactor	biochemical role
+237	proline	alpha-amino acid,tetrahydropyrroles,alpha-amino acids,pyrrolidines
+238	serine	alpha-amino acid,alpha-amino acids
+239	limonene	monoterpene,monoterpen
+240	bromoform	one-carbon compounds,bromomethanes,one-carbon compound
+241	sulfonate	oxoanions of sulfur,sulfur oxoanions,sulfur oxoanion
+242	oleic acid	18:1, n-9,9-octadecenoic acid,c18:1, n-9,octadec-9-enoic acid
+243	hydroxyproline	hydroxypyrrolidine,proline derivative,pyrrolidinemonocarboxylic acid,hydroxy-amino acids,pyrrolidinemonocarboxylic acids,hydroxy-amino acid,proline derivatives,hydroxypyrrolidines
+244	oligosaccharide	glucidos,glucide,hydrates de carbone,kohlenhydrat,glucido,saccharidum,carbohydrate,glucides,kohlenhydrate
+245	furan	monocyclic heteroarene,furans,monocyclic heteroarenes,mancude organic heteromonocyclic parents,mancude-ring organic heteromonocyclic parents,oxacyclopenta-2,4-dienes,mancude organic heteromonocyclic parent
+246	acetaldehyde	aldehydes,aldehyde,aldehido,aldehydum,aldehyd,aldehidos
+247	nucleotide	nucleoside phosphate,nucleoside phosphates
+248	lysergic acid	ergoline alkaloid,ergoline alkaloids
+249	polyester	polymer,kunststoff
+250	adenine	purine bases,6-aminopurines,purine nucleobase,purine nucleobases
+251	hemoprotein	iron proteins,iron-containing proteins,iron protein
+252	salt	heteroatomic molecular entity,heteroatomic molecular entities,chemical compound
+253	aspartic acid	alpha-amino acid,alpha-amino acids,c4-dicarboxylic acid,c4-dicarboxylic acids
+254	barbituric acid	barbiturates,barbituric acids
+255	bromic acid	bromine oxoacids,bromine oxoacid
+256	defoliant	herbicides,herbizid,unkrautbekaempfungsmittel,wildkrautbekaempfungsmittel,herbicide,unkrautvertilgungsmittel
+257	hydride	monoatomic hydrogen,atomic hydrogen
+258	hydrogen bromide	hydrogen halides,mononuclear parent hydride,hydrogen halide,mononuclear hydride
+259	hydrogen chloride	chlorine molecular entity,hydrogen halides,chlorine molecular entities,mononuclear hydride,mononuclear parent hydride,hydrogen halide,chlorine compounds
+260	aromatic compound	cyclic compounds,cyclic compound
+261	hydroxybutyric acid	hydroxy fatty acids,hydroxy fatty acid
+262	iodide	halogen anion,halides,halide anion,halide(1-),atomic iodine,monoatomic iodine,halide anions
+263	linalool	monoterpenoid,tertiary alcohol,monoterpenoids,tertiary alcohols
+264	scabicide	akarizid,acaricides,miticide,acaricide,akarizide
+265	picric acid	c-nitro compound
+266	tubocurarine	benzylisoquinoline alkaloids,benzylisoquinoline alkaloid
+267	iodotyrosine	l-tyrosine derivative,iodoamino acids,iodoamino acid,l-tyrosine derivatives,tyrosine derivatives
+268	peptide	primary carboxamide,organic amino compounds,carboxamide,carboxamides,organic amino compound
+269	physostigmine	carbamate esters,carbamates,carbamate ester,indole alkaloid,indole alkaloids
+270	histone	protein
+271	silicic acid	oxoacids of silicon,silicon oxoacids,silicic acids,silicon oxoacid
+272	pediculicide	insecticides,insecticide
+273	dopa	hydroxyphenylalanine,hydroxyphenylalanines
+274	thiouracil	nucleobase analogs,nucleobase analogue,base analog,thiocarbonyl compounds,nucleobase analog,base analogs,nucleobase analogues,base analogues,thiocarbonyl compound,base analogue
+275	chlorobenzene	monochlorobenzenes
+276	sodium carbonate	carbonate salts,organic sodium salts,carbonate salt,organic sodium salt
+277	methacrylic acid	2,3-unsaturated monocarboxylic acid,2,3-unsaturated monocarboxylic acids,alpha,beta-unsaturated monocarboxylic acids,alpha,beta-unsaturated monocarboxylic acid
+278	peroxide	diatomic oxygen
+279	thyronine	tyrosine derivative,phenols,tyrosine derivatives
+280	chlorous acid	chlorine oxoacid,chlorine oxoacids
+281	alanine	alpha-amino acid,alpha-amino acids
+282	dopamine	catecholamines,catecholamine
+283	cresol	hydroxytoluenes,hydroxytoluene
+284	monosaccharide	glucidos,glucide,hydrates de carbone,kohlenhydrat,glucido,saccharidum,carbohydrate,glucides,kohlenhydrate
+285	explosive compound	chemical role
+286	arsenic acid	arsenic oxoacids,arsenic oxoacid,oxoacids of arsenic
+287	hydrocarbon	organic parent hydrides,organic fundamental parents,organic fundamental parent
+288	carbamate	amino-acid anion,amino acid anions,amino-acid anions
+289	perboric acid	boric acids
+290	azide	nitrogen compounds,nitrogen molecular entity,nitrogen molecular entities
+291	zeolite	aluminosilicate mineral,alumosilikat,alumosilikate,aluminosilicato,aluminosilicate minerals,aluminosilicates
+292	cadmium sulfide	cadmium molecular entities,cadmium compounds,cadmium molecular entity
+293	sodium hydroxide	alkali metal base,alkali metal hydroxides,alkali metal bases,alkali metal hydroxide
+294	methionine	alpha-amino acid,alpha-amino acids,sulfur amino acids,sulfur-containing amino acid,sulfur-containing amino acids
+295	nucleoside	nucleobase-containing compounds,nucleobase-containing molecular entity,n-glycosyl compound,nucleobase-containing molecular entities,n-glycoside,n-glycosides,oxolanes,tetrahydrofurans,n-glycosyl compounds
+296	glutamine	alpha-amino acid,alpha-amino acids
+297	triolein	triglycerides,triglyceride,triglyzerid,triglycerid
+298	stearin	triglycerides,triglyceride,triglyzerid,triglycerid
+299	saponin	glycoside,o-glycoside,o-glycosides,glycosides
+300	explosive	chemical role
+301	sorbic acid	alpha,beta-unsaturated monocarboxylic acid,medium-chain fatty acids,medium-chain fatty acid,mcfas,polyunsaturated fatty acid,hexadienoic acid,polyunsaturated fatty acids,pufas,2,3-unsaturated monocarboxylic acids,hexadienoic acids,2,3-unsaturated monocarboxylic acid,mcfa,pufa,alpha,beta-unsaturated monocarboxylic acids
+302	creatine	guanidines,glycine derivatives,glycine derivative
+303	propionic acid	short-chain fatty acid,saturated fatty acids,scfas,saturated fatty acid,sfas,short-chain fatty acids,scfa,sfa
+304	siloxane	silicon molecular entities,silicon molecular entity,silicon compounds
+305	titanium dioxide	titanium molecular entity,titanium compounds,titanium molecular entities
+306	steroid	organic polycyclic compounds,lipid,organic polycyclic compound
+307	lecithin	mixture,mischung
+308	glyceride	glycerolipid,glycerolipids
+309	butane	alkan,alkane
+310	hydrate	addition compounds,addition compound
+311	naphthalene	ortho-fused bicyclic arene,naphthalenes,ortho-fused bicyclic arenes
+312	lignin	polyphenylpropanoid,polyphenylpropanoids
+313	sulfur oxide	inorganic oxide,sulfur molecular entities,sulfur molecular entity,inorganic oxides,sulfur compounds
+314	sulfur dioxide	oxides of sulfur,schwefeloxide,sulfur oxide,sulfur oxides
+315	hydroxy acid	monocarboxylic acid,hydroxyacids,hydroxy carboxylic acids,hydroxy carboxylic acid,monocarboxylic acids
+316	fulminate	pseudohalogen anion,pseudohalogen ion,pseudohalide anions,pseudohalides,pseudohalide anion
+317	hydrogen sulfide	sulphur hydrides,sulfur hydride,sulfur hydrides,mononuclear hydride,hydracid,mononuclear parent hydride,hydracids,hydrides of sulfur
+318	saccharic acid	hexaric acid,hexaric acids
+319	trichloroethylene	chloroethylenes,chloroethenes
+320	iodoform	iodomethanes,one-carbon compounds,one-carbon compound
+321	arginine	alpha-amino acid,alpha-amino acids
+322	histamine	imidazoles,aralkylamino compounds,aralkylamino compound
+323	glyceric acid	aldotrionic acids,trionic acids,trionic acid
+324	acetyl chloride	acyl chloride,acid chloride,acyl chlorides
+325	furfural	aldehydes,furans,aldehidos,aldehido,aldehyd,oxacyclopenta-2,4-dienes,aldehydum,aldehyde
+326	cyanamide	nitrile,nitril,one-carbon compounds,one-carbon compound
+327	guanine	oxopurine,oxopurines,purine nucleobases,oxypurines,purine nucleobase,purine bases,2-aminopurines
+328	arsenic	nitrogenoideos,pnictogene,group 15 elements,pnictogenes,group v elements,nitrogenoides,pnictogen
+329	ether	organooxygen compound,organooxygen compounds
+330	gypsum	calcium sulfate dihydrate
+331	acetoacetic acid	ketone bodies,ketone body,3-oxo monocarboxylic acids,3-oxo monocarboxylic acid
+332	rotenone	rotenones,organic heteropentacyclic compounds,organic heteropentacyclic compound
+333	taurine	amino sulfonic acid,aminosulfonic acids,aminosulfonic acid,amino sulfonic acids
+334	sulfur hexafluoride	sulfur coordination compounds,sulfur coordination entity,sulfur coordination entities
+335	acetic anhydride	acyclic carboxylic anhydride,acyclic carboxylic anhydrides
+336	perchlorate	chlorine oxoanions,monovalent inorganic anions,chlorine oxoanion,monovalent inorganic anion
+337	maleic acid	butenedioic acid,2-butenedioic acid
+338	linolenic acid	omega-3 fatty acids,n-3 fatty acids,c18:3,n-3 fatty acid,omega-3 fatty acid,linolenic acids,linolenic acid,linolensaeure
+339	heptane	alkan,alkane
+340	lead arsenate	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+341	flavonoid	flavonoids,flavonoid
+342	melamine	triamino-1,3,5-triazines,triamino-1,3,5-triazine
+343	manganate	manganese oxoanions,manganese oxoanion,divalent inorganic anion,divalent inorganic anions
+344	pesticide	application
+345	glyceraldehyde	aldotriose,aldotrioses
+346	borate	borate anions,borate ions,borate ion
+347	ozonide	inorganic radical anion,inorganic radical anions,triatomic oxygen,inorganic anion radical
+348	carbon disulfide	one-carbon compounds,organosulfur compound,one-carbon compound,organosulfur compounds
+349	terpene	isoprenoids,isoprenoid,kohlenwasserstoffe,kohlenwasserstoff,hydrocarbon
+350	sarcosine	n-methylglycines,n-alkylglycine,n-alkylglycines,n-methyl-amino acid,n-methyl-amino acids
+351	fulminic acid	one-carbon compounds,nitrile oxide,hydracid,hydracids,one-carbon compound,nitrile oxides
+352	tristearin	triglycerides,triglyceride,triglyzerid,triglycerid
+353	vinyl polymer	polyethylene polymer,poly(ethylene)s,polyethylene,polyethylenes,poly(ethene)s
+354	silicon carbide	organosilicon compounds,organosilicon compound,silicoorganic compounds
+355	polysaccharide	glucidos,biomacromolecule,glucide,hydrates de carbone,biopolymere,kohlenhydrat,glucido,saccharidum,carbohydrate,glucides,biomacromolecules,biopolymers,kohlenhydrate
+356	polymer	mixture,mischung
+357	ergotamine	peptide ergot alkaloid,peptide ergot alkaloids
+358	alkaloid	organonitrogen compound,organonitrogens
+359	sodium dichromate	inorganic sodium salts,inorganic sodium salt
+360	magnesium carbonate	one-carbon compounds,magnesium salt,carbonate salt,carbonate salts,magnesium salts,one-carbon compound
+361	bactericide	microbicide,antimicrobials,antimicrobial agent,microbicides,antimicrobial
+362	sterol	3-hydroxy steroids,3-hydroxy steroid
+363	formic acid	monocarboxylic acid,monocarboxylic acids
+364	phthalic anhydride	cyclic carboxylic anhydride,cyclic dicarboxylic anhydride,cyclic carboxylic acid anhydrides,2-benzofurans,cyclic dicarboxylic anhydrides
+365	calcium phosphate	kalziumsalz,kalziumsalze,inorganic phosphates,inorganic phosphate,calcium salt,calcium salts
+366	protein	genetically encoded biopolymers,information macromolecule,information biomacromolecule,genetically encoded biomacromolecules,information biopolymers,information biomacromolecules,information macromolecules
+367	butyric acid	short-chain fatty acid,scfas,straight-chain saturated fatty acid,straight-chain saturated fatty acids,short-chain fatty acids,scfa
+368	monounsaturated fatty acid	alkene acid,unsaturated fatty acids,olefinic acid,unsaturated fatty acid
+369	prothrombin	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+370	cerotic acid	very long-chain fatty acid,straight-chain saturated fatty acid,very long-chain fatty acids,vlcfa,vlcfas,higher fatty acid,straight-chain saturated fatty acids
+371	fluorocarbon	organofluorine compound,fluoroorganic compound,fluoroorganic compounds,organofluorine compounds,fluoroorganics,fluororganische verbindungen
+372	ester	organooxygen compound,organooxygen compounds
+373	calcium sulphate	kalziumsalze,calcium salt,kalziumsalz,calcium salts
+374	linoleic acid	omega-6 fatty acid,18:2,octadecadienoic acid,c18:2,omega-6 fatty acids
+375	heterocyclic compound	cyclic compounds,cyclic compound
+376	chloroform	one-carbon compounds,chloromethanes,one-carbon compound
+377	aminobenzoic acid	benzoic acids,aromatic amino acids,aromatic amino acid
+378	cyanic acid	one-carbon compounds,pseudohalogen oxoacid,pseudohalogen oxoacids,one-carbon compound
+379	cytochrome c	cytochromes,cytochrome
+380	aliphatic compound	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+381	calcium cyanamide	kalziumsalze,calcium salt,kalziumsalz,calcium salts
+382	camphor	bornanes,bornane monoterpenoid,cyclic monoterpene ketones,cyclic monoterpene ketone,bornane monoterpenoids
+383	cytosine	pyrimidones,pyrimidone,aminopyrimidine,pyrimidine nucleobase,pyrimidine bases,pyrimidine nucleobases,aminopyrimidines
+384	glycine	3-phosphoglycerate family amino acids,alpha-amino acids,proteinogenic amino acid,canonical amino acids,serine family amino acid,alpha-amino acid,canonical amino acid,3-phosphoglycerate family amino acid,serine family amino acids,proteinogenic amino acids
+385	essential oil	plant metabolite,plant secondary metabolites,plant metabolites
+386	bile salt	organic sodium salts,cholanoids,cholanoid,organic sodium salt
+387	fibrin	peptidos,peptid,peptide,peptido
+388	chloric acid	chlorine oxoacid,chlorine oxoacids
+389	globin	hemoprotein,haemprotein,haemoprotein,heme protein,hemoproteins
+390	phospholipid	lipid,organophosphate esters,organic phosphate ester,organic phosphates,organophosphate ester,phosphoric ester,organic phosphate,phosphoric esters,phosphate esters,organic phosphate esters
+391	boric acid	boric acids
+392	benzoate	benzoates,benzoate anion
+393	tetrose	monosacarido,monosacharid,monosaccharid,monosaccharide
+394	ferrocyanide	iron coordination compounds,iron coordination entity,iron coordination entities
+395	undecylenic acid	straight-chain fatty acid,straight-chain fatty acids,medium-chain fatty acids,mufas,monounsaturated fatty acid,medium-chain fatty acid,mcfas,mufa,mcfa,monounsaturated fatty acids
+396	acetone	methyl ketone,propanones,propanone,ketone bodies,ketone body,methyl ketones
+397	toluene	toluenes
+398	atrazine	diamino-1,3,5-triazines,diamino-1,3,5-triazine,chloro-1,3,5-triazine,chloro-1,3,5-triazines
+399	pregnanediol	corticosteroid hormones,adrenal cortex hormones,corticosteroid hormone
+400	fixative	grouped_by_functions,biological role,biological function
+401	permanganate	manganese oxoanions,manganese oxoanion,monovalent inorganic anions,monovalent inorganic anion
+402	chitin	aminoglycan,n-acylglucosamine,n-acyl-d-glucosamines,n-acylglucosamines,aminoglycans
+403	oxime	organic entity,nitrogen molecular entities,organic compounds,organic molecular entities,nitrogen compounds,organic molecular entity,organic molecules,nitrogen molecular entity
+404	hydrogen fluoride	hydrogen halides,mononuclear parent hydride,hydrogen halide,mononuclear hydride
+405	valine	alpha-amino acid,branched chain amino acids,branched-chain amino acid,alpha-amino acids
+406	hemiacetal	alcohol
+407	acetal	organooxygen compound,organooxygen compounds
+408	pyrene	ortho- and peri-fused polycyclic arenes,ortho- and peri-fused polycyclic arene
+409	ubiquinone	mitoquinones,coenzym q,coenzyme q,ubichinon,koenzym q,mitochondrial ubiquinone,ubiquinones,mitochondrial ubiquinones,coenzymes q
+410	thiocyanic acid	hydracid,one-carbon compounds,hydracids,one-carbon compound
+411	triazine	mancude organic heteromonocyclic parent,mancude organic heteromonocyclic parents,mancude-ring organic heteromonocyclic parents,azaarene,monocyclic heteroarene,monocyclic heteroarenes,azaarenes,triazines
+412	chloroprene	chloroolefin,chloroolefins
+413	triphosphoric acid	phosphorus oxoacid,acyclic phosphorus acid anhydrides,oxosaeure des phosphors,acyclic phosphorus acid anhydride,phosphorus oxoacids,oxoacids of phosphorus
+414	glucosamine	glucosamines
+415	fluoride	halogen anion,monoatomic fluorine,atomic fluorine,halides,halide anion,halide(1-),halide anions
+416	amine	organic amino compounds,organic amino compound
+417	benzene	aromatic annulene,benzenes,aromatic annulenes
+418	glycoprotein	derivatised carbohydrate,derivatised carbohydrates,derivatized carbohydrate,carbohydrate derivative,derivatized carbohydrates,conjugated protein,carbohydrate derivatives
+419	iodoamino acid	organoiodine compounds,haloamino acid,organoiodine compound,haloamino acids
+420	nitrous acid	nitrogen oxoacid,oxoacids of nitrogen,nitrogen oxoacids
+421	hydroxybenzoic acid	benzoic acids,phenols
+422	phenylalanine	alpha-amino acid,alpha-amino acids,aromatic amino acid,aromatic amino acids
+423	tungstic acid	tungsten coordination entities,tungsten coordination compounds,tungsten coordination entity
+424	carboxylic acid	organic acid,oxoacids of carbon,carbon oxoacid,organic acids,carbonyl compound,carbon oxoacids
+425	itaconic acid	dicarboxylic acid,dicarboxylic acids
+426	octane	alkan,alkane
+427	ergosterol	3beta-hydroxysteroids,3beta-sterols,3beta-sterol,ergostanoid,phytosterols
+428	detergent	application,surfactants,surfactant
+429	nitrate	monovalent inorganic anions,nitrogen oxoanion,reactive nitrogen species,oxoanions of nitrogen,nitrogen oxoanions,monovalent inorganic anion
+430	phosphine	phosphorus compounds,phosphorus molecular entities,phosphorus molecular entity
+431	conjugated protein	protein
+432	imidazole	monocyclic heteroarenes,mancude organic heteromonocyclic parents,mancude-ring organic heteromonocyclic parents,monocyclic heteroarene,mancude organic heteromonocyclic parent,imidazoles
+433	epoxy	gruppe,group,rest
+434	docosahexaenoic acid	long-chain fatty acid,polyunsaturated fatty acid,polyunsaturated fatty acids,lcfas,long-chain fatty acids,pufas,lcfa,pufa
+435	calcium hypochlorite	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+436	sodium phosphate	natriumsalz,inorganic phosphates,inorganic phosphate,sodium salts,natriumsalze,sodium salt
+437	acetamide	acetamides
+438	heparin	heparins
+439	benzoin	benzoins
+440	nitrogen dioxide	oxides of nitrogen,nitrogen oxides,nitrogen oxide
+441	selenic acid	selenium oxoacids,selenium oxoacid,oxoacids of selenium
+442	magnesium sulfate	magnesium salts,magnesium salt,metal sulfates,metal sulfate
+443	calcium nitrate	kalziumsalze,inorganic nitrate salts,inorganic nitrates,inorganic nitrate salt,kalziumsalz,calcium salt,calcium salts
+444	carrier	food additive,food additives
+445	scopolamine	tertiary amino compound,epoxide,propanoate esters,tertiary amino compounds,tropane alkaloids,tropane alkaloid,tropanes,epoxides,propanoate ester
+446	tannin	polyphenol,polyphenols
+447	trisaccharide	o-glycosylglycosides,oligosaccharide,oligosacarido,o-glycosylglycoside
+448	thiocyanate	pseudohalides,pseudohalide anion,sulfur molecular entity,pseudohalogen anion,pseudohalogen ion,sulfur compounds,pseudohalide anions,sulfur molecular entities
+449	ldl cholesterol	lipoprotein cholesterol
+450	triose	monosacarido,monosacharid,monosaccharid,monosaccharide
+451	amino acid	organic amino compounds,carbonsaeure,carbonsaeuren,karbonsaeure,organic amino compound,carboxylic acid
+452	erythropoietin	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+453	nitrogen trichloride	nitrogen halide,nitrogen halides
+454	asparagine	alpha-amino acid,dicarboxylic acid monoamide,alpha-amino acids,dicarboxylic acid monoamides
+455	butanone	ketones,ketone,cetone,keton
+456	nicotine	pyridine alkaloids,pyridine alkaloid,pyrrolidine alkaloid,pyrrolidine alkaloids,n-alkylpyrrolidines,n-alkylpyrrolidine
+457	pyrimidine	pyrimidines,diazin,diazine
+458	carbonic acid	chalcocarbonic acid,carbon oxoacids,oxoacids of carbon,carbon oxoacid,chalcocarbonic acids
+459	isoleucine	2-amino-3-methylpentanoic acid
+460	purine	mancude organic heterobicyclic parents,mancude organic heterobicyclic parent,mancude-ring organic heterobicyclic parents,purines
+461	salicylate	monohydroxybenzoate,monohydroxybenzoates
+462	acaricide	pesticide,pestizide,pestizid,pesticides
+463	nitrogen mustard	organonitrogen compound,organonitrogens
+464	styrene	acyclic olefin,styrenes,vinylarene,acyclic olefins
+465	alkyl halide	halohydrocarbon,halogenated hydrocarbons,halohydrocarbons
+466	benzoyl peroxide	carbonyl compound
+467	ricin	organic compounds,organic molecules,organic entity,organic molecular entities,organic molecular entity
+468	halide	heteroatomic molecular entity,heteroatomic molecular entities,halogen molecular entity,halogen compounds,chemical compound,halogen molecular entities
+469	sodium hypochlorite	inorganic sodium salts,inorganic sodium salt
+470	trichloroacetic acid	monocarboxylic acids,organochlorine compound,monocarboxylic acid,chloroorganic compounds,organochlorine compounds,chlororganische verbindungen
+471	ketohexose	ketose,hexoses,hexose,ketoses
+472	tyrosine	alpha-amino acid,alpha-amino acids,aromatic amino acid,aromatic amino acids
+473	nitride	nitrogen compounds,nitrogen molecular entity,nitrogen molecular entities
+474	phosphoric acid	phosphoric acids
+475	polyethylene	poly(alkylene) polymer,poly(alkylene)
+476	suberic acid	alpha,omega-dicarboxylic acid,alpha,omega-dicarboxylic acids
+477	cinchonine	quinolin-4-yl-((1s,4s,5r)-5-vinyl-1-aza-bicyclo[2.2.2]oct-2-yl)-methanol,cinchona alkaloid,(8xi)-cinchonan-9-ol,cinchona alkaloids
+478	carotene	tetraterpene
+479	tryptophan	aminoalkylindole,alpha-amino acids,aromatic amino acid,aminoalkylindoles,alpha-amino acid,indolalkylamines,aromatic amino acids
+480	linuron	dichlorbenzol,dichlorobenzene,ureas,dichlorobenzenes,urea derivatives
+481	brucine	monoterpenoid indole alkaloids,monoterpenoid indole alkaloid
+482	noradrenaline	catecholamines,catecholamine
+483	zinc oxide	zinc compounds,zinc molecular entity,zinc molecular entities
+484	chloropicrin	one-carbon compounds,c-nitro compound,one-carbon compound
+485	ketone	carbonyl compound
+486	phosphate	phosphoric acids,phosphoric acid derivative,phosphoric acid derivatives
+487	fatty acid	monocarboxylic acid,lipid,monocarboxylic acids
+488	adenosine	adenosines
+489	uric acid	oxopurine,oxopurines,oxypurines
+490	acetate	carboxylic acid esters,carboxylic ester
+491	carbohydrate	carbohydrates and carbohydrate derivatives,carbohydrates and their derivatives,carbohydrates and derivatives
+492	inulin	(2->1)-beta-d-fructan
+493	unsaturated fatty acid	fatty acids,fettsaeuren,acidos grasos,fatty acid,acido graso,fettsaeure,acide gras
+494	lansoprazole	sulfoxide,benzimidazoles,sulfoxides,pyridines
+495	hydrogen cyanide	hydracid,one-carbon compounds,hydracids,one-carbon compound
+496	rubber	polyalkylenevinylene,poly(alkylene vinylene),poly(alkylene vinylene) polymer,polyalkylene vinylenes,polyalkylene vinylene,polyalkylenevinylenes
+497	leucine	alpha-amino acid,branched chain amino acids,branched-chain amino acid,alpha-amino acids
+498	phenol	phenols
+499	atropine	racemate,racemates,racemic mixture,melange racemique
+500	oxyhemoglobin	hemoglobin,haemoglobin
+501	azadirachtin	limonoids,limonoid
+502	cystine	sulfur-containing amino acids,sulfur-containing amino acid,cysteine derivatives,organic disulfides,cysteine derivative,organic disulfide,sulfur amino acids
+503	glycoside	glycosyl compounds,glycosyl compound
+504	pilocarpine	xi,xi-pilocarpine
+505	zinc sulfate	zinc molecular entity,zinc compounds,metal sulfates,zinc molecular entities,metal sulfate
+506	plexiglas	polyacrylates,polyacrylic,poly(acrylic)s,homopolymer,acrylic polymer,poly(acrylics),polyacrylate
+507	hyponitrous acid	nitrogen oxoacid,oxoacids of nitrogen,nitrogen oxoacids
+508	ammonium	ammonium ion,onium ion,nitrogen hydride,ammonium ions,onium cation,onium ions,onium cations,azanium ions,monovalent inorganic cation,nitrogen hydrides
+509	sodium nitrate	inorganic sodium salts,inorganic nitrate salts,inorganic sodium salt,inorganic nitrate salt,inorganic nitrates
+510	phthalic acid	benzenedicarboxylic acid
+511	fructose	ketohexose,ketohexoses
+512	fertilizer	agrichemicals,agrichemical,agricultural chemicals,agrochemical,agrochemicals
+513	sodium cyanide	one-carbon compounds,cyanide salt,one-carbon compound,cyanide salts
+514	polyamide	polymer,kunststoff
+515	lactose	glycosylglucose,glycosylglucoses
+516	aldose	monosacarido,monosacharid,monosaccharid,monosaccharide
+517	caprylic acid	medium-chain fatty acids,medium-chain fatty acid,mcfas,straight-chain saturated fatty acid,mcfa,straight-chain saturated fatty acids
+518	urethane	carbamate esters,carbamates,carbamate ester
+519	ketose	monosacarido,monosacharid,monosaccharid,monosaccharide
+520	palmitic acid	long-chain fatty acid,straight-chain saturated fatty acid,long-chain fatty acids,lcfa,straight-chain saturated fatty acids,lcfas
+521	salicylic acid	monohydroxybenzoic acid,monohydroxybenzoic acids
+522	silica	oxides of silicon,silicon oxide,silicon oxides
+523	citrate	organisches salz,organic salt,organic salts

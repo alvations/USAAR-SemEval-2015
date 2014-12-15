@@ -1,0 +1,453 @@
+0	blintz	flapjack,flannel-cake,hot cake,hotcake,griddlecake,flapcake,pancake,battercake,flannel cake
+1	food colouring	foodstuff,food product
+2	baking chocolate	chocolate
+3	candy corn	confect,candy
+4	guava	fruit tree
+5	passion fruit	edible fruit
+6	milk	drinkable,beverage,dairy product,potable,drink
+7	vanilla bean	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+8	grape	edible fruit
+9	peanut	pod,seedpod
+10	tamarillo	bush,shrub
+11	jelly doughnut	raised doughnut
+12	melon	edible fruit
+13	white bread	breadstuff,staff of life,bread
+14	vanilla extract	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+15	pine nut	edible nut
+16	banana bread	quick bread
+17	chocolate cake	cake
+18	sparkling wine	vino,wine
+19	asparagus	herb,herbaceous plant
+20	coffee cake	cake
+21	chili dog	hot dog,red hot,hotdog
+22	vector	variable,variable quantity
+23	haggis	dish
+24	dip	imprint,impression,depression
+25	porridge	dish
+26	pork	meat
+27	beurre noisette	butter
+28	almond	almond tree
+29	millet	cereal grass,cereal
+30	currant	berry
+31	marinade	condiment
+32	boston cream pie	cake
+33	spaghetti	pasta
+34	port	geographical point,geographic point
+35	walnut oil	vegetable oil,oil
+36	garlic bread	breadstuff,staff of life,bread
+37	potato pancake	flapjack,flannel-cake,hot cake,hotcake,griddlecake,flapcake,pancake,battercake,flannel cake
+38	instant coffee	coffee,java
+39	tarragon	artemisia
+40	soup	dish
+41	oatcake	quick bread
+42	sangria	drink
+43	white wine	vino,wine
+44	spice cake	cake
+45	brown bread	breadstuff,staff of life,bread
+46	herb	tracheophyte,vascular plant
+47	water	liquid,binary compound
+48	peanut oil	vegetable oil,oil
+49	pancake	cake
+50	celery root	herb,herbaceous plant
+51	vinegar	condiment
+52	aioli	sauce
+53	lychee	edible fruit
+54	chicken soup	soup
+55	french toast	dish
+56	fiddlehead fern	osmund,flowering fern
+57	cinnamon	bark
+58	tomato paste	fixings,ingredient
+59	popcorn	maize,corn,Indian corn,Zea mays
+60	gai choi	mustard
+61	vegetable oil	edible fat
+62	apple	pome,edible fruit,false fruit
+63	crumpet	cake
+64	radish	cruciferous vegetable,root vegetable
+65	sherbet	frozen dessert
+66	borage	herb,herbaceous plant
+67	blush wine	vino,wine
+68	pound cake	cake,loaf
+69	lime	hydroxide,hydrated oxide
+70	special k	ketamine,Ketalar,ketamine hydrochloride
+71	rutabaga	turnip
+72	saveloy	pork sausage
+73	jelly bean	confect,candy
+74	yoghurt	food,dairy product,solid food
+75	whole wheat bread	breadstuff,staff of life,bread
+76	chestnut	wood
+77	mush	mass
+78	tangerine	mandarin,mandarin orange tree,Citrus reticulata,mandarin orange
+79	infusion	solution
+80	pecan	wood
+81	bean sprout	sprout
+82	kasha	hot cereal
+83	loquat	fruit tree
+84	candy bar	confect,candy
+85	whisky	hard drink,spirits,liquor,John Barleycorn,booze,hard liquor,strong drink
+86	honey	sweetening,sweetener
+87	water chestnut	hydrophyte,water plant,hydrophytic plant,aquatic plant
+88	donut	friedcake
+89	kola nut	nut
+90	potage	soup
+91	pumpkin	squash,squash vine
+92	pasta sauce	sauce
+93	zwieback	toast
+94	vodka	hard drink,spirits,liquor,John Barleycorn,booze,hard liquor,strong drink
+95	powdered milk	milk
+96	pork tenderloin	undercut,tenderloin
+97	bologna sausage	sausage
+98	matzo	breadstuff,staff of life,bread
+99	carrot	root
+100	lunch meat	loaf,cold cuts
+101	coconut milk	milk
+102	rhubarb	vegetable,veg,veggie
+103	yeast	leavening,leaven
+104	fudge	confect,candy
+105	cannelloni	pasta
+106	pizza	dish
+107	wedding cake	cake
+108	kohlrabi	crucifer,cruciferous plant
+109	tapioca pudding	pudding
+110	candy cane	confect,candy
+111	sponge cake	cake
+112	date	twenty-four hours,mean solar day,twenty-four hour period,solar day,day,24-hour interval
+113	salsa	condiment
+114	cabbage	cruciferous vegetable
+115	tomato	solanaceous vegetable
+116	almond extract	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+117	apple sauce	dish
+118	tonic water	soft drink
+119	bakery	shop,work,workplace,store
+120	suet	edible fat
+121	tahini	spread,paste
+122	egg	egg cell,ovum
+123	wine	alcoholic beverage,intoxicant,alcohol,alcoholic drink,inebriant
+124	rye	caryopsis,grain
+125	popsicle	frozen dessert
+126	muffin	quick bread
+127	apple butter	preserve,preserves,conserve,conserves
+128	dough	concoction,mixture,intermixture
+129	artichoke	vegetable
+130	christmas pudding	pudding
+131	chicory	root
+132	avocado	edible fruit
+133	walnut	edible nut
+134	fig	illustration
+135	orange	citrus,citrus fruit,citrous fruit
+136	pesto	sauce
+137	sauce	condiment
+138	coffee	drinkable,beverage,potable,drink
+139	food	substance
+140	sucker	dupe,victim
+141	cupcake	cake
+142	salt-rising bread	breadstuff,staff of life,bread
+143	ketchup	condiment
+144	bread	baked goods,starches
+145	coriander	herb,herbaceous plant
+146	greens	vegetable,veg,veggie
+147	thyme	herb,herbaceous plant
+148	cider	drinkable,beverage,potable,drink
+149	aniseed	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+150	upside-down cake	cake
+151	alfalfa sprout	sprout
+152	mead	
+153	angel food cake	sponge cake
+154	wheatgrass	grass
+155	rosemary	herb,herbaceous plant
+156	waffle	cake
+157	fennel seed	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+158	turnip	turnip plant
+159	graham bread	brown bread,dark bread,whole meal bread,whole wheat bread
+160	farfalle	pasta,alimentary paste
+161	corn flakes	dry cereal,cold cereal
+162	ice cream	frozen dessert
+163	side dish	dish
+164	plum	fruit tree
+165	condensed milk	milk
+166	tiramisu	dessert,afters,sweet
+167	amaranth	caryopsis,grain
+168	granola	dry cereal,cold cereal
+169	barley	food grain,grain,cereal
+170	grits	hot cereal
+171	cranberry sauce	condiment
+172	quince	fruit tree
+173	linguine	pasta,alimentary paste
+174	sunflower seed	edible seed
+175	coconut oil	vegetable oil,oil
+176	salami	sausage
+177	cherimoya	custard apple,custard apple tree
+178	lollipop	frozen dessert
+179	horseradish sauce	sauce
+180	sour cream	cream
+181	bialy	onion roll
+182	macadamia nut	macadamia,macadamia tree
+183	schnapps	hard drink,spirits,liquor,John Barleycorn,booze,hard liquor,strong drink
+184	pudding	dish
+185	garlic	alliaceous plant
+186	mangosteen	fruit tree
+187	cheese	food,dairy product,solid food
+188	babka	coffeecake,coffee cake
+189	lettuce	money
+190	teacake	cooky,biscuit,cookie
+191	tamarind	bean tree
+192	hasty pudding	porridge
+193	spinach	vegetable
+194	licorice	herb,herbaceous plant
+195	prickly pear	cactus
+196	taro root	root vegetable
+197	bitter	ale
+198	banana	herb,herbaceous plant
+199	kiwi	vine
+200	shallot	bulb
+201	cocktail sauce	sauce
+202	cereal	grass
+203	gin	hard drink,spirits,liquor,John Barleycorn,booze,hard liquor,strong drink
+204	salt pork	pork,porc
+205	tortellini	pasta,alimentary paste
+206	marble cake	cake
+207	oats	cereal grass,cereal
+208	breadstick	breadstuff,staff of life,bread
+209	syrup	sweetening,sweetener
+210	cinnamon roll	sweet roll,coffee roll
+211	sweet potato	morning glory
+212	frozen dessert	dessert,afters,sweet
+213	sugar cane	cane
+214	coconut	food,solid food
+215	cooking oil	vegetable oil,oil
+216	bread sauce	sauce
+217	juice	foodstuff,food product
+218	seed	fruit
+219	pastry	dough
+220	financier	capitalist
+221	mint	large indefinite quantity,large indefinite amount
+222	bagel	bun,roll
+223	mango	fruit tree
+224	sherry	fortified wine
+225	black pudding	sausage
+226	bottled water	drinking water
+227	honeycomb	construction,structure
+228	gravy	sauce
+229	chocolate bar	chocolate candy
+230	rambutan	fruit tree
+231	sausage	meat
+232	brioche	bun,roll
+233	bok choi	crucifer,cruciferous plant
+234	watercress	cress,cress plant
+235	chard	common beet,beet,Beta vulgaris
+236	tipsy cake	trifle
+237	hot dog	show-off,exhibitionist
+238	quick bread	breadstuff,staff of life,bread
+239	seafood	food,solid food
+240	flummery	pudding
+241	liverwurst	sausage
+242	pineapple	herb,herbaceous plant
+243	salt	chemical compound,compound
+244	standing rib roast	joint,roast
+245	hazelnut	nut tree
+246	sage	mentor,wise man
+247	pea soup	soup
+248	sesame oil	vegetable oil,oil
+249	toast	breadstuff,staff of life,bread
+250	salsify	root
+251	nectarine	fruit tree
+252	gourd	bottle
+253	chocolate truffle	confect,candy
+254	anadama bread	breadstuff,staff of life,bread
+255	sugar	sweetening,sweetener
+256	celery	herb,herbaceous plant
+257	rice	starches,food grain,grain,cereal
+258	steak sauce	condiment
+259	toffee	confect,candy
+260	longan	fruit tree
+261	corn oil	vegetable oil,oil
+262	scotch broth	soup
+263	bean	legume
+264	molasses	sirup,syrup
+265	red wine	vino,wine
+266	chips	potato,spud,murphy,Irish potato,tater,white potato
+267	chutney	condiment
+268	soybean oil	vegetable oil,oil
+269	pie crust	pastry
+270	pretzel	cracker
+271	caramel	confect,candy
+272	tallow	animal oil
+273	tortilla	flapjack,flannel-cake,hot cake,hotcake,griddlecake,flapcake,pancake,battercake,flannel cake
+274	tangelo	citrus,citrus tree
+275	liquor	alcoholic beverage,intoxicant,alcohol,alcoholic drink,inebriant
+276	vienna sausage	frank,dog,hot dog,wiener,wienerwurst,frankfurter,weenie,hotdog
+277	goulash	stew
+278	ladyfinger	cooky,biscuit,cookie
+279	dairy product	foodstuff,food product
+280	carbonated water	drinking water
+281	cumin	herb,herbaceous plant
+282	worcestershire sauce	sauce
+283	brown sauce	sauce
+284	physalis	asterid dicot genus
+285	borscht	soup
+286	cauliflower	crucifer,cruciferous plant
+287	curry sauce	sauce
+288	rum baba	baba
+289	barbecue sauce	sauce
+290	eggnog	punch
+291	turtle soup	soup
+292	cheese spread	spread,paste
+293	berry	edible fruit
+294	pita	flatbread
+295	olive oil	vegetable oil,oil
+296	marjoram	origanum
+297	bay leaf	herb
+298	sweet	
+299	pottage	stew
+300	oregano	origanum
+301	oxtail soup	soup
+302	brussels sprout	crucifer,cruciferous plant
+303	sweet roll	bun,roll
+304	beetroot	common beet,beet,Beta vulgaris
+305	beef	cows,kine,oxen,Bos taurus,cattle
+306	parsley	herb,herbaceous plant
+307	yam	tuber
+308	buttermilk	milk
+309	beer	brew,brewage
+310	basil	herb,herbaceous plant
+311	mulligatawny	soup
+312	ravioli	pasta,alimentary paste
+313	mock turtle soup	soup
+314	mushroom	agaric
+315	cream cheese	cheese
+316	squash	vine
+317	savory	herb,herbaceous plant
+318	peach sauce	sauce
+319	tartar sauce	sauce
+320	cracker	breadstuff,staff of life,bread
+321	chapati	flatbread
+322	hot sauce	sauce
+323	brazil nut	nut tree
+324	challah	breadstuff,staff of life,bread
+325	sushi	dish
+326	minestrone	soup
+327	soldier	enlisted person
+328	canola oil	vegetable oil,oil
+329	dried fruit	edible fruit
+330	corn chowder	chowder
+331	baking powder	leavening,leaven
+332	macaroni	gallant,dandy,clotheshorse,fop,beau,swell,dude,sheik,fashion plate
+333	flour	foodstuff,food product
+334	vegetable	green goods,produce,garden truck,green groceries
+335	torte	cake
+336	papaya	fruit tree
+337	pomegranate	fruit tree
+338	buckwheat	herb,herbaceous plant
+339	fruit	reproductive structure
+340	cucumber	melon,melon vine
+341	broccoli	crucifer,cruciferous plant
+342	noodle	pasta,alimentary paste
+343	raisin bran	dry cereal,cold cereal
+344	evaporated milk	concentrate,milk
+345	sugar apple	custard apple
+346	tapenade	spread,paste
+347	pumpkin seed	edible seed
+348	liqueur	alcoholic beverage,intoxicant,alcohol,alcoholic drink,inebriant
+349	kale	money
+350	rocket	vehicle
+351	doughnut	toroid
+352	guacamole	dip
+353	barmbrack	breadstuff,staff of life,bread
+354	cherry	wood
+355	grapefruit	citrus,citrus tree
+356	kumquat	citrus,citrus tree
+357	persimmon	fruit tree
+358	cottage cheese	cheese
+359	chives	alliaceous plant
+360	aubergine	herb,herbaceous plant
+361	rigatoni	pasta,alimentary paste
+362	madeira cake	sponge cake
+363	appetiser	course
+364	meat	food,solid food
+365	onion	bulb
+366	chiffon cake	cake
+367	lemon grass	oil
+368	taffy	confect,candy
+369	sorbet	frappe,ice
+370	gumdrop	confect,candy
+371	dessert wine	vino,wine
+372	jerusalem artichoke	tuber
+373	baking soda	hydrogen carbonate,bicarbonate
+374	rock cake	cake
+375	malanga	arum,aroid
+376	pea	legume
+377	christmas cake	fruitcake
+378	bisque	soup
+379	eccles cake	cake
+380	pepper	true pepper,pepper vine
+381	nut butter	spread,paste
+382	wheat	cereal grass,cereal
+383	crouton	breadstuff,staff of life,bread
+384	rum	hard drink,spirits,liquor,John Barleycorn,booze,hard liquor,strong drink
+385	raisin bread	breadstuff,staff of life,bread
+386	corn	cereal grass,cereal
+387	sesame seed	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+388	pasta	dish
+389	hot cross bun	sweet roll,coffee roll
+390	goody	nutrition,alimentation,aliment,nutriment,nourishment,sustenance,victuals
+391	biscuit	quick bread
+392	oatmeal	porridge
+393	pistachio	nut tree
+394	flatbread	breadstuff,staff of life,bread
+395	hors d'oeuvre	appetiser,starter,appetizer
+396	marshmallow	confect,candy
+397	rye bread	breadstuff,staff of life,bread
+398	tofu	curd
+399	plumcot	fruit tree
+400	chewing gum	sweet,confection
+401	parsnip	root
+402	start	beginning
+403	gazpacho	soup
+404	nougat	confect,candy
+405	corn syrup	sirup,syrup
+406	sapote	tree
+407	sorrel	herb,herbaceous plant
+408	cardoon	vegetable
+409	vichyssoise	soup
+410	salad dressing	sauce
+411	bun	breadstuff,staff of life,bread
+412	bratwurst	pork sausage
+413	jerky	meat
+414	soursops	custard apple,custard apple tree
+415	spice	preservative
+416	hot chocolate	drinkable,beverage,potable,drink
+417	spotted dick	suet pudding
+418	apricot	fruit tree
+419	paprika	capsicum,pepper,capsicum pepper plant
+420	horseradish root	root
+421	bouillon	broth
+422	cornmeal	meal
+423	cake	block
+424	condiment	seasoner,flavoring,flavouring,seasoning,flavorer,flavourer
+425	dill	herb,herbaceous plant
+426	gumbo	soil,dirt
+427	pie	pastry
+428	penne	pasta,alimentary paste
+429	cream	elite,elite group
+430	lemon	citrus,citrus fruit,citrous fruit
+431	peach	fruit tree
+432	cashew	nut tree
+433	tinned meat	canned goods,canned food,tinned goods,canned foods
+434	mayonnaise	salad dressing,dressing
+435	tagliatelle	pasta,alimentary paste
+436	vermouth	vino,wine
+437	leek	alliaceous plant
+438	whipped cream	topping
+439	tart	woman,adult female
+440	mustard	crucifer,cruciferous plant
+441	feijoa	bush,shrub
+442	pear	pome,edible fruit,false fruit
+443	brandy	hard drink,spirits,liquor,John Barleycorn,booze,hard liquor,strong drink
+444	layer cake	cake
+445	mamey	fruit tree
+446	mint sauce	condiment
+447	okra	pod,seedpod
+448	hard sauce	sauce
+449	fruit salad	salad
+450	potato	starches,solanaceous vegetable,root vegetable
+451	soy sauce	condiment
+452	beverage	food,nutrient,liquid

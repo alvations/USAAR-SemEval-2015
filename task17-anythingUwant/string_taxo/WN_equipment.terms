@@ -1,0 +1,475 @@
+0	acoustic modem
+1	aerator
+2	air search radar
+3	amplifier
+4	anti submarine rocket
+5	apishamore
+6	apparatus
+7	astronomy satellite
+8	atomic pile
+9	audio amplifier
+10	audio system
+11	audiovisual
+12	automation
+13	backboard
+14	backlighting
+15	badminton equipment
+16	baggage
+17	balance beam
+18	ball
+19	ballistic pendulum
+20	bar bit
+21	bar mask
+22	barbell
+23	bard
+24	base
+25	baseball
+26	baseball bat
+27	baseball equipment
+28	baseball glove
+29	basic point defense missile system
+30	basket
+31	basketball
+32	basketball equipment
+33	bathyscaphe
+34	bathysphere
+35	batting cage
+36	batting glove
+37	batting helmet
+38	billiard ball
+39	birdcage mask
+40	bishop
+41	bit
+42	bitewing
+43	black
+44	black box
+45	blister pack
+46	blowtorch
+47	blue chip
+48	bocce ball
+49	boiling water reactor
+50	booster
+51	bowl
+52	bowling ball
+53	bowling equipment
+54	bowling pin
+55	box camera
+56	boxing equipment
+57	boxing glove
+58	brassie
+59	breeches buoy
+60	breeder reactor
+61	bridle
+62	bridoon
+63	bubble jet printer
+64	bunsen burner
+65	burner
+66	cage
+67	camcorder
+68	camera
+69	candid camera
+70	candlepin
+71	canvas
+72	caparison
+73	cardiac monitor
+74	carpenter's kit
+75	cascade liquefier
+76	cassette deck
+77	cassette player
+78	cassette recorder
+79	castle
+80	catalytic cracker
+81	catcher's mask
+82	cd player
+83	cellular telephone
+84	central processing unit
+85	centrifuge
+86	checker
+87	chemical reactor
+88	chessman
+89	chinese puzzle
+90	chip
+91	cinch
+92	circuitry
+93	clapperboard
+94	clay pigeon
+95	clock pendulum
+96	clock radio
+97	coffey still
+98	communications satellite
+99	compact disk burner
+100	computer keyboard
+101	computerized axial tomography scanner
+102	condenser
+103	cooling system
+104	coronet
+105	counter
+106	crampon
+107	cricket ball
+108	cricket bat
+109	cricket equipment
+110	croquet ball
+111	croquet equipment
+112	croquet mallet
+113	crossbar
+114	crossword puzzle
+115	crown
+116	crown jewels
+117	crystal detector
+118	crystal set
+119	cue ball
+120	curb
+121	cytophotometer
+122	data input device
+123	desk phone
+124	detector
+125	developer
+126	dial telephone
+127	dictaphone
+128	digital camera
+129	direction finder
+130	discus
+131	diving bell
+132	dot matrix printer
+133	drill rig
+134	drilling platform
+135	driver
+136	driving iron
+137	drogue
+138	drogue parachute
+139	duckpin
+140	dumbbell
+141	duplicator
+142	eight ball
+143	electrical system
+144	electrograph
+145	electronic equipment
+146	electronic fetal monitor
+147	enlarger
+148	equalizer
+149	equipment
+150	extension
+151	facsimile
+152	fast reactor
+153	field hockey ball
+154	figure skate
+155	film
+156	film clip
+157	fire control radar
+158	first aid kit
+159	first base
+160	fishing gear
+161	flash
+162	flash camera
+163	fluoroscope
+164	footage
+165	football
+166	foucault pendulum
+167	fuel system
+168	game
+169	game equipment
+170	gas bracket
+171	gas burner
+172	gas cooled reactor
+173	gas maser
+174	gas ring
+175	gear
+176	generator
+177	ghetto blaster
+178	goal
+179	golf bag
+180	golf ball
+181	golf club
+182	golf equipment
+183	golf glove
+184	golfcart
+185	goniometer
+186	gun pendulum
+187	gymnastic apparatus
+188	halter
+189	hame
+190	hammer
+191	handball
+192	handset
+193	harness
+194	headgear
+195	headpin
+196	heat pump
+197	hectograph
+198	heliograph
+199	hematocrit
+200	heterodyne receiver
+201	hi fi
+202	hockey skate
+203	hockey stick
+204	home plate
+205	horizontal bar
+206	horse
+207	horsecloth
+208	horseshoe
+209	ice skate
+210	impedimenta
+211	in line skate
+212	incubator
+213	ink jet printer
+214	instillator
+215	ipod
+216	iron
+217	jack
+218	jammer
+219	javelin
+220	jigsaw puzzle
+221	job oriented terminal
+222	joystick
+223	king
+224	kipp's apparatus
+225	kit
+226	knight
+227	lacrosse ball
+228	lander
+229	layette
+230	lens
+231	liebig condenser
+232	life buoy
+233	life jacket
+234	life preserver
+235	life support system
+236	light meter
+237	lighting
+238	liquid metal reactor
+239	lithograph
+240	long iron
+241	lunar excursion module
+242	mae west
+243	magnetic recorder
+244	man
+245	marble
+246	marching order
+247	martingale
+248	maser
+249	mashie
+250	mashie niblick
+251	mat
+252	material
+253	materiel
+254	medicine ball
+255	mess kit
+256	metal wood
+257	metronome
+258	microfiche
+259	microfilm
+260	midiron
+261	mimeograph
+262	minisub
+263	mixer
+264	modem
+265	monitor
+266	motion picture camera
+267	motion picture film
+268	mound
+269	mouthpiece
+270	multichannel recorder
+271	naval equipment
+272	naval radar
+273	naval tactical data system
+274	negative
+275	net
+276	niblick
+277	ninepin
+278	ninepin ball
+279	nuclear reactor
+280	object ball
+281	off line equipment
+282	optical bench
+283	orthochromatic film
+284	oscillograph
+285	oscilloscope
+286	output device
+287	oxyacetylene torch
+288	packaging
+289	paintball gun
+290	panchromatic film
+291	parachute
+292	parallel bars
+293	parasail
+294	pawn
+295	pay phone
+296	pelham
+297	pendulum
+298	peripheral
+299	photocopier
+300	photographic equipment
+301	photographic paper
+302	photostat
+303	physical pendulum
+304	pilot burner
+305	pin
+306	pinball machine
+307	pine tar rag
+308	ping pong ball
+309	pitching wedge
+310	piton
+311	playback
+312	point and shoot camera
+313	polaroid camera
+314	polo ball
+315	polo mallet
+316	pommel horse
+317	pool ball
+318	pool table
+319	portrait camera
+320	positive
+321	positron emission tomography scanner
+322	pressurized water reactor
+323	pricket
+324	printer
+325	punching bag
+326	purifier
+327	push button radio
+328	putter
+329	puzzle
+330	quadraphony
+331	queen
+332	quoit
+333	racquetball
+334	radio compass
+335	radio phonograph
+336	radio receiver
+337	radio transmitter
+338	radiotelephone
+339	radiotherapy equipment
+340	railing
+341	receiver
+342	recorder
+343	recording system
+344	reel
+345	reflex camera
+346	reflux condenser
+347	reformer
+348	regalia
+349	remote terminal
+350	reproducer
+351	rescue equipment
+352	rig
+353	rigging
+354	rings
+355	robotics equipment
+356	rocker
+357	roll
+358	roll film
+359	roller skate
+360	rollerblade
+361	roofing
+362	rosin bag
+363	roulette ball
+364	roulette wheel
+365	rugby ball
+366	saddle blanket
+367	salyut
+368	sand wedge
+369	satellite
+370	satellite receiver
+371	satellite transmitter
+372	scanner
+373	scrambler
+374	scrubber
+375	second base
+376	semaphore
+377	sensitometer
+378	sequence
+379	sequencer
+380	set
+381	sewing kit
+382	ship towed long range acoustic detection system
+383	shipboard system
+384	short iron
+385	shot
+386	shuttlecock
+387	simple pendulum
+388	skate
+389	skylab
+390	snaffle
+391	soccer ball
+392	soda fountain
+393	softball
+394	sound camera
+395	sound film
+396	space capsule
+397	space shuttle
+398	space station
+399	spacecraft
+400	spark transmitter
+401	speakerphone
+402	speed skate
+403	spike
+404	spinner
+405	spoon
+406	sporting goods
+407	sports equipment
+408	sputnik
+409	spy satellite
+410	squash ball
+411	stable gear
+412	stall bar
+413	starship
+414	stereo
+415	stick
+416	still
+417	stock in trade
+418	stop bath
+419	submersible
+420	surface search radar
+421	surface to air missile system
+422	tangram
+423	tape deck
+424	tape player
+425	tape recorder
+426	target
+427	target acquisition system
+428	taw
+429	teaching aid
+430	tee
+431	telegraph
+432	telephone
+433	television camera
+434	television equipment
+435	television monitor
+436	television receiver
+437	television transmitter
+438	tennis ball
+439	tenpin
+440	terminal
+441	test equipment
+442	thermal reactor
+443	thermonuclear reactor
+444	third base
+445	tile
+446	titrator
+447	tomograph
+448	trampoline
+449	transmitter
+450	ultracentrifuge
+451	uneven parallel bars
+452	vaulting horse
+453	video ipod
+454	videocassette recorder
+455	volleyball
+456	volleyball net
+457	walkman
+458	water cooled reactor
+459	water wings
+460	weather satellite
+461	webcam
+462	wedge
+463	weight
+464	white
+465	wicket
+466	wiffle
+467	wire matrix printer
+468	wire recorder
+469	wood
+470	wrestling mat
+471	x ray film
+472	x ray machine
+473	xerox
+474	yoke

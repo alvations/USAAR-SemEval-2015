@@ -1,0 +1,370 @@
+0	abnormal psychology
+1	acoustics
+2	aerology
+3	aeromechanics
+4	aeronautics
+5	agrobiology
+6	agrology
+7	agronomy
+8	algebra
+9	alienism
+10	allergology
+11	analysis
+12	analytic geometry
+13	anatomy
+14	anesthesiology
+15	angiology
+16	anthropology
+17	applied mathematics
+18	applied psychology
+19	archeology
+20	architectonics
+21	arithmetic
+22	assyriology
+23	astrodynamics
+24	astrometry
+25	astronomy
+26	astrophysics
+27	audiology
+28	avionics
+29	bacteriology
+30	behaviorism
+31	biochemistry
+32	bioclimatology
+33	biogeography
+34	biology
+35	biomedical science
+36	biomedicine
+37	biometrics
+38	biophysics
+39	biosystematics
+40	biotechnology
+41	botany
+42	brain science
+43	calculus
+44	cardiology
+45	catoptrics
+46	celestial mechanics
+47	chemistry
+48	civics
+49	classical mechanics
+50	climatology
+51	clinical anatomy
+52	clinical psychology
+53	cognitive neuroscience
+54	cognitive psychology
+55	cognitive science
+56	comparative anatomy
+57	comparative psychology
+58	compound morphology
+59	computational linguistics
+60	correlation
+61	cosmetic dentistry
+62	cosmography
+63	cosmology
+64	craniology
+65	craniometry
+66	criminology
+67	cryobiology
+68	cryogenics
+69	cryonics
+70	cryptanalysis
+71	crystallography
+72	curvilinear correlation
+73	cybernetics
+74	cytogenetics
+75	cytology
+76	deixis
+77	demography
+78	dental anatomy
+79	dental surgery
+80	dentistry
+81	derivational morphology
+82	dermatoglyphics
+83	descriptive grammar
+84	descriptive linguistics
+85	developmental anatomy
+86	developmental psychology
+87	dialect geography
+88	dietetics
+89	differential calculus
+90	dynamics
+91	dysgenics
+92	earth science
+93	ecology
+94	econometrics
+95	economic geography
+96	economic geology
+97	economics
+98	egyptology
+99	electrochemistry
+100	electromagnetism
+101	electron optics
+102	electronics
+103	electrostatics
+104	elementary geometry
+105	embryology
+106	emergency medicine
+107	endocrinology
+108	endodontics
+109	entomology
+110	enzymology
+111	epidemiology
+112	ethnography
+113	ethnology
+114	ethology
+115	etymology
+116	eugenics
+117	euthenics
+118	exobiology
+119	exodontics
+120	experimental psychology
+121	femtochemistry
+122	fetology
+123	finance
+124	fluid mechanics
+125	forensic medicine
+126	forestry
+127	formal semantics
+128	fourier analysis
+129	fractal geometry
+130	functional anatomy
+131	garbology
+132	gastroenterology
+133	genetic engineering
+134	genetics
+135	genomics
+136	geochemistry
+137	geodesy
+138	geography
+139	geology
+140	geometry
+141	geophysics
+142	geopolitics
+143	geriatrics
+144	grammar
+145	gross anatomy
+146	group theory
+147	gynecology
+148	harmonics
+149	hematology
+150	hemodynamics
+151	herpetology
+152	historical linguistics
+153	home economics
+154	hydrodynamics
+155	hydrology
+156	hydrostatics
+157	hygiene
+158	hyperbolic geometry
+159	hypsography
+160	ichthyology
+161	immunochemistry
+162	immunology
+163	immunopathology
+164	inflectional morphology
+165	information science
+166	inorganic chemistry
+167	integral calculus
+168	internal medicine
+169	jungian psychology
+170	kinematics
+171	kinesiology
+172	lepidopterology
+173	lexical semantics
+174	life science
+175	limnology
+176	linear algebra
+177	linear programming
+178	linguistics
+179	macrobiotics
+180	magnetism
+181	malacology
+182	mammalogy
+183	marine archeology
+184	mathematics
+185	matrix algebra
+186	mechanics
+187	medical science
+188	medicine
+189	memory
+190	metallurgy
+191	metamathematics
+192	meteorology
+193	metrology
+194	microbiology
+195	microeconomics
+196	microscopic anatomy
+197	mineralogy
+198	molecular biology
+199	molecular genetics
+200	morphology
+201	mycology
+202	myology
+203	natural history
+204	natural science
+205	negative correlation
+206	neonatology
+207	nephrology
+208	neuroanatomy
+209	neurobiology
+210	neurolinguistics
+211	neurology
+212	neurophysiology
+213	neuropsychiatry
+214	neuroscience
+215	non euclidean geometry
+216	nonparametric statistics
+217	nosology
+218	nuclear medicine
+219	nuclear physics
+220	numerical analysis
+221	obstetrics
+222	oceanography
+223	oncology
+224	oology
+225	ophthalmology
+226	optics
+227	organic chemistry
+228	orology
+229	orthodontics
+230	orthoepy
+231	orthopedics
+232	otology
+233	paleoanthropology
+234	paleobiology
+235	paleobotany
+236	paleoclimatology
+237	paleodendrology
+238	paleoecology
+239	paleoethnography
+240	paleogeography
+241	paleogeology
+242	paleography
+243	paleology
+244	paleomammalogy
+245	paleontology
+246	paleopathology
+247	paleornithology
+248	paleozoology
+249	partial correlation
+250	particle physics
+251	pathology
+252	pediatrics
+253	penology
+254	perinatology
+255	periodontics
+256	petroleum geology
+257	petrology
+258	pharmacogenetics
+259	pharmacokinetics
+260	pharmacology
+261	pharmacy
+262	phonology
+263	photochemistry
+264	phrenology
+265	physical anthropology
+266	physical chemistry
+267	physical geography
+268	physics
+269	physiological psychology
+270	physiology
+271	phytochemistry
+272	plane geometry
+273	plasma physics
+274	pneumatics
+275	podiatry
+276	politics
+277	pomology
+278	positive correlation
+279	pragmatics
+280	prescriptive linguistics
+281	problem solving
+282	proctology
+283	projective geometry
+284	prosthetics
+285	prosthodontics
+286	proteomics
+287	protoarcheology
+288	protohistory
+289	protozoology
+290	proxemics
+291	psephology
+292	psychiatry
+293	psychodynamics
+294	psychology
+295	psychometry
+296	psychopharmacology
+297	psychophysics
+298	psychotherapy
+299	pteridology
+300	pure mathematics
+301	quadratics
+302	quantum electrodynamics
+303	quantum field theory
+304	quantum mechanics
+305	quantum physics
+306	radio astronomy
+307	radiobiology
+308	radiochemistry
+309	radiology
+310	realpolitik
+311	regional anatomy
+312	rheology
+313	rheumatology
+314	rhinolaryngology
+315	ritualism
+316	science
+317	seismology
+318	semantics
+319	serology
+320	set theory
+321	silviculture
+322	social anthropology
+323	social psychology
+324	social science
+325	sociobiology
+326	sociolinguistics
+327	sociology
+328	solar physics
+329	solid geometry
+330	solid state physics
+331	space medicine
+332	speleology
+333	spherical geometry
+334	sports medicine
+335	spurious correlation
+336	statics
+337	statistical mechanics
+338	statistics
+339	strategics
+340	stratigraphy
+341	structural genomics
+342	structuralism
+343	sumerology
+344	supply side economics
+345	surgery
+346	synchronic linguistics
+347	syntax
+348	systematics
+349	taxonomy
+350	teratology
+351	thanatology
+352	therapeutics
+353	thermionics
+354	thermochemistry
+355	thermodynamics
+356	thoracic medicine
+357	topography
+358	topology
+359	toxicology
+360	traumatology
+361	triangulation
+362	trigonometry
+363	tropical medicine
+364	urology
+365	vector algebra
+366	vertebrate paleontology
+367	veterinary medicine
+368	virology
+369	zoology
