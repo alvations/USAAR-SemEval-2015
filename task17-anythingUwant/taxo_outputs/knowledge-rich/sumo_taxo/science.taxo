@@ -1,0 +1,143 @@
+0	social science	science,scientific discipline
+1	biostatistics	statistics,life science,bioscience
+2	syntax	structure
+3	morphology	biology,biological science
+4	physical science	natural science
+5	networks	scheme,system
+6	geography	earth science
+7	linguistics	science,scientific discipline
+8	cognitive neuroscience	neuroscience
+9	metallurgy	science,scientific discipline
+10	thermodynamics	natural philosophy,physics
+11	geochemistry	chemistry,chemical science
+12	clinical psychology	psychotherapeutics,psychotherapy,mental hygiene
+13	physical chemistry	chemistry,chemical science
+14	engineering science	discipline,subject field,field of study,study,subject area,field,bailiwick,subject
+15	nuclear physics	natural philosophy,physics
+16	pharmacology	medicine,medical specialty
+17	paleontology	earth science
+18	neurolinguistics	linguistics
+19	entomology	zoology,zoological science
+20	pathology	medical science
+21	mathematics	science,scientific discipline
+22	biometry	statistics,life science,bioscience
+23	immunology	medicine,medical specialty
+24	set theory	pure mathematics
+25	phonology	descriptive linguistics
+26	civil engineering	engineering science,engineering,applied science,technology
+27	esthetics	philosophy
+28	chemical engineering	engineering science,engineering,applied science,technology
+29	virology	medicine,medical specialty
+30	bacteriology	medicine,medical specialty
+31	optics	natural philosophy,physics
+32	numerical analysis	pure mathematics
+33	developmental psychology	psychological science,psychology
+34	psycholinguistics	cognitive psychology
+35	aerodynamics	mechanics
+36	environmental sciences	biology,biological science
+37	astrodynamics	astronomy,uranology
+38	econometrics	economic science,political economy,economics
+39	criminology	sociology
+40	sociology	social science
+41	genetics	biology,biological science
+42	psychology	science,scientific discipline
+43	programming languages	artificial language
+44	industrial engineering	engineering science,engineering,applied science,technology
+45	social anthropology	anthropology
+46	microbiology	biology,biological science
+47	religion	theological virtue,belief,supernatural virtue
+48	ancient history	account,story,chronicle,history
+49	life science	natural science
+50	inorganic chemistry	chemistry,chemical science
+51	economic theory	theory
+52	compilers	writer,author
+53	macroeconomics	economic science,political economy,economics
+54	genomics	genetic science,genetics
+55	molecular genetics	genetic science,genetics
+56	epidemiology	medicine,medical specialty
+57	comparative literature	literary study
+58	motor control	control
+59	manufacturing	creating from raw materials
+60	pragmatics	linguistics
+61	organic chemistry	chemistry,chemical science
+62	anthropology	social science
+63	climate	environmental condition
+64	economics	social science
+65	toxicology	pharmacological medicine,pharmacology,materia medica
+66	classics	literary study
+67	os	orifice,porta,opening
+68	botany	assemblage,aggregation,collection,accumulation
+69	computer architecture	specification,spec
+70	probability	amount,quantity,measure
+71	communication	deed,human activity,human action,act
+72	robotics	AI,artificial intelligence
+73	electromagnetics	natural philosophy,physics
+74	ecology	environment
+75	sociolinguistics	linguistics
+76	zoology	assemblage,aggregation,collection,accumulation
+77	digital communications	electronic communication
+78	pharmaceutics	medicine,medical specialty
+79	earth science	natural science
+80	horticulture	farming,agriculture,husbandry
+81	epistemology	philosophy
+82	oceanography	earth science
+83	mechanical engineering	engineering science,engineering,applied science,technology
+84	phonetics	acoustics
+85	physiology	biology,biological science
+86	quantum physics	natural philosophy,physics
+87	music	auditory communication
+88	artificial intelligence	computer science,computing
+89	nutrition	organic process,biological process
+90	musicology	liberal arts,arts,humanistic discipline,humanities
+91	molecular biology	biology,biological science
+92	political theory	orientation
+93	geophysics	geology
+94	computational linguistics	linguistics
+95	graphics	visual communication
+96	semantics	linguistics
+97	circuits	electrical device
+98	science	discipline,subject field,field of study,study,subject area,field,bailiwick,subject
+99	applied mathematics	maths,mathematics,math
+100	meteorology	forecasting,prognostication,prediction,foretelling
+101	kinesiology	physiology
+102	space vehicles	satellite,craft,orbiter,artificial satellite
+103	electrical engineering	engineering science,engineering,applied science,technology
+104	history	past,past times,yesteryear
+105	tribology	mechanical engineering
+106	dynamical systems	phase space
+107	endocrinology	medicine,medical specialty
+108	immunopathology	immunology
+109	engineering	application,practical application,profession
+110	ergonomics	engineering science,engineering,applied science,technology
+111	agronomy	science,scientific discipline
+112	cosmology	metaphysics
+113	metaphysics	philosophy
+114	instrumentation	artefact,artifact
+115	vulcanology	geophysical science,geophysics
+116	paleobiology	fossilology,biology,palaeontology,biological science,paleontology
+117	physical processes	physical entity
+118	geology	earth science
+119	computer science	engineering science,engineering,applied science,technology
+120	social psychology	psychological science,psychology
+121	composition	placement,arrangement
+122	theatre	building,edifice
+123	algebra	pure mathematics
+124	philosophy	belief
+125	cognitive psychology	psychological science,psychology
+126	biophysics	natural philosophy,physics
+127	partial differential equations	differential equation
+128	seismology	geophysical science,geophysics
+129	political science	social science
+130	neuroscience	neurobiology
+131	ethics	motive,need,motivation
+132	fluid mechanics	mechanics
+133	information systems	system
+134	methodologies	epistemology
+135	humanities	discipline,subject field,field of study,study,subject area,field,bailiwick,subject
+136	analysis	investigating,investigation
+137	theology	discipline,subject field,field of study,study,subject area,field,bailiwick,subject
+138	biochemistry	organic chemistry
+139	algorithms	formula,rule
+140	chemistry	natural science
+141	physics	natural science
+142	cultural anthropology	anthropology

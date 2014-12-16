@@ -1,0 +1,259 @@
+0	linguistic anthropology	linguistics,sociolinguistics,cultural anthropology
+1	metaphysics	epistemology,philosophy,philosophy of language
+2	semantics	syntax,pragmatics
+3	psychology	developmental psychology,social psychology
+4	immunopathology	immunology
+5	comparative physiology	genetics
+6	philosophy of mind	philosophy of language,metaphysics,philosophy of science,philosophy of religion,epistemology
+7	philosophy of science	history,metaphysics,philosophy of language,philosophy of religion,history of philosophy
+8	microbial ecology	biogeochemistry,environmental microbiology
+9	theory, knowledge and science	ecology
+10	systems engineering	software engineering
+11	logic and foundations of mathematics	logic and foundations,geometry and topology
+12	plant biology	molecular biology,cell biology,biochemistry,microbiology,developmental biology,genetics
+13	mathematics	applied mathematics,computer science
+14	anthropological linguistics	anthropology,cultural anthropology,sociolinguistics,linguistic anthropology
+15	ancient history	cultural history,intellectual history
+16	pragmatics	sociolinguistics,linguistics
+17	glaciology	oceanography
+18	crop sciences	food science
+19	software engineering	systems engineering,information systems
+20	organizational communication	mass communication
+21	seismology	geophysics,glaciology,oceanography
+22	cancer biology	immunology,cell biology,molecular biology,developmental biology
+23	epistemology	metaphysics,philosophy of mind
+24	history	cultural history,intellectual history
+25	gender history	cultural history,intellectual history,regional sociology
+26	chemistry	physical chemistry,biochemistry,inorganic chemistry
+27	engineering physics	materials science,electrical engineering,mechanical engineering,chemical engineering,computer science,computer engineering,civil engineering,industrial engineering
+28	bacteriology	microbiology,pathology,immunology,parasitology
+29	environmental engineering	civil engineering
+30	statistics and probability	applied statistics
+31	circuits	digital circuits
+32	psychology of movement	anthropology,biological psychology
+33	second language acquisition	pragmatics,sociolinguistics
+34	paleontology	zoology,paleobiology
+35	cultural anthropology	social anthropology,sociology
+36	medicine and health	public health
+37	composition	music theory,music
+38	electrical engineering	mechanical engineering,computer engineering,civil engineering,industrial engineering,chemical engineering,environmental engineering
+39	population biology	genetics,ecology,molecular biology
+40	industrial engineering	mechanical engineering,systems engineering,civil engineering,electrical engineering
+41	mineral physics	geochemistry,glaciology,geology
+42	cosmochemistry	geochemistry
+43	computational neuroscience	cognitive neuroscience,artificial intelligence
+44	health communication	public health
+45	medicinal-pharmaceutical chemistry	medicinal chemistry,pharmaceutics,toxicology
+46	medicinal chemistry	organic chemistry,inorganic chemistry,physical chemistry,polymer chemistry,biochemistry
+47	economic theory	economics,industrial organization,macroeconomics
+48	paleobiology	paleontology
+49	economics	international economics,industrial organization,political science,labor economics
+50	biostatistics	epidemiology,toxicology
+51	demography, population, and ecology	biogeochemistry
+52	history of philosophy	philosophy of science,cultural history,philosophy of religion,philosophy of language,metaphysics
+53	plant pathology	microbiology,botany,physiology,biochemistry,bacteriology
+54	petroleum engineering	civil engineering,mechanical engineering,structural engineering,chemical engineering
+55	biogeochemistry	ecology
+56	sociology	anthropology,political science,cultural anthropology,comparative literature,social anthropology,social science
+57	geochemistry	geology
+58	music	music theory,ethnomusicology
+59	communication	mass communication
+60	food microbiology	food chemistry,food science,food biotechnology
+61	polymer science	materials science,materials chemistry
+62	computational linguistics	applied linguistics
+63	structural engineering	environmental engineering,civil engineering,geotechnical engineering
+64	applied dynamics	fluid dynamics,fluid mechanics
+65	urban studies	geography
+66	atmospheric sciences	oceanography,earth science
+67	aquatic ecology	biogeochemistry
+68	physical science	earth science,materials science
+69	musicology	music theory,ethnomusicology,music
+70	aerospace engineering	mechanical engineering,electrical engineering,civil engineering,industrial engineering
+71	fluid dynamics	fluid mechanics
+72	meteorology	oceanography,atmospheric sciences,geophysics
+73	social anthropology	cultural anthropology,sociology,linguistic anthropology
+74	social history	intellectual history,cultural history
+75	partial differential equations	ordinary differential equations
+76	discourse linguistics	sociolinguistics,applied linguistics
+77	plant genetics	developmental biology,molecular genetics,molecular biology,genomics,virology
+78	molecular genetics	molecular biology,cell biology,immunology,developmental biology,genomics,cancer biology
+79	health psychology	developmental psychology
+80	fluid mechanics	fluid dynamics
+81	phonetics	phonology
+82	regional sociology	urban studies,geography
+83	medieval history	intellectual history,cultural history
+84	environmental sciences	science,environmental chemistry
+85	behavioral neurobiology	neuroscience,cognitive neuroscience
+86	evolutionary physiology	genetics,behavioral ecology
+87	nutritional epidemiology	immunology,microbiology
+88	statistical methodology	analysis
+89	computer engineering	electrical engineering,mechanical engineering,industrial engineering,computer science,civil engineering
+90	ergonomics	biomechanics
+91	international economics	industrial organization,macroeconomics,labor economics
+92	materials science	engineering
+93	fresh water studies	aquaculture and fisheries
+94	social psychology	developmental psychology
+95	american art and architecture history	cultural history
+96	religious thought	religion
+97	developmental psychology	social psychology,cognitive psychology,cognitive neuroscience,neuroscience
+98	linguistics	applied linguistics,sociolinguistics
+99	contemporary art history	cultural history
+100	language documentation	syntax
+101	developmental biology	genetics,molecular biology,cell biology
+102	ocean engineering	earth science
+103	applied mathematics	computer science,physics
+104	computational biology	structural biology
+105	plant science	animal science,food science,microbiology
+106	performance studies	music
+107	microbial physiology	microbiology,molecular biology,cell biology,genetics
+108	cognitive neuroscience	cognitive psychology,computational neuroscience
+109	virology	microbiology,immunology,molecular biology,molecular genetics,cell biology
+110	biomedical	life science
+111	political science	social science,international relations,sociology,public administration,geography
+112	philosophy	philosophy of language,philosophy of science
+113	public relations/advertising	public affairs
+114	rural sociology	political science,urban studies,anthropology
+115	toxicology	pharmacology,microbiology
+116	applied statistics	econometrics
+117	pulp/paper technology	food processing
+118	phonology	phonetics
+119	tectonics and structure	biogeochemistry
+120	terrestrial ecology	biogeochemistry
+121	race and ethnicity	gender and sexuality
+122	food science	animal science,nutrition
+123	applied mechanics	materials science,physics,fluid mechanics,fluid dynamics,engineering,applied mathematics
+124	epidemiology	biostatistics
+125	physical and environmental geography	ecology
+126	public affairs	public policy
+127	ethics and political philosophy	political theory
+128	agricultural and resource economics	ecology,animal science,environmental sciences,plant pathology
+129	microbiology	immunology,biochemistry,cell biology,molecular biology,virology,pharmacology
+130	language description	syntax
+131	behavioral ecology	evolutionary ecology
+132	astrophysics and astronomy	physics
+133	community psychology	developmental psychology,health psychology,clinical psychology
+134	pharmacology	microbiology,toxicology,biochemistry,immunology,pathology
+135	biological engineering	materials science
+136	public economics	international economics,labor economics,industrial organization
+137	food chemistry	food science,analytical chemistry,microbiology,pharmaceutics
+138	genomics	computational biology
+139	polymer chemistry	materials chemistry,physical chemistry
+140	political theory	comparative politics,international relations
+141	labor economics	international economics,industrial organization,macroeconomics
+142	agronomy	animal science,botany,horticulture
+143	cultural history	intellectual history
+144	cognition and perception	cognitive neuroscience
+145	applied linguistics	sociolinguistics,psycholinguistics,computational linguistics
+146	environmental health	public health
+147	engineering science	physical science
+148	wood science	animal science,food science
+149	developmental neuroscience	cognitive neuroscience
+150	rhetoric and composition	music theory,music
+151	econometrics	industrial organization,macroeconomics
+152	food biotechnology	food microbiology,food science,food processing
+153	biophysics	biochemistry,physics,chemistry
+154	astronomy and astrophysics	physics,nuclear physics
+155	kinesiology	exercise physiology,biomechanical engineering,biomechanics
+156	construction engineering/management	systems engineering
+157	geophysics	atmospheric sciences,oceanography,glaciology
+158	structural biology	computational biology,molecular biology,cell biology,biochemistry
+159	soil science	environmental sciences
+160	science	physical science
+161	intellectual history	cultural history
+162	gender, race, sexuality, and ethnicity in communication	gender and sexuality
+163	immunology	cell biology,microbiology,molecular biology,cancer biology
+164	life science	physical science
+165	english language and literature	linguistics
+166	power and energy	energy systems
+167	engineering mechanics	materials science,mechanical engineering,civil engineering,industrial engineering,electrical engineering
+168	clinical psychology	developmental psychology,health psychology
+169	ordinary differential equations	partial differential equations
+170	materials chemistry	materials science
+171	diplomatic history	intellectual history,international relations
+172	exercise physiology	biomechanics,kinesiology
+173	civil engineering	environmental engineering,mechanical engineering,electrical engineering,chemical engineering,industrial engineering,structural engineering
+174	journalism studies	international relations,political science
+175	molecular, cellular, and tissue engineering	cell biology
+176	cosmology, relativity, and gravity	nuclear physics
+177	algebraic geometry	number theory
+178	engineering	civil engineering,mechanical engineering,industrial engineering
+179	earth science	physical science
+180	evolutionary ecology	behavioral ecology
+181	oceanography	atmospheric sciences,glaciology
+182	neuroscience	cognitive neuroscience
+183	dairy science	animal science,food science
+184	biochemical and biomolecular engineering	chemistry
+185	geography	human geography
+186	ancient, medieval, renaissance and baroque art and architecture	history,cultural history
+187	comparative politics	international relations,political theory
+188	public administration	public policy,public affairs
+189	comparative literature	history,linguistics
+190	first language acquisition	sociolinguistics
+191	cellular physiology	cell biology,molecular biology,biochemistry,developmental biology,immunology
+192	molecular biology	cell biology,biochemistry,immunology,developmental biology,structural biology
+193	critical and cultural studies	anthropology
+194	zoology	botany,entomology
+195	mechanical engineering	electrical engineering,civil engineering,industrial engineering,chemical engineering,aerospace engineering
+196	sociolinguistics	linguistics,applied linguistics
+197	cell biology	molecular biology,biochemistry,cancer biology,developmental biology,immunology,structural biology
+198	chemical engineering	mechanical engineering,electrical engineering,materials science,civil engineering,environmental engineering,industrial engineering
+199	continental philosophy	philosophy of religion
+200	behavioral economics	industrial organization
+201	humanities	social science
+202	animal science	food science,physical science
+203	biochemistry	molecular biology,cell biology,microbiology,chemistry,immunology,pharmacology,plant biology
+204	forest biology	animal science
+205	sociology of culture	anthropology,cultural history,intellectual history,history,social anthropology
+206	poultry science	animal science,food science
+207	psycholinguistics	sociolinguistics,linguistics,applied linguistics,neurolinguistics
+208	the sun and the solar system	graphics
+209	public health	environmental health
+210	physics	nuclear physics
+211	pathogenic microbiology	immunology,molecular biology,cell biology
+212	latin american literature	history
+213	modern art and architecture history	geography
+214	physiology	biochemistry,pathology,pharmacology
+215	philosophy of language	linguistics,philosophy of science,metaphysics,philosophy of religion,philosophy of mind
+216	biomechanics	exercise physiology
+217	molecular neuroscience	molecular biology,immunology,cognitive neuroscience
+218	philosophy of religion	metaphysics,history of philosophy,philosophy of language,continental philosophy,ancient philosophy
+219	genetics	molecular biology,developmental biology,molecular genetics,cell biology
+220	robotics	artificial intelligence
+221	molecular physiology	biochemistry,cell biology,molecular biology,immunology,biophysics
+222	anthropology	cultural anthropology,social anthropology,sociology
+223	environmental microbiology	ecology
+224	classical archaeology and art history	cultural history
+225	computer science	engineering,computer engineering
+226	mechanics of materials	materials science
+227	catalysis and reaction engineering	chemistry
+228	geology	paleontology
+229	human geography	ecology
+230	asian history	intellectual history
+231	macroeconomics	international economics,industrial organization
+232	typological linguistics	sociolinguistics
+233	neurolinguistics	psycholinguistics,cognitive neuroscience,cognitive psychology
+234	feminist philosophy	political theory,continental philosophy
+235	physical chemistry	inorganic chemistry
+236	asian art and architecture history	cultural history
+237	inorganic chemistry	physical chemistry,organic chemistry,polymer chemistry,analytical chemistry
+238	feminist, gender and sexuality studies	gender and sexuality
+239	analytical chemistry	organic chemistry,inorganic chemistry,physical chemistry,environmental chemistry,medicinal chemistry
+240	cognitive psychology	cognitive neuroscience,developmental psychology,neuroscience
+241	ethnomusicology	music,musicology,music theory,performance studies
+242	political history	intellectual history,cultural history
+243	organic chemistry	inorganic chemistry,physical chemistry,polymer chemistry,analytical chemistry
+244	history of religion	cultural history,intellectual history
+245	botany	zoology,entomology
+246	geotechnical engineering	structural engineering,environmental engineering,civil engineering
+247	ancient philosophy	intellectual history,history,philosophy of religion
+248	music theory	ethnomusicology
+249	nuclear physics	condensed matter physics
+250	ecology	biogeochemistry
+251	biological psychology	cognitive psychology,developmental psychology,neuroscience
+252	parasitology	microbiology,immunology,virology,bacteriology
+253	economic history	economics,comparative politics
+254	classical literature and philology	history
+255	biological and chemical physics	chemistry
+256	geographic information sciences	information systems
+257	systems neuroscience	cognitive neuroscience,computational neuroscience
+258	entomology	botany,zoology

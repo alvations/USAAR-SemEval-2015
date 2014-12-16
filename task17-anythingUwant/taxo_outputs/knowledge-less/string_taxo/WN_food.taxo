@@ -1,0 +1,710 @@
+0	sweetening	sweet
+1	bran muffin	bran,muffin
+2	hard boiled egg	boiled egg,egg
+3	barley sugar	barley,sugar
+4	macedoine	mace
+5	grape juice	ice,juice
+6	rolled biscuit	biscuit
+7	candy corn	candy,corn
+8	swedish rye bread	bread,dish,rye,rye bread
+9	sour milk	milk,sour
+10	eggs benedict	egg
+11	suet pudding	pudding
+12	pineapple juice	apple juice,ice,juice
+13	chicken taco	taco
+14	fad diet	diet
+15	cuppa	cup
+16	swiss cheese	cheese
+17	white bread	bread
+18	lorenzo dressing	dressing
+19	k ration	ration
+20	self rising flour	flour
+21	sour salt	salt,sour
+22	ginger ale	ale,gin,ginger
+23	root beer	beer
+24	cracked wheat	wheat
+25	beet sugar	sugar
+26	banana bread	bread,nan
+27	black olive	olive
+28	cheshire cheese	cheese
+29	nada daiquiri	daiquiri
+30	blueberry yogurt	yogurt
+31	frozen pudding	pudding
+32	sparkling wine	wine
+33	strawberry jam	jam
+34	whiskey sour	sour,whiskey
+35	fruit punch	punch
+36	chili dog	chili
+37	lobster butter	butter
+38	rock candy	candy
+39	ice lolly	ice
+40	colostrum	rum
+41	blood meal	meal
+42	virgin mary	gin
+43	shirred egg	egg
+44	feed grain	feed,grain
+45	bleu cheese dressing	bleu,cheese,dressing
+46	hamburger bun	bun,hamburger
+47	tuna fish salad	salad
+48	jacket potato	potato
+49	fast food	food
+50	low fat diet	diet
+51	scotch kiss	kiss,scotch
+52	garlic bread	bread,garlic
+53	continental breakfast	breakfast
+54	dog food	food
+55	chicken salad	salad
+56	sugar water	sugar,water
+57	nut bread	bread
+58	oatcake	oat
+59	jambalaya	jam
+60	white wine	wine
+61	applesauce	sauce
+62	semi skimmed milk	milk
+63	calf's foot jelly	jelly
+64	wine vinegar	vinegar,wine
+65	munich beer	beer
+66	pancake batter	batter
+67	black bread	bread
+68	marchand de vin	marc
+69	business lunch	lunch
+70	brown bread	bread
+71	chili powder	chili
+72	vanilla bean	vanilla
+73	cola extract	cola
+74	black tea	tea
+75	white sauce	sauce
+76	castor sugar	sugar
+77	scalded milk	milk
+78	skim milk	milk
+79	seasoned salt	salt
+80	raw milk	milk
+81	chicken soup	soup
+82	date bread	bread
+83	weizenbock	bock
+84	banana split	nan,split
+85	chili sauce	chili,sauce
+86	bean dip	dip
+87	buckwheat	wheat
+88	popcorn	corn,pop
+89	boiled dinner	dinner
+90	caraway seed bread	bread,caraway,caraway seed
+91	chicken and rice	ice,rice
+92	thousand island dressing	dressing
+93	russian dressing	dressing
+94	chow mein	chow
+95	guacamole	mole
+96	yorkshire pudding	pudding
+97	branch water	bran,water
+98	cotton candy	candy
+99	home brew	brew
+100	prune whip	whip
+101	chocolate fondue	cola,fondue
+102	blush wine	wine
+103	bread dough	bread,dough
+104	alphabet soup	soup
+105	spoon bread	bread
+106	sugar candy	candy,sugar
+107	saltine	salt
+108	brown rice	ice,rice
+109	square meal	meal
+110	summer savory	savory
+111	water soluble vitamin	vitamin,water
+112	easter egg	egg
+113	jelly bean	jelly
+114	chef's salad	salad
+115	ham sandwich	sandwich
+116	fish stick	stick
+117	chicken sandwich	sandwich
+118	tea like drink	tea
+119	apple juice	ice,juice
+120	low sodium diet	diet
+121	deviled egg	egg
+122	corn dab	corn
+123	orange liqueur	liqueur
+124	spruce beer	beer
+125	western omelet	omelet,western
+126	fat soluble vitamin	vitamin
+127	plum pudding	pudding
+128	french dressing	dressing
+129	cream soda	cream
+130	porcupine ball	cup
+131	beef bourguignonne	bourguignon
+132	egg white	egg
+133	breadstuff	bread
+134	drip coffee	coffee
+135	candy bar	candy
+136	blancmange	blanc
+137	granulated sugar	sugar
+138	chinese brown sauce	brown sauce,sauce
+139	corn pudding	corn,pudding
+140	bland diet	diet
+141	petite marmite	marmite
+142	scotch broth	broth,scotch
+143	chocolate fudge	cola,fudge
+144	hot fudge sauce	fudge,sauce
+145	apricot sauce	sauce
+146	grated cheese	cheese
+147	strawberry daiquiri	daiquiri
+148	camomile tea	tea
+149	chicken casserole	casserole
+150	powdered milk	milk
+151	chocolate milk	cola,milk
+152	soup du jour	soup
+153	chicken feed	feed
+154	barbecued wing	barbecue
+155	chocolate sauce	cola,sauce
+156	sugarloaf	sugar
+157	fish chowder	chow,chowder
+158	fish meal	meal
+159	bavarian cream	cream
+160	beef stew	stew
+161	blood agar	agar
+162	yak's milk	milk
+163	quesadilla	dill
+164	blue cheese dressing	cheese,dressing
+165	cows' milk	milk
+166	popover	pop
+167	nonfat dry milk	milk
+168	nantua	nan
+169	lamb curry	curry
+170	near beer	beer
+171	mineral water	water
+172	stick cinnamon	cinnamon,stick
+173	birch beer	beer
+174	tapioca pudding	pudding,tapioca
+175	firewater	water
+176	gluten bread	bread
+177	open face sandwich	sandwich
+178	beef burrito	burrito
+179	black pepper	pepper
+180	planter's punch	punch
+181	molasses taffy	molasses,taffy
+182	bean tostada	tostada
+183	veal parmesan	parmesan
+184	caper sauce	caper,sauce
+185	eggdrop soup	egg,soup
+186	mustard sauce	must,mustard,sauce
+187	gin and tonic	gin,tonic
+188	sweet cicely	ice,sweet
+189	bacon lettuce tomato sandwich	sandwich
+190	process cheese	cheese
+191	multivitamin	vitamin
+192	red wine	wine
+193	quick bread	bread
+194	oyster cracker	cracker
+195	scotch woodcock	scotch
+196	graham cracker	cracker
+197	petfood	food
+198	vitamin p	vitamin
+199	apple butter	butter
+200	turkey stuffing	stuffing
+201	vitamin c	vitamin
+202	decaffeinated coffee	coffee
+203	vitamin a	vitamin
+204	foodstuff	food
+205	vitamin e	vitamin
+206	potato skin	potato
+207	vitamin k	vitamin
+208	winter savory	savory
+209	goats' milk	milk,oat
+210	pea flour	flour
+211	stuffed peppers	pepper
+212	v 8 juice	ice,juice
+213	hungarian sauce	sauce
+214	apple jelly	jelly
+215	honey bun	bun,honey
+216	jewish rye bread	bread,rye,rye bread
+217	coffee liqueur	coffee,liqueur
+218	sugar syrup	sugar,syrup
+219	anisette	anise
+220	spanish paprika	paprika
+221	frankfurter bun	bun
+222	onion bagel	bagel
+223	cane sugar	sugar
+224	coffee substitute	coffee
+225	spanish rice	ice,rice
+226	powdered sugar	sugar
+227	split pea soup	pea soup,soup,split
+228	soybean meal	meal
+229	mixer	mix
+230	plain flour	flour
+231	cider vinegar	cider,vinegar
+232	crystallized ginger	gin,ginger
+233	herring salad	salad
+234	cheese fondue	cheese,fondue
+235	timbale	ale
+236	fortified wine	wine
+237	egg foo yong	egg
+238	cornbread	bread,corn
+239	peppermint patty	mint,patty,pepper,peppermint
+240	blended whiskey	whiskey
+241	bacon and eggs	egg
+242	allspice	ice,spice
+243	vitamin d	vitamin
+244	finger food	food
+245	papaya juice	ice,juice
+246	potato salad	potato,salad
+247	uruguay potato	potato
+248	fennel seed	fennel
+249	anchovy pizza	pizza
+250	new england clam chowder	chow,chowder,clam chowder
+251	sour bread	bread,sour
+252	graham bread	bread
+253	ice cream	cream,ice
+254	hunter's sauce	sauce
+255	strawberry ice cream	cream,ice,ice cream
+256	hand cheese	cheese
+257	side dish	dish
+258	shrimp butter	butter
+259	high tea	tea
+260	condensed milk	milk
+261	skillet bread	bread
+262	anchovy sauce	sauce
+263	candy cane	candy
+264	fried rice	ice,rice
+265	heavy cream	cream
+266	italian dressing	dressing
+267	cranberry sauce	sauce
+268	orange marmalade	marmalade
+269	duck pate	pate
+270	danish blue	danish
+271	chili vinegar	chili,vinegar
+272	cross bun	bun
+273	mushroom sauce	sauce
+274	cornpone	corn
+275	coffee break	coffee
+276	clam dip	dip
+277	date nut bread	bread,nut bread
+278	last supper	supper
+279	light diet	diet
+280	lollipop	pop
+281	cinnamon toast	cinnamon,toast
+282	horseradish sauce	dish,horseradish,sauce
+283	egg yolk	egg,yolk
+284	vanilla ice cream	cream,ice,ice cream,vanilla
+285	soft pretzel	pretzel
+286	draft beer	beer
+287	dark bread	bread
+288	irish soda bread	bread,irish
+289	snail butter	butter
+290	salad cream	cream,salad
+291	peanut brittle	brittle
+292	sweet cider	cider,sweet
+293	melba toast	toast
+294	ice tea	ice,tea
+295	hard candy	candy
+296	green pea soup	pea soup,soup
+297	apple turnover	turnover
+298	hasty pudding	pudding
+299	ice cream cone	cream,ice,ice cream
+300	egg cream	cream,egg
+301	clary sage	sage
+302	garlic chive	garlic
+303	cranberry juice	ice,juice
+304	ham and eggs	egg
+305	vitamin a2	vitamin,vitamin a
+306	vitamin a1	vitamin,vitamin a
+307	milk punch	milk,punch
+308	licorice	ice,rice
+309	french bread	bread
+310	celery salt	salt
+311	whole milk	milk
+312	liquid diet	diet
+313	coquilles saint jacques	coquille
+314	apple dumpling	dumpling
+315	cocktail sauce	cocktail,sauce
+316	five spice powder	ice,spice
+317	worcester sauce	sauce
+318	lyonnaise sauce	sauce
+319	vodka martini	martini,vodka
+320	breadstick	bread,stick
+321	firm omelet	omelet
+322	cheese dip	cheese,dip
+323	sloe gin	gin
+324	sourball	sour
+325	cinnamon roll	cinnamon
+326	whole wheat flour	flour,wheat,wheat flour
+327	frozen dessert	dessert
+328	mulled cider	cider
+329	cheese pizza	cheese,pizza
+330	ice cream cake	cream,ice,ice cream
+331	bread sauce	bread,sauce
+332	fruit custard	custard
+333	beef fondue	fondue
+334	ginger	gin
+335	english muffin	muffin
+336	lemon juice	ice,juice
+337	nougat bar	nougat
+338	molasses kiss	kiss,molasses
+339	spearmint oil	mint
+340	beef broth	broth
+341	swiss steak	tea
+342	fish mousse	mousse
+343	reducing diet	diet
+344	canned food	food
+345	mulled wine	wine
+346	carrot stick	stick
+347	poached egg	egg
+348	remoulade sauce	sauce
+349	oyster stew	stew
+350	salad nicoise	salad
+351	pork and veal goulash	goulash
+352	herb tea	herb,tea
+353	frozen custard	custard
+354	matzo meal	matzo,meal
+355	coconut milk	milk
+356	corned beef hash	corn,hash
+357	steak au poivre	poi,tea
+358	string cheese	cheese
+359	coca cola	cola
+360	malted milk	malt,milk
+361	instant coffee	coffee
+362	tomato juice	ice,juice
+363	soda cracker	cracker
+364	jug wine	wine
+365	soul food	food
+366	chowder	chow
+367	dill seed	dill
+368	poppy seed	pop
+369	green tea	tea
+370	dietary supplement	diet,dietary
+371	frozen yogurt	yogurt
+372	miraculous food	food
+373	cafe royale	ale
+374	crab cocktail	cocktail
+375	comfort food	food
+376	mornay sauce	sauce
+377	egg roll	egg
+378	vitamin bc	vitamin
+379	chocolate pudding	cola,pudding
+380	anadama bread	bread
+381	sun tea	tea
+382	cheeseburger	cheese
+383	spaghetti and meatballs	meatball,spaghetti
+384	candy egg	candy,egg
+385	french omelet	omelet
+386	canary wine	wine
+387	quark cheese	cheese
+388	homogenized milk	milk
+389	rice	ice
+390	steak sauce	sauce,tea
+391	soya milk	milk
+392	brown sauce	sauce
+393	vitamin k1	vitamin,vitamin k
+394	vitamin k3	vitamin,vitamin k
+395	goat cheese	cheese,oat
+396	peanut bar	nut bar
+397	duck sauce	sauce
+398	fluffy omelet	omelet
+399	bitters	bitter
+400	chinese anise	anise
+401	bulgur pilaf	bulgur,pilaf
+402	bouillon cube	bouillon
+403	pea soup	soup
+404	chocolate mousse	cola,mousse
+405	vitamin b2	vitamin
+406	brandyball	bran,brandy
+407	low calorie diet	diet
+408	vitamin b6	vitamin
+409	bean curd	curd
+410	sour cream	cream,sour
+411	mixed drink	mix
+412	sandwich plate	plate,sandwich
+413	soft diet	diet
+414	pickle relish	pickle,relish
+415	beef goulash	goulash
+416	certified milk	milk
+417	gluten free diet	diet
+418	c ration	ration
+419	bolognese pasta sauce	pasta,sauce
+420	bathtub gin	gin
+421	mashed potato	mash,potato
+422	club sandwich	sandwich
+423	meringue kiss	kiss
+424	baking powder biscuit	biscuit
+425	popcorn ball	corn,pop,popcorn
+426	meuniere butter	butter
+427	celery stick	stick
+428	green salad	salad
+429	salisbury steak	tea
+430	bitter lemon	bitter
+431	curry sauce	curry,sauce
+432	sugarplum	sugar
+433	carrot pudding	pudding
+434	drinking water	water
+435	pepper steak	pepper,tea
+436	barbecue sauce	barbecue,sauce
+437	fried egg	egg
+438	eggnog	egg
+439	turtle soup	soup
+440	orange juice	ice,juice
+441	acidophilus milk	milk
+442	cheese spread	cheese,spread
+443	chocolate ice cream	cola,cream,ice,ice cream
+444	vitamin pill	vitamin,vitamin p
+445	limeade	mead
+446	marshmallow fluff	marshmallow
+447	sausage pizza	pizza,sage
+448	chicken provencale	ale
+449	rum sling	rum,sling
+450	mother's milk	milk
+451	ice water	ice,water
+452	fish stew	stew
+453	clam chowder	chow,chowder
+454	chinese mustard	must,mustard
+455	vitamin b12	vitamin,vitamin b1
+456	mustard seed	must,mustard
+457	dietary	diet
+458	rat cheese	cheese
+459	oxtail soup	soup
+460	seafood newburg	food
+461	lye hominy	hominy
+462	champagne cup	champagne,cup
+463	frozen food	food
+464	scrambled eggs	egg
+465	drop scone	scone
+466	sauterne	saute
+467	yak butter	butter
+468	jamaica rum	jam,rum
+469	buttermilk	butter,milk
+470	scotch and soda	scotch
+471	double cream	cream
+472	white rice	ice,rice
+473	cake mix	mix
+474	monosodium glutamate	mate
+475	crabapple jelly	apple jelly,bap,jelly
+476	orange toast	toast
+477	chowchow	chow
+478	cream cheese	cheese,cream
+479	lump sugar	sugar
+480	wild rice	ice,rice
+481	creme caramel	caramel
+482	anchovy dressing	dressing
+483	light beer	beer
+484	peach sauce	sauce
+485	fruit cocktail	cocktail
+486	juice	ice
+487	high protein diet	diet
+488	dill pickle	dill,pickle
+489	onion bread	bread
+490	shrimp cocktail	cocktail
+491	green mayonnaise	mayonnaise
+492	snack food	food
+493	frozen orange juice	ice,juice,orange juice
+494	hot sauce	sauce
+495	barbecued spareribs	barbecue
+496	clarified butter	butter
+497	pearl barley	barley
+498	spaghetti sauce	sauce,spaghetti
+499	ice cream sundae	cream,ice,ice cream
+500	fish and chips	chip
+501	sour mash	mash,sour
+502	power breakfast	breakfast
+503	pease pudding	pudding
+504	brown butter	butter
+505	dry vermouth	vermouth
+506	scotch egg	egg,scotch
+507	french toast	toast
+508	bottled water	water
+509	corn chowder	chow,chowder,corn
+510	altar wine	wine
+511	bird feed	feed
+512	gin and it	gin
+513	brownie mix	mix
+514	sherbert	herb
+515	pearl hominy	hominy
+516	dehydrated food	food
+517	chicken mousse	mousse
+518	chocolate egg	cola,egg
+519	barley water	barley,water
+520	riesling	sling
+521	sweet vermouth	sweet,vermouth
+522	sicilian pizza	pizza
+523	drop biscuit	biscuit
+524	allergy diet	diet
+525	corn muffin	corn,muffin
+526	waldorf salad	salad
+527	irish stew	irish,stew
+528	pasta salad	pasta,salad
+529	veal cordon bleu	bleu
+530	chicken tetrazzini	tetrazzini
+531	sweetmeat	sweet
+532	chicken stew	stew
+533	evaporated milk	milk
+534	buttermilk biscuit	biscuit,butter,buttermilk,milk
+535	california wine	wine
+536	peanut butter	butter,nut butter
+537	wheat flour	flour,wheat
+538	vichy water	water
+539	gin sling	gin,sling
+540	icing sugar	sugar
+541	carrot juice	ice,juice
+542	chenin blanc	blanc
+543	sweet corn	corn,sweet
+544	bread and butter pickle	bread,butter,pickle
+545	tea bag	tea
+546	corn chip	chip,corn
+547	carob bar	carob
+548	irish coffee	coffee,irish
+549	lithia water	water
+550	scrumpy	rum
+551	horseradish	dish
+552	fritter batter	batter
+553	balanced diet	diet
+554	chicken paprika	paprika
+555	groats	oat
+556	tossed salad	salad
+557	cottage cheese	cheese
+558	chicken broth	broth
+559	chocolate kiss	cola,kiss
+560	mulligan stew	stew
+561	creep feed	feed
+562	powdered mustard	must,mustard
+563	matelote	mate
+564	clover leaf roll	clove
+565	rhone wine	wine
+566	water biscuit	biscuit,water
+567	maple syrup	syrup
+568	tartare sauce	sauce
+569	iced coffee	coffee,ice
+570	straw wine	wine
+571	fines herbes	herb
+572	garlic salt	garlic,salt
+573	plum sauce	sauce
+574	macrobiotic diet	diet
+575	diabetic diet	diet
+576	swedish meatball	dish,meatball
+577	cinnamon bread	bread,cinnamon
+578	caesar salad	salad
+579	pina colada	cola
+580	clear liquid diet	diet,liquid diet
+581	baked potato	potato
+582	macaroni salad	salad
+583	choc ice	ice
+584	tea bread	bread,tea
+585	newburg sauce	sauce
+586	water ice	ice,water
+587	green olive	olive
+588	taco sauce	sauce,taco
+589	loaf of bread	bread
+590	butterscotch	butter,scotch
+591	dessert wine	dessert,wine
+592	brick cheese	cheese
+593	onion butter	butter
+594	gruel	rue
+595	cracked wheat bread	bread,cracked wheat,wheat
+596	nosh up	nosh
+597	sauce louis	sauce
+598	grape jelly	jelly
+599	lemonade mix	lemonade,mix
+600	gelatin dessert	dessert,gelatin
+601	pimento butter	butter
+602	sweet roll	sweet
+603	corn whiskey	corn,whiskey
+604	porter	port
+605	italian bread	bread
+606	turkey stew	stew
+607	nut butter	butter
+608	white pepper	pepper
+609	raisin bread	bread
+610	onion salt	salt
+611	ice milk	ice,milk
+612	peach ice cream	cream,ice,ice cream
+613	manhattan clam chowder	chow,chowder,clam chowder,manhattan
+614	vitamin b1	vitamin
+615	pale ale	ale
+616	tomato concentrate	concentrate
+617	wheat germ	wheat
+618	gin rickey	gin,rickey
+619	fruit juice	ice,juice
+620	caraway seed	caraway
+621	cambric tea	tea
+622	brandy	bran
+623	cheese sauce	cheese,sauce
+624	light cream	cream
+625	tamale pie	ale,tamale
+626	salt rising bread	bread,salt
+627	food cache	food
+628	oatmeal	meal,oat
+629	may wine	wine
+630	flatbread	bread
+631	pepper sauce	pepper,sauce
+632	half and half dressing	dressing,half and half
+633	turkish coffee	coffee
+634	rye bread	bread,rye
+635	ploughman's lunch	lunch
+636	field ration	ration
+637	corn gluten feed	corn,feed
+638	brown sugar	sugar
+639	tortilla chip	chip
+640	lemon curd	curd
+641	honey crisp	honey
+642	oyster stuffing	stuffing
+643	grapefruit juice	fruit juice,ice,juice
+644	rhine wine	wine
+645	corn sugar	corn,sugar
+646	combination salad	salad
+647	b complex vitamin	vitamin
+648	brandy sling	bran,brandy,sling
+649	hard cider	cider
+650	charlotte russe	charlotte
+651	cheese souffle	cheese,souffle
+652	peppermint oil	mint,pepper,peppermint
+653	corn syrup	corn,syrup
+654	pasteurized milk	milk
+655	choice morsel	ice
+656	ginger beer	beer,gin,ginger
+657	cream sauce	cream,sauce
+658	skillet corn bread	bread,corn
+659	table wine	wine
+660	steamed pudding	pudding,tea
+661	lentil soup	soup
+662	corn cake	corn
+663	cat food	food
+664	steak tartare	tea
+665	sweet woodruff	sweet
+666	spice	ice
+667	mincemeat	mince
+668	pepper pot	pepper
+669	peppermint	mint,pepper
+670	garlic butter	butter,garlic
+671	elixir of life	elixir
+672	cornmeal	corn,meal
+673	sweet pickle	pickle,sweet
+674	pinot blanc	blanc
+675	neapolitan ice cream	cream,ice,ice cream
+676	clotted cream	cream
+677	lobster stew	stew
+678	sauvignon blanc	blanc
+679	soda water	water
+680	sloppy joe	slop
+681	vanilla pudding	pudding,vanilla
+682	puff batter	batter
+683	anchovy butter	butter
+684	claret cup	claret,cup
+685	mock turtle soup	soup,turtle soup
+686	low fat milk	milk
+687	high vitamin diet	diet,vitamin,vitamin d
+688	triple cream	cream
+689	brunswick stew	stew
+690	tomato sauce	sauce
+691	curry powder	curry
+692	whipping cream	cream,whip
+693	tamale	ale
+694	lime juice	ice,juice
+695	mustard	must
+696	wine sauce	sauce,wine
+697	fish house punch	punch
+698	mint sauce	mint,sauce
+699	hard sauce	sauce
+700	ready mix	mix
+701	fruit salad	salad
+702	oil meal	meal
+703	macaroni and cheese	cheese
+704	spring water	water
+705	soy sauce	sauce
+706	boiled egg	egg
+707	pepperoni pizza	pepper,pizza
+708	molded salad	mold,salad
+709	chicken cordon bleu	bleu

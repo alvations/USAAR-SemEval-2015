@@ -1,0 +1,785 @@
+0	bean	pea
+1	ice cream	frozen dessert,sorbet,whipped cream
+2	peanut oil	hemp oil,canola oil,soybean oil,coconut oil
+3	nectarine	cherry,plum,peach,apple,apricot,pear,persimmon
+4	oil noodles	vegetable oil
+5	noodle	noodle soup,rice noodles
+6	laksa	noodle soup
+7	bakarkhani	kinnathappam,bebinca
+8	pineapple	guava,banana,passion fruit,mango,papaya
+9	fruit sauce	sweet
+10	turtle soup	chicken soup,sour soup
+11	lettuce	cucumber,cabbage,celery,spinach
+12	fudge	toffee,caramel
+13	sesame stick	sesame seed
+14	rose hip soup	sour cherry soup
+15	saffron bun	sweet roll
+16	honey nut clusters	fruit,hazelnut,almond,caramel
+17	pita	flatbread
+18	korean noodles	noodle,noodle soup,rice noodles
+19	fennel seed	cumin,coriander
+20	honey smacks	breakfast cereal
+21	basil	oregano,thyme,tarragon,rosemary,garlic
+22	molasses	syrup,sugar
+23	ponzu	sauce
+24	geera pork	beef,meat
+25	chives	dill,tarragon,garlic,parsley,basil,thyme
+26	oregano	thyme,basil,garlic,tarragon,rosemary,marjoram,bay leaf
+27	salad dressing	mayonnaise,sauce,barbecue sauce,condiment
+28	tomato paste	garlic,sauce,onion,paprika
+29	pork chop	beef,sausage,meat
+30	toffee	caramel,fudge,chocolate bar
+31	christmas pudding	spotted dick,christmas cake
+32	köttsoppa	cold borsch
+33	garlic powder	salt,coriander,cumin
+34	sunflower seed	corn
+35	rotini	rotelle
+36	dill	parsley,tarragon,garlic,celery,oregano,coriander,thyme,cumin,paprika
+37	bread pudding mix	porridge
+38	fuet	sausage
+39	mayonnaise	salad dressing,barbecue sauce,ketchup,sour cream,sauce
+40	weisswurst	sausage
+41	biscuit	chocolate bar
+42	sugar puffs	syrup
+43	duck soup noodles	noodle soup,noodle,chicken soup,rice noodles
+44	kiwi	mango
+45	honey	syrup
+46	roti	chapati,flatbread
+47	shirataki noodles	noodle soup,noodle,rice noodles
+48	amish friendship bread	sweet roll,bun
+49	shrimp roe noodles	noodle,rice noodles
+50	sesame oil	vegetable oil,garlic,soy sauce
+51	colomba di pasqua	buccellato
+52	kugelis	kugel
+53	frozen yoghurt	ice cream,frozen dessert,sorbet
+54	drunken noodles	rice noodles,noodle soup,noodle,rice vermicelli
+55	cocktail sauce	barbecue sauce,brown sauce,condiment
+56	chocolate covered fruit	caramel,toffee,hazelnut
+57	mush	porridge
+58	mafalde	pillus,sagnarelli,tripoline,lasagnette,sacchettoni,linguettine
+59	brandy	liqueur,vodka,schnapps
+60	mango	guava,pineapple,passion fruit,banana,papaya
+61	salt pork	beef,meat
+62	tahinopita	močnik
+63	water	salt
+64	garganelli	neapolitan pizza
+65	prepared side dish	side dish
+66	fläskkorv	isterband
+67	dodger dog	hot dog
+68	tofu	bean sprout
+69	rugbrød	rye bread,brown bread,rupjmaize
+70	sponge cake	pastry,layer cake,sweet roll,chocolate cake
+71	penne	linguine,pasta,rigatoni,spaghetti,fusilli,bucatini
+72	coffee creamer	hot chocolate,instant coffee
+73	chinese pancake	močnik
+74	tapalapa bread	flatbread,maafe
+75	baati	bebinca,bhakri
+76	hasty pudding	porridge
+77	layer cake	sponge cake,chocolate cake,spice cake
+78	almond milk	hazelnut,hemp milk,cream,oat milk,condensed milk
+79	gulgukbap	bánh chuối
+80	wanko soba	udon,okonomiyaki
+81	udon	noodle soup,noodle,rice noodles
+82	ga'at	bebinca
+83	seattle-style hot dog	hot dog
+84	flavoured malt drink	liqueur,beverage
+85	appetiser	draw soup
+86	schnapps	vodka,liqueur
+87	veda bread	sabounee
+88	olive oil	canola oil,peanut oil,garlic,tahini,soybean oil,vegetable oil
+89	instant coffee	hot chocolate,beverage
+90	sugar	syrup,tianmianjiang,corn syrup
+91	tucupi	tacacá
+92	ciabatta	panbrioche
+93	espagnole sauce	brown sauce
+94	horseradish sauce	mustard,mayonnaise,barbecue sauce,condiment
+95	muffin	donut
+96	bitter	sweet
+97	sprouted bread	cornmeal
+98	quinoa	corn,arracacha
+99	soup	chicken soup,sour soup,borscht
+100	frosted flakes	breakfast cereal
+101	far breton	kouign amann
+102	meat patty	beef
+103	ketchup	barbecue sauce,mayonnaise,sauce,mustard
+104	rye	barley,wheat,oats
+105	oliebol	ontbijtkoek
+106	ravioli	pasta,tortellini
+107	rum	liqueur
+108	fennel bulb	celery
+109	walnut	almond,persimmon,hazelnut,plum,cherry,pistachio
+110	corn syrup	sugar
+111	chilli oil	garlic,sesame oil,soy sauce
+112	chard	cabbage,spinach
+113	wedding soup	chicken soup,hochzeitssuppe
+114	loquat	persimmon,cherry
+115	breakfast cereal	corn flakes,weetabix
+116	tortellini	tortelloni,ravioli,passatelli
+117	condiment	sauce,brown sauce,side dish,salad dressing
+118	parsley	dill,garlic,celery,tarragon,onion,oregano,thyme
+119	dashi	soy sauce
+120	bundt cake	sponge cake,pastry,quick bread
+121	czernina	mykyrokka,pig s organ soup
+122	sapote	mamey,guava
+123	prepared sandwich	mollete
+124	apple butter	plum,cherry,cream cheese
+125	mamoncillo nut	hazelnut
+126	rúgbrauð	rugbrød,rupjmaize,rye bread
+127	depression cake	spice cake,torte,fruit cake,wedding cake
+128	fruit bun	sweet,fruit salad,sweet roll
+129	french toast	bread
+130	chili dog	hot dog
+131	bottled coffee drink	beverage
+132	white bread	rye bread,brown bread
+133	pastina	acini di pepe
+134	gumbo	mulligatawny
+135	saang mein	noodle soup
+136	bow wow sauce	barbecue sauce,brown sauce
+137	crisp bread	rye bread,flatbread,brown bread
+138	rigatoni	linguine,penne
+139	banana bread	pudding
+140	borscht	soup,solyanka,cold borsch
+141	chocolate bar	candy bar,toffee,caramel
+142	vermouth	vodka,liqueur,schnapps
+143	wonton noodles	noodle,rice noodles,noodle soup,rice vermicelli
+144	milk	yoghurt
+145	yu choy	on choy
+146	walnut oil	canola oil,peanut oil,hemp oil
+147	fat rascal	goro
+148	kream krunch	breakfast cereal
+149	starfruit	longan,guava
+150	cabbage	kale,cauliflower,spinach
+151	beetroot	cabbage,cauliflower,lettuce,spinach,potato,cucumber
+152	pathiri	kinnathappam
+153	sour cream doughnut	sweet
+154	neenish tart	caramel tart,pie
+155	dried bean	bean paste
+156	beetroot green	cabbage,tomato,cauliflower,onion,cucumber
+157	halfsies	smorz
+158	tekwan	kinnathappam
+159	rice bread	porridge,flatbread
+160	pork tenderloin	beef,meat
+161	jatjuk	jeonbokjuk
+162	shahe fen	rice noodles
+163	quince	plum,cherry,apple,pear,persimmon
+164	wine cake	močnik
+165	rosemary	thyme,oregano,basil,tarragon
+166	chancaca	syrup
+167	cocktail bun	caramel tart
+168	cake	sponge cake,pastry,spice cake,layer cake
+169	pistachio pudding	almond
+170	olive loaf	bread
+171	thenthuk	thukpa
+172	rye bread	rugbrød,white bread,flatbread,crisp bread
+173	bavette	sacchettoni
+174	coffee cake	bebinca
+175	energy drink	beverage
+176	worcestershire sauce	brown sauce,barbecue sauce,hot sauce,ketchup,mayonnaise
+177	orange	lemon,peach,apricot,cherry
+178	vinegar	soy sauce,garlic,fish sauce
+179	chongyang cake	berlingozzo,močnik
+180	hot dog bun	hot dog,sausage
+181	fish sauce	soy sauce,condiment
+182	pizza sauce	salad dressing
+183	taftan	kinnathappam
+184	cooking starch	food
+185	vichyssoise	soup
+186	condensed milk	evaporated milk,powdered milk,yoghurt
+187	poppy milk	yoghurt
+188	bagel toast	flatbread,french toast
+189	scali bread	flatbread
+190	hot and sour soup	sour soup
+191	licorice	aniseed
+192	gin	vodka,schnapps
+193	lemon	orange,lime
+194	thyme	oregano,tarragon,rosemary,basil,marjoram
+195	soy milk	almond milk,hemp milk,powdered milk,oat milk
+196	cereal	breakfast cereal,shredded wheat,weetabix
+197	stringozzi	močnik
+198	feijoa	apple,plum
+199	agrodolce	sweet,sago pudding
+200	sata andagi	močnik
+201	clackers cereal	breakfast cereal,weetabix
+202	chocolate truffle	caramel
+203	dripping cake	bebinca
+204	waffle crisp	smorz
+205	buc wheats cereal	breakfast cereal,shredded wheat,weetabix
+206	corn chowder	potato
+207	spätzle	landjäger
+208	kalamai	kulolo
+209	jjolmyeon	sauce
+210	dundee cake	berlingozzo
+211	tagliatelle	linguine,pasta,rigatoni,ravioli,trenette
+212	babka	christmas cake
+213	german chocolate cake	chocolate cake,sponge cake
+214	gravy	sauce
+215	asparagus	cauliflower,broccoli,cabbage,okra
+216	gypsy tart	sweet,caramel tart
+217	salt	garlic,paprika,garlic powder,vinegar
+218	bologna sausage	salami
+219	mung bean sheets	bean paste
+220	babaco	mangosteen,fruit
+221	lunch meat	beef
+222	rice noodles	noodle,noodle soup,rice vermicelli
+223	sago pudding	kinnathappam,močnik
+224	mami soup	noodle soup,chicken soup
+225	flourless chocolate cake	sponge cake,chocolate cake
+226	biángbiáng noodles	noodle,rice noodles,noodle soup
+227	red wine	white wine,dessert wine
+228	alphabet pasta	pasta sauce
+229	corn dog	chili dog,hot dog,popcorn
+230	dough	pastry
+231	bread	flatbread,white bread
+232	ginger root	coriander
+233	brown sauce	barbecue sauce,condiment
+234	baking powder	flour,baking soda
+235	pillus	mafalde,sagnarelli,lasagnette,tripoline,sacchettoni
+236	bermuda fish chowder	seafood
+237	vinegar drink	beverage
+238	jams and preserves	fruit
+239	ajiaco	sancocho
+240	breakfast sausage	bratwurst
+241	marinade	sauce,condiment
+242	andouillette	blood soup
+243	apricot	cherry,plum,peach,orange,apple,persimmon
+244	sour rye soup	borscht
+245	cereal and granola bar	beverage,breakfast cereal,frozen dessert
+246	tuscan cabbage	kale,cauliflower
+247	likëngë	crenvurșt
+248	chinese noodles	noodle,noodle soup,rice noodles
+249	brazil nut	hazelnut,guava
+250	pastiera	layer cake
+251	sponge and dough	pastry,brioche
+252	grape-nut	fruit,almond,berry,cherry,hazelnut
+253	tortelloni	tortellini
+254	siemieniotka	sour rye soup
+255	pastry	brioche
+256	nougat	caramel,toffee
+257	powdered tea	hot chocolate
+258	bún bò huế	noodle soup
+259	salad topping	sauce,side dish
+260	memela	kulolo
+261	vienna sausage	weisswurst
+262	cumberland sausage	black pudding,salami
+263	hemp oil	soybean oil,peanut oil,canola oil
+264	pickled pigs feet	pork
+265	coulis	bánh chuối
+266	crunchy nut	caramel,hazelnut
+267	savory	sweet
+268	prepared food	beverage
+269	svartsoppa	mykyrokka
+270	figgy duff	bebinca
+271	soy sauce	ganjang
+272	cake and brownie mix	chocolate cake
+273	apple	cherry,plum,pear,peach
+274	bagel	breadstick,flatbread
+275	sunny boy cereal	breakfast cereal
+276	flatbread	tandoor bread
+277	granula	smorz,shredded wheat,raisin bran,breakfast cereal
+278	shallot	onion,garlic
+279	boston butt	hot dog
+280	vegetable oil	cooking oil,hemp oil,soybean oil
+281	oats	wheat,barley,rye
+282	linguine	rigatoni,penne,trenette
+283	juice	beverage
+284	kornigou	berlingozzo
+285	brown bread	rye bread,white bread
+286	onion	garlic,tomato
+287	mettwurst	sausage,weisswurst,bratwurst
+288	cake pop	chocolate cake
+289	jook-sing noodles	rice noodles,noodle soup,noodle
+290	baking soda	baking powder
+291	tonic water	carbonated water
+292	rubaboo	močnik
+293	chapati	roti,flatbread
+294	syrniki	bebinca
+295	pesarattu	kinnathappam,bebinca,dosa
+296	sugar cane	molasses,syrup
+297	currant	cherry
+298	oxtail soup	noodle soup,chicken soup
+299	gooey butter cake	sponge cake
+300	coffee cake	bebinca
+301	apple sauce	sweet,cherry,plum
+302	cellophane noodles	noodle soup,rice noodles,noodle
+303	cream cheese	sour cream,cottage cheese
+304	wedding cake	chocolate cake,christmas cake,fruit cake
+305	tipsy cake	torte
+306	cooking wine	rice wine,vinegar,sherry
+307	consommé	soup
+308	lincolnshire sausage	crépinette
+309	korean noodle	noodle soup
+310	fruit	cherry,apple,berry,plum
+311	sugo all'amatriciana	pasta
+312	maltese bread	sweet roll
+313	ragù	bolognese sauce
+314	bánh bèo	bánh chuối,bánh bò
+315	pear	cherry,apple,plum
+316	frozen noodles	pasta,noodle
+317	turnip	cabbage,radish,kohlrabi,leek,cauliflower
+318	cashew	coconut
+319	artichoke	chicory,leek
+320	pork jowl	beef
+321	pumpkin seed	potato,sweet potato,melon
+322	whole wheat bread	flour,cornmeal,white bread
+323	tartar sauce	mayonnaise,brown sauce,barbecue sauce,ketchup,worcestershire sauce,sour cream,hot sauce
+324	sauce	brown sauce,barbecue sauce,condiment
+325	tamarind	coconut,guava
+326	currant bun	sweet roll,caramel tart
+327	rice milk	evaporated milk,condensed milk,almond milk,coconut milk
+328	dragon beard noodles	noodle soup,noodle
+329	white wine	red wine,dessert wine
+330	avocado	guava,mamey,pineapple
+331	madeira cake	sponge cake,fruit cake,spice cake,christmas cake
+332	herman cake	berlingozzo
+333	coconut	guava,banana
+334	cardamom bread	flatbread
+335	wine	dessert wine,sparkling wine,sherry
+336	bun rieu	sweet roll
+337	tacacá	tucupi
+338	smorz	cruncheroos
+339	liver soup	chicken soup
+340	buchteln	sweet roll
+341	tavuk göğsü	kinnathappam
+342	soybean oil	canola oil,peanut oil,vegetable oil,hemp oil,coconut oil
+343	cauliflower	cabbage,kohlrabi,broccoli,celery,cucumber
+344	cupcake	wedding cake,chocolate cake
+345	buttermilk	yoghurt,milk
+346	red peas soup	bouneschlupp
+347	nali sauce	brown sauce
+348	sacramental bread	nshkhar
+349	yonezawa beef	pork
+350	dessert wine	sweet
+351	gelbwurst	crenvurșt
+352	melon	cucumber
+353	sour cream	cream cheese,sauce,yoghurt
+354	easter bread	sweet roll
+355	shchi	solyanka,rassolnik
+356	pineapple tart	apple,fruit,cherry
+357	adobe bread	nshkhar
+358	radish	cabbage,cauliflower,turnip,cucumber
+359	mixed nut	hazelnut
+360	mock turtle soup	chicken soup
+361	sachertorte	chocolate cake,spice cake,cake,sponge cake
+362	lahoh	močnik
+363	sangria	beverage
+364	macaroni soup	borscht
+365	coriander	cumin,garlic
+366	peanut sauce	gravy
+367	guava	passion fruit,mango,papaya,mamey,pineapple
+368	complete wheat bran flakes	rye,barley
+369	cranberry sauce	barbecue sauce,sweet,gravy
+370	honey garlic sauce	mustard,vinegar,tahini
+371	pepper	paprika,garlic
+372	rock cake	berlingozzo,pancake
+373	youtazi	sagnarelli
+374	lemon grass	thyme
+375	pandoro	panforte
+376	meat	beef,pork
+377	broccoli	cabbage,cauliflower,kale,spinach,kohlrabi,asparagus
+378	pork roll	sausage,beef
+379	tinned meat	beef
+380	wheat	barley,rye,oats,corn
+381	malanga	sweet potato
+382	rice	wheat,millet
+383	hot dry noodles	soup
+384	donut	doughnut
+385	sundae cone	ice cream
+386	evaporated milk	condensed milk,powdered milk,sugar
+387	macadamia nut	almond,coconut,hazelnut,guava
+388	andouille	sausage
+389	sugar apple	plum,cherry,fruit,pear,syrup
+390	spekkoek	pandan cake
+391	paprika	garlic,cumin,pepper
+392	cannelloni	pasta
+393	marshmallow	toffee
+394	tripoline	pillus,mafalde,sagnarelli,lasagnette,linguettine
+395	pie crust	pastry
+396	butter and margarine	cream,milk
+397	tarragon	thyme,oregano,basil,dill,parsley
+398	french onion soup	bouneschlupp
+399	bean paste	sweet
+400	rutabaga	turnip,cabbage,leek
+401	boston cream doughnut	donut
+402	cavatelli	orecchiette,acini di pepe,pastina
+403	cooking ingredient	condiment
+404	marjoram	thyme,oregano,tarragon,coriander,basil,cumin
+405	eggnog	beverage
+406	singapore style noodle	noodle soup
+407	rice oil	cooking oil
+408	pumpkin	squash,potato,sweet potato,melon
+409	curry sauce	gravy,brown sauce
+410	vegetarian hot dog	hot dog,sausage
+411	ganjang	soy sauce
+412	crustless bread	white bread
+413	mint sauce	brown sauce,condiment
+414	mangosteen	longan,rambutan
+415	golden crisp	rice krispies
+416	grits	cornmeal,porridge
+417	twist bread	bun
+418	crostata	pie
+419	almond	hazelnut,pistachio,walnut,apricot
+420	caramel tart	sweet,nougat
+421	chimichurri	sauce
+422	salami	sausage,mortadella
+423	farl	potato bread
+424	frosted mini-wheats	breakfast cereal
+425	crossing the bridge noodles	noodle,noodle soup
+426	spice cake	fruit cake
+427	kinnathappam	bebinca
+428	michigan hot dog	hot dog
+429	steak sauce	barbecue sauce,brown sauce,mayonnaise,cocktail sauce,salad dressing,ketchup
+430	crêpe	galette
+431	bolognese sauce	ragù,spaghetti,pesto
+432	okroshka	sour soup,suaasat
+433	curry ketchup	barbecue sauce,sauce,mayonnaise
+434	sausage making	crépinette
+435	empanada	pastry
+436	pie filling	pastry,cake
+437	tart	sweet,caramel tart
+438	saveloy	sausage
+439	horseradish root	mustard,celery
+440	deli meat	beef,sausage,pork
+441	cactus leaf	prickly pear
+442	tinned seafood	frozen seafood
+443	sorbet	frozen dessert,sherbet,ice cream
+444	pine nut	walnut,hazelnut,almond,pistachio
+445	corn pops	cereal
+446	trenette	linguine
+447	potato doughnut	bebinca
+448	cherry	plum,apple,peach
+449	vegetable	cold borsch
+450	loose tea leaf	berry
+451	opera cake	berlingozzo
+452	noodle soup	rice noodles,chicken soup
+453	beef noodle soup	noodle soup,rice noodles,rice vermicelli
+454	aioli	sauce
+455	coconut doughnut	boston cream doughnut,bebinca,donut
+456	noodle with tomato egg sauce	soup
+457	cold borsch	borscht,soup
+458	bread crumb	sweet roll
+459	pea soup	chicken soup,tomato soup
+460	cupcake	wedding cake,chocolate cake
+461	rice vermicelli	noodle,rice noodles,noodle soup
+462	blush wine	dessert wine
+463	torte	chocolate cake,cake
+464	mustard	garlic
+465	fish tea	beverage
+466	organic beef	seafood
+467	jelly bean	sweet,bean paste,bouneschlupp
+468	parsley root	celery,dill,parsnip,onion,coriander,garlic
+469	olives and capers	garlic
+470	salt-rising bread	flour,white bread,cornmeal
+471	millet	barley
+472	soy product	beverage
+473	doughnut	donut
+474	rhubarb tart	sweet
+475	meunière sauce	nataing
+476	toffee brittle	caramel,nougat
+477	cucumber	cauliflower,melon
+478	standing rib roast	beef
+479	thuringian sausage	bratwurst,boerewors
+480	peanut butter cups	caramel
+481	cottage cheese	cream cheese
+482	æbleskiver	pancake
+483	waffle and pancake mix	crêpe
+484	morteau sausage	nataing
+485	steak and kidney pudding	black pudding,gravy
+486	candy cane	syrup,toffee
+487	pie	pastry
+488	watercress	greens,spinach,celery,cabbage,cucumber
+489	oatmeal	cornmeal,flour,porridge
+490	minestrone	soup,goulash
+491	tinned soup	köttsoppa
+492	sherry	wine,brandy
+493	rotelle	rotini,cavatelli
+494	pleşcoi sausages	sausage,bratwurst,mettwurst
+495	graham bread	brown bread,sabounee
+496	pudding	spotted dick
+497	suprême sauce	brown sauce
+498	fruit-flavoured drink	beverage,liqueur
+499	macaroni	pasta,pasta sauce,spaghetti
+500	ice cream cone	ice cream,frozen dessert,whipped cream
+501	pain au chocolat	brioche
+502	greens	watercress,cabbage
+503	raisin bran	breakfast cereal,cereal,smorz
+504	pasta sauce	pesto,spaghetti
+505	raisin wheats	breakfast cereal
+506	challah	matzo,nshkhar,bread
+507	sherbet	sorbet,beverage
+508	pecan	walnut
+509	barm cake	sweet roll,sponge cake,spice cake,layer cake,teacake
+510	floss sugar	syrup
+511	fizzy drink	beverage
+512	carrot	leek,potato,celery,turnip,onion
+513	crumpet	spice cake
+514	sauce ravigote	brown sauce,barbecue sauce
+515	kugel	bebinca
+516	spaghetti	pasta,linguine,penne,pasta sauce
+517	caramel	toffee,nougat
+518	eccles cake	bebinca,sweet roll
+519	soup all'imperatrice	solyanka,borscht
+520	coloured sugar	syrup
+521	homli fruit	cherry,beverage
+522	baking mix	chocolate cake
+523	syrup	sugar
+524	brioche	sweet roll,pastry
+525	berry	cherry,peach
+526	fruit and nut snack	beverage,almond,sweet,hazelnut
+527	bread sauce	brown sauce
+528	dandan noodles	noodle,rice noodles
+529	dosa	idli
+530	pound cake	sponge cake,chocolate cake,fruit cake,sweet roll
+531	corn	wheat,millet
+532	debrecener	sausage
+533	chocolate cake	sponge cake
+534	pandan cake	spice cake,sweet
+535	garbure	sour soup
+536	bouneschlupp	močnik
+537	rab cake	berlingozzo
+538	peach	cherry,plum,berry,apricot,apple,orange
+539	bulla cake	sfouf,spice cake
+540	dessert topping	spice cake,sponge cake
+541	lung fung soup	noodle soup
+542	hazelnut	almond,pistachio,caramel,walnut
+543	empal gentong	kinnathappam
+544	shortening and lard	vegetable oil
+545	liverwurst	sausage
+546	mykyrokka	pig s organ soup,svartsoppa
+547	mamey	guava
+548	barley bread	rye,wheat,cornmeal
+549	shredded wheat	corn
+550	béchamel sauce	brown sauce,barbecue sauce,gravy
+551	coney island hot dog	hot dog,bun
+552	lasagnette	pillus,mafalde,tripoline,sagnarelli,linguettine
+553	vodka	schnapps,liqueur
+554	tomato	aubergine,onion
+555	wagafi bread	flatbread
+556	christmas cake	spice cake,pastry,fruit cake
+557	kohlrabi	cauliflower,cabbage,kale
+558	cantonese seafood soup	noodle soup,sour soup
+559	bratwurst	sausage,hot dog,mettwurst
+560	cornmeal	flour,porridge
+561	cervelat	snack cake
+562	onion powder	garlic,garlic powder,salt,paprika
+563	hard sauce	sweet
+564	merguez	sausage,boerewors
+565	aubergine	tomato
+566	non-dairy milk	dairy product
+567	bun	sweet roll
+568	bak kut teh	noodle soup
+569	non-alcoholic beer	beverage
+570	afghan bread	flatbread
+571	fruit salad	pistachio pudding,sorbet,sour cherry soup
+572	taro root	sweet potato,yam
+573	beef	pork,meat
+574	upside-down cake	sesame seed cake
+575	scotch broth	soup,chicken soup
+576	cruncheroos	smorz
+577	sorrel soup	sour soup,borscht,solyanka
+578	instant noodle	instant noodles,noodle soup,instant soup
+579	pork	beef,meat,sausage
+580	kale	cabbage,kohlrabi,broccoli,cauliflower
+581	granola	breakfast cereal,corn flakes
+582	hot dog	sausage,chili dog,bratwurst
+583	mortadella	salami
+584	cinnamon roll	sweet roll,bun
+585	peach sauce	sweet,cherry,plum,apple
+586	green sauce	tomato,chimichurri
+587	banana	pineapple,guava,passion fruit,coconut,papaya
+588	portuguese sweet bread	močnik
+589	blood soup	sour soup
+590	misua	noodle soup
+591	hot sauce	barbecue sauce,condiment,mayonnaise,ketchup,worcestershire sauce
+592	corn oil	soybean oil,canola oil,peanut oil
+593	chocolate covered nut	caramel,hazelnut,toffee
+594	amandine	crenvurșt
+595	boerewors	sausage
+596	bay leaf	thyme
+597	baking chocolate	toffee,chocolate cake,caramel
+598	sausage	bratwurst
+599	chinkiang pot cover noodles	noodle
+600	satay sauce	peanut sauce,sambal
+601	cracklin' oat bran	cereal,rye,wheat,weetabix,breakfast cereal
+602	hemp milk	powdered milk
+603	tea loaf	caramel tart
+604	henan braised noodle	noodle soup,soup,rice noodles
+605	pasta	pasta sauce,spaghetti,pesto
+606	ukha	suaasat
+607	harissa	močnik
+608	cuban bread	brown bread,rye bread
+609	pepper	paprika,garlic
+610	kue keranjang	spekkoek,pandan cake
+611	ready brek	landjäger
+612	frozen meat	beef,seafood,fresh meat
+613	longan	guava
+614	kulen	sausage
+615	kulajda	kyselo
+616	barley	wheat,rye,oats,millet
+617	glamorgan sausage	boerewors
+618	kumquat	cherry,loquat
+619	teacake	sweet roll,sponge cake
+620	simnel cake	spice cake,sfouf,pastry,christmas cake,pudding
+621	jelly doughnut	donut
+622	raisin bread	rye bread,white bread,brown bread
+623	sacchettoni	pillus,mafalde,sagnarelli,lasagnette,tripoline
+624	ajoblanco	porra antequerana
+625	soy nut	peanut
+626	semifreddo	potato doughnut
+627	anchovy essence	sauce
+628	landjäger	močnik
+629	chicken soup	noodle soup,sour soup
+630	wow-wow sauce	barbecue sauce
+631	powdered milk	condensed milk,yoghurt,evaporated milk
+632	fresh meat	beef,seafood
+633	fruit snack	beverage
+634	tomato soup	borscht,chicken soup
+635	pretzel mix	yoghurt
+636	gastrique	agrodolce
+637	jerusalem artichoke	chicory,leek,asparagus,parsnip
+638	black sesame rice cake	bean paste,sweet
+639	egg drop soup	noodle
+640	lychee	guava,pineapple,longan,banana,mango,passion fruit,rambutan
+641	kobe beef	pork,seafood
+642	candy bar	chocolate bar,toffee
+643	toast	bread
+644	instant noodles	instant noodle,noodle,instant soup,noodle soup
+645	kola nut	coconut,guava
+646	butter cake	sponge cake,pudding,pastry
+647	eggette	potato bread
+648	saucisson	kohlwurst
+649	nintendo cereal system	breakfast cereal,weetabix
+650	spring soup	solyanka,chicken soup
+651	rouille	sauce lyonnaise
+652	pork ribs	beef,sausage,meat
+653	fusilli	penne,rigatoni,pasta
+654	lucanica	sausage
+655	tempeh	sambal
+656	idli	dosa
+657	beutelwurst	močnik
+658	canned and jarred vegetable	food
+659	sour cherry soup	sweet,sour soup
+660	couque suisse	caramel tart
+661	princess cake	dacquoise
+662	cherimoya	atemoya,guava
+663	vietnamese noodles	noodle soup,noodle,rice noodles
+664	lime	lemon
+665	barbecue sauce	mayonnaise,ketchup,hot sauce,brown sauce
+666	cheese spread	cream cheese
+667	marble cake	chocolate cake,sponge cake,layer cake,spice cake
+668	nut butter	almond,hazelnut
+669	potato	sweet potato
+670	stollen	christmas cake
+671	rumali roti	chapati
+672	buckwheat	barley,millet
+673	pain aux raisins	brioche
+674	baumkuchen	layer cake
+675	bordelaise sauce	sauce lyonnaise
+676	shreddies	breakfast cereal
+677	oatibix	weetabix
+678	tandoor bread	flatbread
+679	spinach	cabbage,broccoli,kale,cauliflower
+680	rice noodle roll	rice noodles
+681	bottled water	beverage
+682	cucumber soup	sour soup
+683	papaya	guava,banana,passion fruit,pineapple,mango
+684	vienna bread	brown bread
+685	rambutan	mangosteen,longan,lychee
+686	king cake	wedding cake
+687	game cake	pie
+688	sparkling wine	dessert wine
+689	sweet roll	caramel tart
+690	vanilla extract	sugar
+691	isterband	fläskkorv
+692	canola oil	soybean oil,peanut oil,vegetable oil
+693	chick pea	bean
+694	henan braised noodles	noodle soup,soup,rice noodles
+695	spiced bun	sweet roll,caramel tart
+696	passion fruit	guava,berry,peach,cherry,mango
+697	plum	cherry,apple,pear,apricot,peach,persimmon
+698	weetabix	breakfast cereal,beverage
+699	bread soup	porridge
+700	miso soup	noodle soup,chicken soup,noodle,dashi
+701	cumin	coriander,paprika
+702	wodzionka	flummadiddle
+703	shredded coconut	coconut milk
+704	she-crab soup	sour soup,borscht
+705	bouillon	soup
+706	cardoon	chicory,parsnip,artichoke
+707	tapioca pudding	kinnathappam,porridge
+708	kyselo	kulajda
+709	grapefruit	lemon
+710	parsnip	leek,celery
+711	frozen dessert	ice cream,sorbet
+712	flavoured syrup	caramel,sweet
+713	thukpa	thenthuk
+714	starter culture	yeast
+715	pancake and maple syrup	sago pudding
+716	chicago-style hot dog	hot dog
+717	fudge cake	chocolate cake,toffee
+718	dessert bar	frozen dessert
+719	farfel	nshkhar
+720	matzo	challah,pita
+721	carrot cake	chocolate cake,layer cake,spice cake,pudding,sponge cake
+722	zosui	knipp
+723	rassolnik	shchi,suaasat
+724	butter tart	sweet,pastry
+725	liquor	beverage
+726	tone bread	rugbrød,brown bread
+727	mollete	močnik
+728	coconut milk	condensed milk,evaporated milk
+729	black noodles	močnik,juk
+730	sagnarelli	pillus,mafalde,tripoline,lasagnette,sacchettoni
+731	summer sausage	weisswurst
+732	fruit cake	spice cake,sponge cake,sweet
+733	hochzeitssuppe	wedding soup
+734	porridge	cornmeal
+735	creamed corn	cornmeal
+736	linguettine	lasagnette,pillus,mafalde,sagnarelli,tripoline
+737	flour	cornmeal
+738	cooking oil	vegetable oil,coconut oil,peanut oil,soybean oil
+739	chipped beef	sausage,meat
+740	okra	aubergine,sweet potato
+741	barley gruel	porridge,cornmeal,millet
+742	garlic	paprika,oregano,onion
+743	coconut oil	peanut oil,vegetable oil,cooking oil
+744	génoise cake	sponge cake,spice cake,berlingozzo
+745	rømmegrøt	močnik
+746	baking extract	rupjmaize
+747	leek soup	potage,parsnip,potato
+748	gobo root	sweet potato
+749	corn flakes	cornmeal
+750	bucatini	linguine,rigatoni,pasta,suaasat
+751	honey bunches of oats	barley,wheat
+752	shanghai fried noodles	noodle,rice noodles,noodle soup
+753	focaccia	sweet roll
+754	ketwurst	schupfnudel
+755	orecchiette	cavatelli
+756	bath bun	sweet roll
+757	celery	parsley,cauliflower,onion,cabbage,garlic
+758	pistachio	almond,hazelnut,walnut
+759	garlic bread	flatbread
+760	tangerine	orange,lemon,peach,apricot
+761	helmipuuro	vispipuuro
+762	wacky cake	chocolate cake
+763	oat milk	hemp milk,almond milk,soy milk
+764	on choy	yu choy
+765	red bean cake	sweet,močnik,bean paste
+766	pesto	pasta,sauce,trenette
+767	rum baba	liqueur
+768	leek	parsnip,cabbage,cauliflower,celery
+769	cookie crisp	marshmallow
+770	chicory	artichoke
+771	pomegranate	fig,apricot
+772	velouté sauce	condiment
+773	hot dog	sausage,chili dog,bratwurst
+774	snow cone syrup	caramel,toffee
+775	cheese dog	sausage,hot dog
+776	under cover bears instant oatmeal	cereal
+777	persimmon	plum,cherry
+778	okinawa soba	noodle
+779	roti prata	flatbread
+780	liqueur	schnapps
+781	chiffon cake	pastry
+782	celery root	parsnip,cabbage,leek
+783	candy corn	popcorn
+784	pan loaf	sweet roll,bread

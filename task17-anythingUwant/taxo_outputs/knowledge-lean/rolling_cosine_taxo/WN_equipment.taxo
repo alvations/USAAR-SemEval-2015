@@ -1,0 +1,192 @@
+0	amplifier	audio amplifier
+1	astronomy satellite	communications satellite
+2	atomic pile	pressurized water reactor
+3	badminton equipment	sports equipment
+4	balance beam	horizontal bar
+5	ball	cue ball
+6	ballistic pendulum	foucault pendulum
+7	barbell	dumbbell
+8	baseball	softball,football,basketball,volleyball,racquetball
+9	baseball bat	softball
+10	baseball equipment	sporting goods,sports equipment
+11	baseball glove	baseball bat,softball,catcher s mask,basketball
+12	basketball	volleyball,football,racquetball,handball,baseball
+13	basketball equipment	volleyball
+14	bathyscaphe	bathysphere,submersible
+15	bathysphere	bathyscaphe,submersible
+16	batting glove	batting helmet
+17	batting helmet	catcher s mask
+18	billiard ball	eight ball
+19	black	white
+20	black box	white,blister pack
+21	bocce ball	football
+22	boiling water reactor	nuclear reactor
+23	bowling ball	candlepin
+24	bowling equipment	sports equipment,sporting goods
+25	box camera	digital camera
+26	boxing equipment	sports equipment
+27	breeder reactor	fast reactor,nuclear reactor
+28	bridle	halter
+29	bubble jet printer	purifier
+30	bunsen burner	gas burner
+31	burner	gas burner
+32	cage	burner
+33	camera	digital camera
+34	candid camera	film,motion picture camera,digital camera
+35	candlepin	duckpin
+36	cassette deck	cassette recorder,cassette player,tape recorder,tape deck,reel
+37	cassette player	cassette recorder,tape recorder,cassette deck,cd player,tape deck
+38	cassette recorder	tape recorder,recording system,reel
+39	catcher's mask	baseball
+40	cd player	cassette recorder,tape recorder,cassette player
+41	chemical reactor	nuclear reactor
+42	circuitry	chip
+43	clock pendulum	foucault pendulum
+44	computer keyboard	joystick
+45	condenser	cooling system
+46	cooling system	heat pump
+47	cricket ball	cricket bat,tennis ball
+48	cricket bat	cricket ball
+49	cricket equipment	sports equipment,golf equipment
+50	croquet ball	cricket ball
+51	croquet mallet	cricket bat
+52	crown	crown jewels
+53	cue ball	object ball
+54	curb	snaffle,pelham
+55	desk phone	handset,telephone
+56	dictaphone	tape recorder,cassette recorder
+57	discus	javelin
+58	diving bell	submersible
+59	drogue	drogue parachute,dumbbell
+60	duckpin	candlepin,ninepin ball
+61	dumbbell	drogue,barbell
+62	duplicator	dumbbell,mimeograph
+63	electronic equipment	test equipment
+64	enlarger	light meter
+65	equipment	electronic equipment,test equipment
+66	fast reactor	nuclear reactor,breeder reactor
+67	field hockey ball	football
+68	first base	third base,second base
+69	football	volleyball,basketball,softball
+70	foucault pendulum	simple pendulum
+71	fuel system	cooling system
+72	gas bracket	burner
+73	gas burner	bunsen burner
+74	golf ball	football
+75	golf club	football,volleyball
+76	golf equipment	sports equipment
+77	gymnastic apparatus	trampoline
+78	halter	bridle,horse
+79	handball	volleyball,basketball,football,racquetball
+80	hectograph	mimeograph
+81	heliograph	semaphore
+82	heterodyne receiver	radio receiver
+83	home plate	first base,third base
+84	horizontal bar	parallel bars
+85	javelin	discus
+86	king	queen,knight
+87	knight	king,pawn,queen,black
+88	lacrosse ball	football
+89	layette	test equipment
+90	life jacket	life preserver,man,mae west
+91	life preserver	mae west,man
+92	magnetic recorder	recording system,reel
+93	medicine ball	cricket ball
+94	microfiche	microfilm
+95	microfilm	microfiche
+96	mimeograph	hectograph,microfilm
+97	multichannel recorder	recording system
+98	naval radar	surface search radar,air search radar
+99	negative	positive
+100	ninepin ball	duckpin
+101	nuclear reactor	pressurized water reactor,breeder reactor,fast reactor
+102	object ball	cue ball
+103	optical bench	goniometer
+104	orthochromatic film	roll film,panchromatic film,motion picture film
+105	oscillograph	oscilloscope
+106	oscilloscope	output device
+107	panchromatic film	roll film
+108	parallel bars	horizontal bar,pommel horse,balance beam
+109	parasail	parachute
+110	pelham	snaffle
+111	pendulum	foucault pendulum,simple pendulum
+112	photocopier	photographic paper,xerox,photographic equipment
+113	photographic equipment	electronic equipment
+114	physical pendulum	simple pendulum
+115	pine tar rag	wood
+116	pitching wedge	sand wedge
+117	point and shoot camera	digital camera
+118	polaroid camera	digital camera,film
+119	pommel horse	horizontal bar,parallel bars
+120	pool ball	eight ball
+121	portrait camera	digital camera
+122	positive	negative
+123	pressurized water reactor	nuclear reactor
+124	punching bag	man
+125	puzzle	crossword puzzle
+126	queen	king,knight
+127	racquetball	volleyball,basketball
+128	radio compass	radio transmitter
+129	radio receiver	radio transmitter,radiotelephone
+130	radiotelephone	radio receiver,cellular telephone,radio transmitter
+131	receiver	radio transmitter,radio receiver
+132	recorder	recording system
+133	recording system	cassette recorder,tape recorder
+134	reel	tape recorder,recording system
+135	rigging	rig
+136	rocker	roll
+137	roll	rocker
+138	roulette ball	roulette wheel
+139	rugby ball	football
+140	saddle blanket	bridle,cinch,horse
+141	salyut	space station
+142	sand wedge	pitching wedge
+143	satellite	communications satellite
+144	satellite receiver	communications satellite,radio transmitter
+145	satellite transmitter	radio transmitter,communications satellite
+146	scanner	scrambler
+147	scrambler	scanner
+148	second base	first base,third base
+149	sewing kit	first aid kit
+150	shuttlecock	ball
+151	simple pendulum	foucault pendulum
+152	skylab	salyut,space station
+153	snaffle	pelham
+154	soccer ball	football
+155	softball	baseball,football,volleyball,basketball,racquetball
+156	sound camera	digital camera,recording system
+157	space capsule	space station,spacecraft,space shuttle
+158	space shuttle	space station,space capsule,spacecraft
+159	space station	salyut,space shuttle
+160	spark transmitter	radio transmitter
+161	speakerphone	handset
+162	sporting goods	sports equipment
+163	sports equipment	sporting goods
+164	sputnik	communications satellite
+165	spy satellite	communications satellite,weather satellite
+166	surface search radar	air search radar
+167	tape deck	tape recorder,reel,cassette recorder
+168	tape player	tape recorder,reel,tape deck,cassette recorder,recording system,recorder
+169	tape recorder	reel,recording system,cassette recorder
+170	tee	taw
+171	telegraph	telephone
+172	telephone	telegraph
+173	television camera	motion picture camera,film
+174	television receiver	television transmitter,radio transmitter,radio receiver
+175	television transmitter	radio transmitter
+176	test equipment	electronic equipment
+177	thermal reactor	nuclear reactor,fast reactor
+178	thermonuclear reactor	nuclear reactor
+179	third base	first base,second base
+180	transmitter	radio transmitter
+181	ultracentrifuge	catalytic cracker
+182	uneven parallel bars	parallel bars,balance beam,horizontal bar,pommel horse
+183	vaulting horse	horizontal bar
+184	videocassette recorder	recording system,cassette recorder,reel
+185	volleyball	basketball,football,handball,racquetball
+186	walkman	webcam,tape recorder,speakerphone,tape deck
+187	weather satellite	communications satellite
+188	wedge	sand wedge
+189	white	black
+190	wire recorder	recording system,tape recorder,cassette recorder,reel
+191	xerox	photocopier

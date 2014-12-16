@@ -1,0 +1,166 @@
+0	astronomy satellite	communications satellite
+1	atomic pile	pressurized water reactor
+2	badminton equipment	sports equipment
+3	ballistic pendulum	foucault pendulum
+4	barbell	dumbbell
+5	baseball	softball,football,volleyball,basketball
+6	baseball equipment	sports equipment
+7	baseball glove	baseball bat,softball,catcher s mask
+8	basketball	volleyball,football,racquetball,handball
+9	basketball equipment	volleyball
+10	bathyscaphe	bathysphere,submersible
+11	bathysphere	bathyscaphe,submersible
+12	batting glove	baseball
+13	batting helmet	catcher s mask
+14	billiard ball	eight ball
+15	black	white
+16	black box	blister pack
+17	bocce ball	football
+18	bowling ball	candlepin
+19	bowling equipment	sports equipment,sporting goods
+20	box camera	digital camera
+21	boxing equipment	sports equipment
+22	breeder reactor	fast reactor,nuclear reactor
+23	bubble jet printer	purifier
+24	bunsen burner	gas burner
+25	burner	gas burner
+26	cage	burner
+27	camera	digital camera
+28	candid camera	film,motion picture camera,digital camera
+29	candlepin	duckpin
+30	cassette deck	cassette recorder,cassette player,tape recorder,tape deck
+31	cassette player	cassette recorder,tape recorder,cassette deck,cd player
+32	cassette recorder	recording system,tape recorder,reel
+33	catcher's mask	man,baseball
+34	cd player	tape recorder
+35	chemical reactor	nuclear reactor
+36	circuitry	chip
+37	clock pendulum	foucault pendulum
+38	computer keyboard	joystick
+39	condenser	cooling system
+40	cricket ball	tennis ball,cricket bat
+41	cricket equipment	sports equipment
+42	cue ball	object ball
+43	curb	snaffle,pelham
+44	desk phone	handset,telephone
+45	dictaphone	tape recorder
+46	discus	javelin
+47	diving bell	submersible
+48	drogue	drogue parachute
+49	duckpin	candlepin
+50	dumbbell	drogue,barbell
+51	duplicator	dumbbell
+52	electronic equipment	test equipment
+53	equipment	electronic equipment,test equipment
+54	fast reactor	nuclear reactor
+55	field hockey ball	football
+56	first base	third base
+57	football	volleyball,basketball
+58	foucault pendulum	simple pendulum
+59	fuel system	cooling system
+60	golf ball	football
+61	golf club	football,volleyball
+62	golf equipment	sports equipment
+63	gymnastic apparatus	trampoline
+64	halter	bridle
+65	handball	volleyball,basketball,football
+66	hectograph	mimeograph
+67	heterodyne receiver	radio receiver
+68	home plate	third base
+69	javelin	discus
+70	king	queen
+71	knight	queen,king,pawn
+72	life jacket	life preserver,man,mae west
+73	life preserver	mae west
+74	magnetic recorder	recording system
+75	medicine ball	volleyball
+76	microfiche	microfilm
+77	microfilm	microfiche
+78	mimeograph	hectograph
+79	multichannel recorder	recording system
+80	naval radar	air search radar,surface search radar
+81	negative	positive
+82	ninepin ball	duckpin
+83	nuclear reactor	pressurized water reactor,fast reactor
+84	object ball	cue ball
+85	optical bench	goniometer
+86	orthochromatic film	roll film,panchromatic film,motion picture film
+87	oscilloscope	output device
+88	panchromatic film	roll film
+89	parallel bars	horizontal bar,pommel horse,balance beam
+90	pelham	snaffle
+91	pendulum	foucault pendulum,simple pendulum
+92	photocopier	photographic paper,xerox
+93	photographic equipment	electronic equipment
+94	physical pendulum	simple pendulum
+95	pine tar rag	wood
+96	pitching wedge	sand wedge
+97	point and shoot camera	digital camera
+98	polaroid camera	digital camera,film
+99	pommel horse	horizontal bar
+100	pool ball	eight ball
+101	portrait camera	digital camera
+102	positive	negative
+103	pressurized water reactor	nuclear reactor
+104	punching bag	man
+105	queen	king
+106	racquetball	volleyball,basketball
+107	radio receiver	radio transmitter,radiotelephone
+108	radio transmitter	television transmitter
+109	radiotelephone	radio transmitter,radio receiver,cellular telephone
+110	receiver	radio transmitter,radio receiver
+111	recorder	recording system
+112	recording system	cassette recorder
+113	reel	recording system,tape recorder
+114	rigging	rig
+115	roll	rocker
+116	roulette ball	roulette wheel
+117	rugby ball	football,eight ball
+118	saddle blanket	bridle,cinch
+119	salyut	space station
+120	sand wedge	pitching wedge
+121	satellite	communications satellite
+122	satellite receiver	communications satellite,radio transmitter
+123	satellite transmitter	radio transmitter,communications satellite
+124	scanner	scrambler
+125	scrambler	scanner
+126	second base	third base,first base
+127	sewing kit	first aid kit
+128	ship towed long range acoustic detection system	surface search radar
+129	simple pendulum	foucault pendulum
+130	skylab	salyut
+131	snaffle	pelham
+132	soccer ball	football
+133	softball	volleyball,baseball,football,basketball
+134	sound camera	recording system,digital camera
+135	space capsule	space station
+136	space shuttle	space station,space capsule
+137	space station	salyut,space shuttle
+138	spark transmitter	radio transmitter
+139	sporting goods	sports equipment
+140	sports equipment	sporting goods
+141	sputnik	communications satellite
+142	spy satellite	communications satellite,weather satellite
+143	surface search radar	air search radar
+144	tape deck	tape recorder,reel,cassette recorder,recording system
+145	tape player	tape recorder,reel,tape deck,cassette recorder,recording system,recorder
+146	tape recorder	recording system,reel,cassette recorder
+147	tee	taw
+148	telegraph	telephone
+149	telephone	telegraph
+150	television camera	motion picture camera,film
+151	television receiver	television transmitter,radio transmitter
+152	television transmitter	radio transmitter
+153	test equipment	electronic equipment
+154	thermal reactor	nuclear reactor,fast reactor,pressurized water reactor
+155	third base	first base,second base
+156	transmitter	radio transmitter
+157	ultracentrifuge	catalytic cracker
+158	uneven parallel bars	parallel bars,horizontal bar,balance beam
+159	vaulting horse	horizontal bar
+160	videocassette recorder	recording system,cassette recorder
+161	volleyball	basketball,football,handball
+162	walkman	webcam,tape recorder
+163	weather satellite	communications satellite
+164	white	black
+165	wire recorder	recording system,tape recorder

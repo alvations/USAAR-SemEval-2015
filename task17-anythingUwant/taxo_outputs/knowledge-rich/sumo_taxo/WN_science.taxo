@@ -1,0 +1,367 @@
+0	mammalogy	zoology,zoological science
+1	ritualism	cultural anthropology,social anthropology
+2	morphology	biology,biological science
+3	deixis	semantics
+4	therapeutics	medicine,medical specialty
+5	integral calculus	calculus,infinitesimal calculus
+6	quantum electrodynamics	quantum field theory
+7	cognitive neuroscience	neuroscience
+8	spherical geometry	geometry
+9	metallurgy	science,scientific discipline
+10	formal semantics	semantics
+11	bioclimatology	climatology
+12	statics	mechanics
+13	geology	earth science
+14	paleopathology	archeology,pathology,archaeology
+15	eugenics	life science,bioscience
+16	microeconomics	economic science,political economy,economics
+17	protoarcheology	protohistory,protoanthropology
+18	quadratics	algebra
+19	syntax	structure
+20	nosology	medicine,medical specialty
+21	proctology	medicine,medical specialty
+22	dermatoglyphics	life science,bioscience
+23	prescriptive linguistics	linguistics
+24	phonology	descriptive linguistics
+25	natural history	science,scientific discipline
+26	optics	natural philosophy,physics
+27	aeronautics	natural philosophy,physics
+28	numerical analysis	pure mathematics
+29	hemodynamics	physiology
+30	statistical mechanics	natural philosophy,physics
+31	assyriology	archeology,archaeology
+32	paleomammalogy	palaeozoology,paleozoology
+33	neuropsychiatry	medicine,medical specialty
+34	astrodynamics	astronomy,uranology
+35	crystallography	natural philosophy,physics
+36	neonatology	pediatric medicine,pedology,pediatrics,paediatrics
+37	home economics	social science
+38	orthodontics	odontology,dental medicine,dentistry
+39	jungian psychology	psychotherapeutics,psychotherapy,mental hygiene
+40	microbiology	biology,biological science
+41	life science	natural science
+42	pediatrics	medicine,medical specialty
+43	psychometry	psychological science,psychology
+44	biosystematics	systematics
+45	anthropology	social science
+46	magnetism	attraction,attractive force
+47	orthopedics	medical science
+48	physiology	biology,biological science
+49	otology	medicine,medical specialty
+50	proxemics	social science
+51	economics	social science
+52	nuclear medicine	medicine,medical specialty
+53	topography	shape,configuration,contour,form,conformation
+54	avionics	aeronautics,astronautics
+55	paleornithology	palaeozoology,paleozoology
+56	earth science	natural science
+57	genomics	genetic science,genetics
+58	projective geometry	geometry
+59	urology	medicine,medical specialty
+60	neurobiology	biology,biological science
+61	electrostatics	natural philosophy,physics
+62	quantum mechanics	quantum physics
+63	kinematics	mechanics
+64	psephology	sociology
+65	memory	mental representation,representation,internal representation
+66	group theory	pure mathematics
+67	macrobiotics	dietetics
+68	cardiology	medicine,medical specialty
+69	neurophysiology	neuroscience,physiology
+70	economic geography	geographics,geography
+71	applied psychology	psychological science,psychology
+72	geophysics	geology
+73	computational linguistics	linguistics
+74	dentistry	medicine,medical specialty
+75	classical mechanics	mechanics
+76	orthoepy	oral communication,spoken language,language,voice communication,speech communication,speech,spoken communication
+77	science	discipline,subject field,field of study,study,subject area,field,bailiwick,subject
+78	applied mathematics	maths,mathematics,math
+79	physiological psychology	psychological science,psychology
+80	electrochemistry	chemistry,chemical science
+81	climatology	meteorology
+82	catoptrics	optics
+83	medical science	life science,bioscience
+84	petrology	morphology,geomorphology
+85	plane geometry	geometry
+86	cognitive science	science,scientific discipline
+87	pure mathematics	maths,mathematics,math
+88	angiology	medicine,medical specialty
+89	silviculture	forestry
+90	cosmetic dentistry	odontology,dental medicine,dentistry
+91	paleobiology	fossilology,biology,palaeontology,biological science,paleontology
+92	dialect geography	linguistics
+93	partial correlation	correlational statistics,correlation
+94	social psychology	psychological science,psychology
+95	algebra	pure mathematics
+96	quantum field theory	quantum physics
+97	biophysics	natural philosophy,physics
+98	metamathematics	pure mathematics
+99	historical linguistics	linguistics
+100	sociolinguistics	linguistics
+101	fluid mechanics	mechanics
+102	cytogenetics	genetics,cytology,genetic science
+103	prosthetics	medicine,medical specialty
+104	phrenology	craniology
+105	paleoethnography	archeology,archaeology
+106	civics	social science
+107	comparative psychology	psychological science,psychology
+108	correlation	reciprocality,reciprocity
+109	garbology	cultural anthropology,social anthropology
+110	oncology	medicine,medical specialty
+111	social science	science,scientific discipline
+112	dysgenics	life science,bioscience
+113	geopolitics	politics,government,political science
+114	inflectional morphology	morphology
+115	prosthodontics	odontology,dental medicine,dentistry
+116	obstetrics	medicine,medical specialty
+117	nonparametric statistics	statistics
+118	differential calculus	calculus,infinitesimal calculus
+119	linguistics	science,scientific discipline
+120	neuroanatomy	anatomy,general anatomy
+121	harmonics	acoustics
+122	alienism	psychiatry,psychopathology,psychological medicine
+123	realpolitik	politics,government,political science
+124	finance	commercial enterprise,business,business enterprise
+125	developmental anatomy	anatomy,general anatomy
+126	malacology	zoology,zoological science
+127	entomology	zoology,zoological science
+128	radiobiology	biology,biological science
+129	radiochemistry	chemistry,chemical science
+130	grammar	descriptive linguistics
+131	synchronic linguistics	linguistics
+132	set theory	pure mathematics
+133	pneumatics	mechanics
+134	elementary geometry	geometry
+135	vector algebra	algebra
+136	pteridology	botany,phytology
+137	linear programming	applied math,applied mathematics
+138	neurology	medical science
+139	vertebrate paleontology	palaeontology,fossilology,paleontology
+140	rheology	natural philosophy,physics
+141	psychology	science,scientific discipline
+142	abnormal psychology	psychological science,psychology
+143	social anthropology	anthropology
+144	etymology	account,story,chronicle,history
+145	medicine	medical science
+146	negative correlation	correlational statistics,correlation
+147	electronics	natural philosophy,physics
+148	radiology	medical science
+149	egyptology	archeology,archaeology
+150	celestial mechanics	astronomy,uranology
+151	ethnology	anthropology
+152	geometry	pure mathematics
+153	ethology	zoology,zoological science
+154	pharmacogenetics	genetic science,genetics
+155	botany	assemblage,aggregation,collection,accumulation
+156	natural science	science,scientific discipline
+157	proteomics	genetic science,genetics
+158	cybernetics	informatics,IP,information processing,information science
+159	information science	science,scientific discipline
+160	electromagnetism	magnetic attraction,magnetism,magnetic force
+161	analytic geometry	geometry
+162	limnology	earth science
+163	myology	physiology
+164	enzymology	biochemistry
+165	semantics	linguistics
+166	periodontics	odontology,dental medicine,dentistry
+167	embryology	biology,biological science
+168	linear algebra	algebra
+169	meteorology	forecasting,prognostication,prediction,foretelling
+170	thermionics	electronics
+171	kinesiology	physiology
+172	solid geometry	geometry
+173	forensic medicine	medicine,medical specialty
+174	paleozoology	paleobiology,zoology,zoological science,palaeobiology
+175	space medicine	medicine,medical specialty
+176	plasma physics	natural philosophy,physics
+177	endocrinology	medicine,medical specialty
+178	pharmacokinetics	pharmacological medicine,pharmacology,materia medica
+179	agronomy	science,scientific discipline
+180	cosmology	metaphysics
+181	dynamics	mechanics
+182	cosmography	natural science
+183	speleology	geology
+184	traumatology	medicine,medical specialty
+185	calculus	stone,rock
+186	phytochemistry	organic chemistry
+187	anatomy	morphology
+188	hydrostatics	fluid mechanics,hydraulics
+189	radio astronomy	astronomy,uranology
+190	curvilinear correlation	correlational statistics,correlation
+191	physics	natural science
+192	dental anatomy	gross anatomy,macroscopic anatomy
+193	sports medicine	medicine,medical specialty
+194	marine archeology	archeology,archaeology
+195	microscopic anatomy	anatomy,general anatomy
+196	thermochemistry	chemistry,chemical science
+197	biometrics	statistics,life science,bioscience
+198	geography	earth science
+199	veterinary medicine	medicine,medical specialty
+200	comparative anatomy	anatomy,general anatomy
+201	craniometry	physical anthropology
+202	gynecology	medicine,medical specialty
+203	taxonomy	hierarchy
+204	physical chemistry	chemistry,chemical science
+205	electron optics	electronics
+206	pharmacology	medicine,medical specialty
+207	hematology	medicine,medical specialty
+208	endodontics	odontology,dental medicine,dentistry
+209	ophthalmology	medicine,medical specialty
+210	oology	zoology,zoological science
+211	paleoanthropology	vertebrate paleontology
+212	lexical semantics	semantics
+213	rhinolaryngology	medicine,medical specialty
+214	virology	medicine,medical specialty
+215	solar physics	astronomy,uranology
+216	inorganic chemistry	chemistry,chemical science
+217	tropical medicine	medicine,medical specialty
+218	biogeography	biology,biological science
+219	astrometry	astronomy,uranology
+220	surgery	medical science
+221	ichthyology	zoology,zoological science
+222	hypsography	geology
+223	genetic engineering	biotechnology,biotech
+224	paleogeography	archeology,archaeology
+225	regional anatomy	anatomy,general anatomy
+226	structural genomics	genomics
+227	geochemistry	chemistry,chemical science
+228	exodontics	dental surgery
+229	spurious correlation	correlational statistics,correlation
+230	paleobotany	paleobiology,botany,palaeobiology,phytology
+231	molecular genetics	genetic science,genetics
+232	ethnography	anthropology
+233	agrobiology	science,scientific discipline
+234	topology	topography
+235	hydrology	geophysical science,geophysics
+236	cryonics	cryobiology
+237	architectonics	science,scientific discipline
+238	paleogeology	geology
+239	nephrology	medicine,medical specialty
+240	toxicology	pharmacological medicine,pharmacology,materia medica
+241	sociobiology	biology,biological science
+242	stratigraphy	geology
+243	audiology	otology
+244	hygiene	sanitariness
+245	fourier analysis	analysis
+246	oceanography	earth science
+247	compound morphology	morphology
+248	pragmatics	linguistics
+249	orology	geology
+250	protozoology	zoology,zoological science
+251	photochemistry	chemistry,chemical science
+252	molecular biology	biology,biological science
+253	fetology	tocology,midwifery,OB,obstetrics
+254	psychotherapy	psychiatry,psychopathology,psychological medicine
+255	physical geography	geographics,geography
+256	structuralism	linguistics
+257	functional anatomy	anatomy,general anatomy
+258	pathology	medical science
+259	lepidopterology	entomology,bugology
+260	metrology	science,scientific discipline
+261	hyperbolic geometry	non-Euclidean geometry
+262	craniology	life science,bioscience
+263	perinatology	tocology,midwifery,OB,obstetrics
+264	positive correlation	correlational statistics,correlation
+265	teratology	embryology
+266	gastroenterology	medicine,medical specialty
+267	penology	criminology
+268	euthenics	life science,bioscience
+269	anesthesiology	medicine,medical specialty
+270	derivational morphology	morphology
+271	triangulation	trig,trigonometry
+272	hydrodynamics	fluid mechanics,hydraulics
+273	cryogenics	natural philosophy,physics
+274	herpetology	zoology,zoological science
+275	petroleum geology	economic geology
+276	acoustics	physical science,physics
+277	analysis	investigating,investigation
+278	economic geology	geology
+279	behaviorism	psychonomics,experimental psychology
+280	chemistry	natural science
+281	experimental psychology	psychological science,psychology
+282	dietetics	life science,bioscience
+283	mycology	botany,phytology
+284	paleology	archeology,archaeology
+285	psychophysics	psychonomics,experimental psychology
+286	serology	medical science
+287	clinical anatomy	anatomy,general anatomy
+288	pharmacy	medicine,medical specialty
+289	thermodynamics	natural philosophy,physics
+290	quantum physics	natural philosophy,physics
+291	nuclear physics	natural philosophy,physics
+292	paleontology	earth science
+293	matrix algebra	algebra
+294	geriatrics	medicine,medical specialty
+295	sumerology	archeology,archaeology
+296	immunology	medicine,medical specialty
+297	demography	sociology
+298	bacteriology	medicine,medical specialty
+299	thanatology	science,scientific discipline
+300	ecology	environment
+301	exobiology	biology,biological science
+302	rheumatology	medicine,medical specialty
+303	physical anthropology	anthropology
+304	econometrics	economic science,political economy,economics
+305	criminology	sociology
+306	sociology	social science
+307	genetics	biology,biological science
+308	cognitive psychology	psychological science,psychology
+309	archeology	anthropology
+310	femtochemistry	chemistry,chemical science
+311	immunochemistry	chemistry,immunology,chemical science
+312	dental surgery	odontology,dental medicine,dentistry
+313	biology	life science,bioscience
+314	protohistory	archeology,archaeology
+315	epidemiology	medicine,medical specialty
+316	aerology	meteorology
+317	agrology	science,scientific discipline
+318	organic chemistry	chemistry,chemical science
+319	strategics	science,scientific discipline
+320	mineralogy	geology
+321	clinical psychology	psychotherapeutics,psychotherapy,mental hygiene
+322	paleodendrology	paleobotany,palaeobotany
+323	problem solving	cognitive psychology
+324	zoology	assemblage,aggregation,collection,accumulation
+325	descriptive linguistics	linguistics
+326	internal medicine	medicine,medical specialty
+327	biomedicine	medicine,medical specialty
+328	statistics	applied math,applied mathematics
+329	gross anatomy	anatomy,general anatomy
+330	emergency medicine	medicine,medical specialty
+331	fractal geometry	geometry
+332	astrophysics	astronomy,uranology
+333	psychopharmacology	pharmacological medicine,pharmacology,materia medica
+334	pomology	botany,phytology
+335	cryptanalysis	science,scientific discipline
+336	thoracic medicine	medicine,medical specialty
+337	cytology	biology,biological science,microscopic anatomy
+338	neurolinguistics	linguistics
+339	developmental psychology	psychological science,psychology
+340	systematics	science,scientific discipline
+341	paleoecology	bionomics,ecology,environmental science
+342	descriptive grammar	grammar
+343	trigonometry	pure mathematics
+344	mechanics	natural philosophy,physics
+345	podiatry	medicine,medical specialty
+346	immunopathology	immunology
+347	paleoclimatology	archeology,archaeology
+348	politics	social relation
+349	biochemistry	organic chemistry
+350	brain science	neuroscience
+351	particle physics	natural philosophy,physics
+352	forestry	biology,biological science
+353	geodesy	geophysical science,geophysics
+354	aeromechanics	mechanics
+355	mathematics	science,scientific discipline
+356	arithmetic	pure mathematics
+357	allergology	medicine,medical specialty
+358	biomedical science	life science,bioscience
+359	seismology	geophysical science,geophysics
+360	neuroscience	neurobiology
+361	astronomy	natural philosophy,physics
+362	cryobiology	biology,biological science
+363	psychodynamics	interrelationship,interrelation,interrelatedness
+364	psychiatry	medicine,medical specialty
+365	biotechnology	molecular biology
+366	paleography	archeology,archaeology

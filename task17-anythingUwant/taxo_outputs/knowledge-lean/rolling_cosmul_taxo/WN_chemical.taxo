@@ -1,0 +1,810 @@
+0	abo antibodies	immunoglobulin,monoclonal antibody
+1	acaricide	insecticide
+2	acaroid resin	synthetic resin
+3	acetal	organic compound,ester,nitrile,hemiacetal
+4	acetaldehyde	acetic acid,acetamide,furfural,formic acid
+5	acetate	ester
+6	acetic acid	phosphoric acid,butyric acid,propionic acid,hydrochloric acid,anhydride,oxalic acid
+7	acetic anhydride	acetic acid,nitric acid,hydrochloric acid,ester,phosphoric acid
+8	acetoacetic acid	butyric acid,propionic acid
+9	acetone	ethyl acetate
+10	acetylcholine	neurotransmitter,serotonin,histamine,noradrenaline,dopamine
+11	acetylene	butane,ethylene,ethane
+12	acrylic	polyurethane,polyester
+13	actin	myosin
+14	actomyosin	myosin
+15	acyl anhydrides	ester,amide,carboxylic acid
+16	acyl halide	alkyl halide,amine
+17	adenine	guanine,cytosine,thymine,uracil,pyrimidine,purine
+18	adenosine	nucleoside,adenosine deaminase,pyrophosphate
+19	adenosine deaminase	nucleoside,adenosine monophosphate
+20	adenosine diphosphate	pyrophosphate
+21	adenosine monophosphate	nucleoside,pyrophosphate
+22	adenosine triphosphate	nucleoside,pyrophosphate,adenosine monophosphate,adenosine diphosphate
+23	agglutinin	lectin
+24	alanine	valine,glutamic acid,leucine,serine,arginine,proline,tyrosine,amino acid,aspartic acid
+25	albumin	serum albumin,globulin,transferrin,plasma protein
+26	aldehyde	ketone,carboxylic acid,organic compound
+27	aldol	enamine
+28	aldose	ketose,hexose,monosaccharide,aldohexose
+29	aleurone	pectin,starch
+30	alicyclic compound	organic compound,aromatic compound
+31	aliphatic compound	organic compound
+32	alkali	sodium carbonate
+33	alkyd	acrylic,synthetic resin
+34	alkyl halide	amine
+35	alkylbenzene	heterocyclic compound,organic compound
+36	almond oil	sesame oil,vegetable oil,olive oil,coconut oil
+37	alpha globulin	glycoprotein,protein
+38	alpha linolenic acid	linoleic acid
+39	aluminum chloride	hydroxide
+40	amber	copal
+41	amide	amine,ester,carboxylic acid
+42	amine	amide,isocyanate,carbamate
+43	amino acid	glutamic acid
+44	ammonia	urea,ammonium,hydrogen chloride,hydrogen sulfide
+45	ammonium	sulfate,nitrate
+46	ammonium carbamate	carbamic acid,oxalate
+47	ammonium carbonate	hydroxide,sulfate,sodium carbonate
+48	ammonium chloride	hydroxide
+49	ammonium nitrate	potassium nitrate,sodium nitrate,chlorate
+50	amygdalin	alkaloid
+51	amylase	lipase,protease,invertase
+52	androsterone	steroid
+53	anhydride	acid,organic compound
+54	aniline	phthalic anhydride,nitrobenzene
+55	anionic compound	organic compound
+56	antibody	monoclonal antibody
+57	antitoxin	monoclonal antibody,antibody
+58	antivenin	monoclonal antibody
+59	apoenzyme	enzyme
+60	arginine	amino acid,serine,alanine,glutamic acid,tyrosine,asparagine,lysine,cysteine,histidine,leucine
+61	aromatic compound	organic compound
+62	aromatic hydrocarbon	organic compound
+63	arrowroot	sago
+64	arsenic	arsenical
+65	arsenic acid	arsenical
+66	asparagine	glutamic acid,serine,arginine,leucine,aspartic acid,tyrosine,amino acid,alanine,threonine,phenylalanine
+67	aspartic acid	glutamic acid,asparagine
+68	atomic warhead	high explosive
+69	atrazine	herbicide
+70	atropine	scopolamine
+71	attar	attar of roses
+72	attar of roses	beeswax,balsam,wax,myrrh
+73	autoantibody	antibody,monoclonal antibody
+74	azadirachtin	acaricide
+75	azide	isocyanate,amide
+76	babassu oil	coconut oil,vegetable oil
+77	bagasse	wood pulp
+78	balm	balsam
+79	balm of gilead	balsam,storax
+80	balsam	bdellium
+81	banana oil	sesame oil
+82	bar soap	laundry detergent
+83	barbituric acid	ester
+84	base pair	cytosine,thymine,adenine,guanine
+85	bath water	lye,distilled water
+86	bathroom cleaner	shampoo,detergent,laundry detergent
+87	bayberry wax	beeswax
+88	bdellium	balsam,storax
+89	beef tallow	lard,suet
+90	beeswax	wax,tallow
+91	beet sugar	cane sugar
+92	benzene	toluene,naphthalene,methylene chloride
+93	benzene formula	organic compound
+94	benzoate	benzoic acid
+95	benzoate of soda	salt
+96	benzoic acid	propionic acid,hydroxybenzoic acid
+97	benzoin	balsam,camphor,bdellium,storax,myrrh
+98	beta carotene	carotenoid,lycopene,zeaxanthin
+99	beta endorphin	enkephalin
+100	bicarbonate	carbonic acid
+101	bicarbonate of soda	salt,sodium carbonate,vinegar,sodium chloride
+102	bile salt	bile acid
+103	bitartrate	tartrate
+104	bitter principle	alkaloid
+105	bitumen	oil
+106	blasting gelatin	gelignite
+107	blood sugar	glucose
+108	boron trifluoride	trichloride,oxide
+109	bromide	chloride,iodide
+110	brucine	strychnine
+111	butadiene	styrene,ethylene
+112	butane	naphtha,liquefied petroleum gas
+113	butyl rubber	neoprene,nylon
+114	butyric acid	propionic acid
+115	cadaverine	putrescine
+116	calcium bicarbonate	carbonate,sodium chloride
+117	calcium carbide	nitride
+118	calcium carbonate	silicate
+119	calcium chloride	hydroxide
+120	calcium cyanamide	ammonium,calcium nitrate,potassium nitrate
+121	calcium hydroxide	carbonate
+122	calcium hypochlorite	sodium chloride,sodium hypochlorite,calcium hydroxide
+123	calcium lactate	calcium phosphate
+124	calcium nitrate	potassium nitrate,ammonium,sodium nitrate
+125	calcium sulphate	sulfate
+126	camphor	benzoin,essential oil
+127	camphor oil	essential oil,turpentine
+128	candelilla wax	beeswax,spermaceti,whale oil
+129	canola oil	soybean oil,sunflower oil,peanut oil,vegetable oil,coconut oil,corn oil
+130	capric acid	stearic acid,myristic acid
+131	caproic acid	ester
+132	caprylic acid	stearic acid
+133	carbamic acid	organic compound,ester,anhydride
+134	carbide	silicon carbide,nitride
+135	carbohydrate	oligosaccharide,polysaccharide
+136	carbolic acid	salicylic acid
+137	carbon dioxide	trioxide,monoxide,tetroxide,sulfur dioxide
+138	carbon disulfide	monoxide,oxide
+139	carbon monoxide	trioxide
+140	carbon tetrachloride	monoxide,trioxide,tetroxide
+141	carbon tetrahalide	binary compound
+142	carbonate	hydroxide,silicate
+143	carbonic acid	anhydride,phosphoric acid
+144	carboxylic acid	ester,anhydride
+145	carboxymethyl cellulose	pectin,polysaccharide
+146	carnauba wax	beeswax,lanolin,linseed oil,mineral oil,paraffin
+147	carotene	carotenoid,beta carotene,lycopene,zeaxanthin
+148	carotenoid	carotene,beta carotene,lycopene,zeaxanthin
+149	casein	gelatin
+150	castile soap	bar soap
+151	catalase	oxidase,peroxidase
+152	catechin	flavone,flavonoid,glucoside
+153	cellulose	lignin,polysaccharide,cellulose acetate
+154	cellulose acetate	cellulose nitrate,cellulose triacetate
+155	cellulose ester	cellulose acetate
+156	cellulose nitrate	cellulose acetate,cellulose triacetate
+157	cellulose triacetate	cellulose acetate,cellulose nitrate
+158	chabazite	natrolite,heulandite
+159	chaulmoogra oil	clove oil,cod liver oil
+160	chian turpentine	balsam
+161	chitin	polysaccharide,hyaluronic acid
+162	chlorate	potassium chlorate,nitrate,fulminate
+163	chloric acid	anhydride
+164	chloride	bromide,trichloride
+165	chlorine dioxide	trioxide,monoxide,hydrogen chloride,hydrofluoric acid,nitrogen dioxide,sulfur dioxide
+166	chlorobenzene	nitrobenzene
+167	chlorofluorocarbon	freon,halocarbon
+168	chloroform	carbon tetrachloride,methylene chloride,hexane,ethyl acetate,toluene
+169	chlorpyrifos	malathion,lindane,organophosphate,insecticide
+170	cholesterol	lipid,sterol,lipoprotein,phospholipid
+171	cholic acid	bile acid
+172	chromic acid	potassium permanganate,potassium dichromate
+173	cinchonine	alkaloid
+174	citrate	oxalate,acetate,tartrate
+175	citric acid	tartaric acid,lactic acid
+176	citrulline	ornithine,arginine
+177	cleansing agent	conditioner
+178	clove oil	essential oil
+179	coagulation factor	thrombin
+180	coal tar	oil,naphtha,turpentine,bitumen
+181	cocoa butter	vegetable oil
+182	coconut oil	vegetable oil,sesame oil,olive oil,cooking oil,sunflower oil
+183	cod liver oil	olive oil,lard
+184	cohune nut oil	vegetable oil
+185	collagen	elastin,hyaluronic acid,fibrin
+186	collagenase	protease
+187	complementary dna	nucleic acid
+188	compound	organic compound
+189	conditioner	shampoo
+190	cooking oil	vegetable oil,sesame oil,olive oil,lard,coconut oil
+191	copaiba	oleoresin,balsam
+192	copal	storax,mastic,myrrh,balsam
+193	copolymer	polymer,styrene
+194	copper sulfate	sulfide
+195	cordite	smokeless powder,gunpowder,high explosive
+196	corn oil	vegetable oil,soybean oil,sesame oil,sunflower oil,peanut oil,coconut oil
+197	corn sugar	cane sugar,cornstarch
+198	cortisone	steroid
+199	cottonseed oil	soybean oil,vegetable oil,coconut oil,canola oil,sunflower oil,peanut oil
+200	courbaril copal	balsam
+201	cream of tartar	salt
+202	creosote	coal tar,turpentine,balsam
+203	cyanamide	cyanohydrin
+204	cyanic acid	tartaric acid,oxalic acid
+205	cyanide	potassium cyanide,sodium cyanide,arsenic
+206	cyanohydrin	organic compound
+207	cyclooxygenase 1	enzyme
+208	cyclooxygenase 2	enzyme
+209	cymene	thymol
+210	cysteine	serine,amino acid,histidine,threonine,arginine,methionine,tyrosine,leucine,alanine
+211	cystine	cysteine,amino acid,serine,ornithine,methionine,histidine,alanine,arginine
+212	cytochrome	oxidase,reductase,cytochrome c
+213	cytochrome c	reductase,oxidoreductase,oxidase
+214	cytokine	interleukin,tumor necrosis factor
+215	cytosine	thymine,guanine,uracil,adenine,pyrimidine,purine
+216	dammar	balsam
+217	defoliant	agent orange,insecticide,herbicide
+218	dentifrice	toothpaste
+219	deoxyadenosine	deoxyguanosine,nucleoside
+220	deoxyadenosine monophosphate	deoxyguanosine,nucleoside
+221	deoxycytidine	nucleoside,deoxyguanosine
+222	deoxycytidine monophosphate	nucleoside
+223	deoxyguanosine	nucleoside,deoxycytidine,deoxyadenosine
+224	deoxyguanosine monophosphate	adenosine monophosphate,inosine,pyrophosphate
+225	deoxyribose	ribose,nucleoside,deoxycytidine,deoxyribonucleic acid,uracil
+226	deoxythymidine	nucleoside
+227	deoxythymidine monophosphate	nucleoside
+228	detergent	laundry detergent,soap
+229	dextrin	starch
+230	dextrose	sucrose
+231	dichloride	trichloride
+232	digitalis	digoxin,digitoxin
+233	digitoxin	cardiac glycoside,digitalis,digoxin
+234	digoxin	digitalis,cardiac glycoside
+235	dimer	trimer
+236	dioxide	trioxide,monoxide,oxide,tetroxide
+237	dioxin	agent orange
+238	disaccharide	polysaccharide,galactose,oligosaccharide,monosaccharide
+239	dishwasher detergent	laundry detergent,liquid soap,shampoo
+240	dna polymerase	endonuclease,reverse transcriptase
+241	docosahexaenoic acid	eicosapentaenoic acid,polyunsaturated fatty acid
+242	dopa	l dopa,decarboxylase
+243	dopamine	serotonin,monoamine,noradrenaline,neurotransmitter
+244	drippings	cracklings
+245	drying oil	linseed oil,vegetable oil,beeswax
+246	dynamite	gunpowder,gelignite
+247	eicosapentaenoic acid	linoleic acid
+248	elaidic acid	stearic acid,myristic acid
+249	elastase	protease,trypsin
+250	elastin	collagen
+251	enamine	alkyl halide,enol
+252	endonuclease	nuclease,exonuclease
+253	endorphin	enkephalin,beta endorphin
+254	enol	enamine,ester,ketone,alkyl halide
+255	ephedrine	pseudoephedrine,ergotamine
+256	epinephrine	serotonin,noradrenaline
+257	episome	transposon
+258	epoxy	polyurethane,urethane
+259	epsom salts	salt,sulfate
+260	ergonovine	lysergic acid,ergotamine
+261	ergosterol	sterol,steroid
+262	ergotamine	lysergic acid,ergonovine
+263	erythropoietin	interleukin
+264	essential amino acid	amino acid
+265	ester	organic compound
+266	ethane	butane,methane
+267	ether	ethyl acetate
+268	ethyl acetate	ester,acetic acid
+269	ethylene	styrene,butadiene,copolymer
+270	eucalyptus oil	essential oil
+271	exon	intron
+272	exonuclease	endonuclease,nuclease
+273	explosive	high explosive,explosive compound
+274	explosive compound	low explosive,organic compound
+275	explosive mixture	high explosive,explosive compound,tnt
+276	fatty acid	myristic acid,saturated fatty acid
+277	ferricyanide	ferrocyanide
+278	ferritin	transferrin,globulin
+279	ferrocyanide	ferricyanide
+280	fibrin	fibrinogen,thrombin,plasmin
+281	fibrinogen	thrombin,fibrin,coagulation factor,prothrombin
+282	firecracker	firework,squib,sparkler
+283	firework	firecracker,squib
+284	fixative	preservative
+285	fixed oil	mineral oil
+286	flavin	reductase,quinone,oxidoreductase
+287	flavone	flavonoid
+288	flavonoid	flavone
+289	flint	chert
+290	flintstone	flint
+291	fluoride	sodium fluoride
+292	formaldehyde	formic acid,acetaldehyde
+293	freon	chlorofluorocarbon,hydrochlorofluorocarbon
+294	fresh water	seawater
+295	fructose	sucrose,glucose,galactose,lactose,maltose
+296	fuel oil	kerosene,naphtha
+297	fumaric acid	maleic acid,tartaric acid
+298	fumigant	insecticide
+299	furan	organic compound
+300	furfural	acetamide,acetaldehyde
+301	fusel oil	lanolin
+302	galactose	hexose,disaccharide,maltose
+303	gallic acid	hydroxybenzoic acid
+304	gamma globulin	immunoglobulin
+305	gas oil	naphtha,fuel oil,petroleum,kerosene
+306	gasohol	gasoline
+307	gasoline	unleaded gasoline,fuel oil
+308	gelignite	cordite
+309	globin	hemoglobin
+310	globulin	transferrin,plasma protein
+311	glucose	fructose,galactose,sucrose,maltose,glycogen,lactose
+312	glucoside	glycoside,flavone
+313	glutamate	glutamic acid,glutamine,glycine
+314	glutamic acid	transaminase,alanine,aspartic acid
+315	glutamine	glutamic acid,alanine,arginine,valine,ornithine,amino acid,leucine,serine,proline
+316	glutathione peroxidase	superoxide dismutase,oxidase,catalase
+317	glutelin	prolamine
+318	gluten	wheat gluten
+319	glyceraldehyde	ketose,aldose
+320	glycine	glutamic acid,amino acid,alanine,leucine,serine,proline,valine,arginine,aspartic acid,tyrosine
+321	glycogen	glucose,carbohydrate
+322	glycolic acid	lactic acid,succinic acid,phosphoric acid
+323	glycoprotein	protein
+324	glycoside	flavone,glucoside
+325	grease	wax,motor oil
+326	green manure	chicken manure
+327	ground water	seawater
+328	growth factor	nerve growth factor
+329	guaiacum	balsam
+330	guanine	thymine,cytosine,adenine,uracil,purine,pyrimidine
+331	gum resin	balsam,mastic,oleoresin,essential oil,benzoin
+332	gunpowder	cordite,smokeless powder
+333	gypsum	halite
+334	halide	alkyl halide,chloride
+335	halite	gypsum
+336	halocarbon	chlorofluorocarbon
+337	halon	halocarbon
+338	haptoglobin	hemoglobin
+339	hard water	soft water
+340	hdl cholesterol	lipoprotein,ldl cholesterol
+341	hemiacetal	acetal,ester
+342	hemoglobin	haptoglobin,myoglobin
+343	heptane	hexane
+344	herbicide	insecticide
+345	heterocyclic compound	organic compound,aromatic compound
+346	heterophil antibody	monoclonal antibody
+347	heulandite	natrolite
+348	hexane	toluene,ethyl acetate
+349	hexanedioic acid	organic compound
+350	high density lipoprotein	hdl cholesterol
+351	high explosive	explosive compound
+352	histamine	serotonin
+353	histidine	tyrosine,amino acid,serine,leucine,glutamic acid,phenylalanine,cysteine,tryptophan,threonine,proline
+354	hmg coa reductase	oxidoreductase
+355	holy water	incense
+356	horse manure	cow manure
+357	horseradish peroxidase	oxidase,superoxide dismutase
+358	humic acid	organic
+359	hyaluronidase	lipase,enzyme,streptokinase,protease
+360	hydrate	monohydrate
+361	hydrazoic acid	anhydride
+362	hydrobromic acid	hydrochloric acid,anhydride
+363	hydrochloric acid	hydrobromic acid,nitric acid
+364	hydrocyanic acid	anhydride
+365	hydrofluoric acid	hydrochloric acid,hydrobromic acid
+366	hydrogen bromide	chloride,hydrobromic acid,hydrogen fluoride,iodide
+367	hydrogen chloride	hydroxide,hydrogen fluoride,hydrobromic acid,hydrochloric acid
+368	hydrogen cyanide	hydrogen sulfide,hydrogen chloride,sodium cyanide
+369	hydrogen fluoride	hydrofluoric acid
+370	hydrogen iodide	chloride,hydroiodic acid
+371	hydrogen sulfide	monoxide,sulfur dioxide,hydroxide,hydrogen chloride
+372	hydroiodic acid	hydrobromic acid,anhydride
+373	hydrolysate	casein
+374	hydroxyproline	proline,amino acid,leucine,glutamic acid
+375	hyoscyamine	scopolamine,ergotamine
+376	hypochlorite	sodium hypochlorite,hypochlorous acid,calcium hypochlorite,potassium permanganate
+377	imidazole	pyridine
+378	immunoglobulin	immunoglobulin g,antibody
+379	immunoglobulin g	glycoprotein
+380	incense	myrrh
+381	infliximab	monoclonal antibody
+382	inosine	nucleoside
+383	insecticide	acaricide,herbicide,pesticide
+384	interleukin	tumor necrosis factor,cytokine
+385	intron	exon,transposon
+386	inulin	polysaccharide,starch,sucrose
+387	invert sugar	cane sugar,starch,sucrose,dextrose
+388	invertase	amylase,hyaluronidase,lipase,lactase
+389	iodic acid	anhydride
+390	iodide	chloride,bromide,sodium iodide
+391	iodoform	iodide
+392	iron disulfide	sulfide
+393	isocyanate	amine,nitrile
+394	isoleucine	leucine,valine,tyrosine,amino acid,phenylalanine,threonine,essential amino acid,proline,tryptophan
+395	japan wax	polish,soap
+396	junk dna	deoxyribonucleic acid,nucleic acid
+397	kerosene	fuel oil,paraffin,naphtha
+398	ketohexose	monosaccharide
+399	ketone	ester,carboxylic acid,organic compound,aldehyde
+400	ketose	aldose,monosaccharide,aldohexose,hexose
+401	l dopa	decarboxylase,phenylalanine,tyrosine
+402	labdanum	myrrh,benzoin,stacte,storax
+403	lactase	enzyme,lipase
+404	lactate	lactic acid,citrate,oxalate
+405	lactic acid	glycolic acid,succinic acid,oxalic acid
+406	lactose	maltose,sucrose,galactose,disaccharide
+407	lanolin	carnauba wax
+408	lard	suet
+409	lard oil	vegetable oil,cooking oil,olive oil,coconut oil,tallow,cottonseed oil,sesame oil
+410	larvicide	insecticide
+411	laundry detergent	shampoo,soap,bar soap
+412	lauric acid	myristic acid,stearic acid,linoleic acid,oleic acid,palmitic acid
+413	ldl cholesterol	lipoprotein,hdl cholesterol
+414	lead acetate	hydroxide
+415	lead arsenate	arsenic
+416	leaded gasoline	unleaded gasoline,motor oil,octane
+417	lectin	protein
+418	leucine	isoleucine,tyrosine,amino acid,valine,phenylalanine,threonine,proline,glutamic acid,serine,tryptophan
+419	lignin	cellulose,pectin
+420	limewater	lye,sodium carbonate,calcium hydroxide
+421	limonene	linalool
+422	lindane	malathion,insecticide
+423	linoleic acid	oleic acid
+424	linolenic acid	linoleic acid
+425	linseed oil	vegetable oil
+426	lipase	protease
+427	lipid	phospholipid,cholesterol
+428	liquefied petroleum gas	fuel oil,naphtha,kerosene
+429	liquid detergent	laundry detergent,soap
+430	liquid soap	detergent,bar soap,laundry detergent,shampoo
+431	lithium carbonate	hydroxide
+432	low density lipoprotein	hdl cholesterol
+433	low explosive	explosive compound,high explosive
+434	lucite	acrylic,polyurethane
+435	lycopene	carotene,beta carotene,zeaxanthin,carotenoid
+436	lye	limewater,sodium hydroxide,sodium hypochlorite,soap
+437	lymphokine	cytokine,interleukin
+438	lysine	arginine,histidine,amino acid,serine,cysteine,threonine,leucine,tyrosine,glutamic acid,methionine
+439	lysozyme	elastase,protease
+440	macromolecule	polymer
+441	magnesium bicarbonate	carbonate,sodium chloride
+442	magnesium hydroxide	carbonate
+443	magnesium nitride	oxide
+444	magnesium sulfate	hydroxide
+445	malathion	insecticide,organophosphate
+446	maleic acid	anhydride
+447	maltose	disaccharide,galactose,sucrose,lactose
+448	manganese tetroxide	oxide
+449	manure	chicken manure,fertilizer
+450	maple sugar	sago
+451	marbling	maroon
+452	marsh gas	fresh water
+453	mastic	balsam,copal
+454	melamine	cyanuric acid,corn gluten
+455	melamine resin	polyurethane,urethane
+456	menhaden oil	fish meal
+457	mercury fulminate	chlorate
+458	messenger rna	deoxyribonucleic acid,nucleic acid,endonuclease,ribonucleic acid,nucleoside
+459	methane	ethane
+460	methionine	cysteine,amino acid,leucine,tryptophan,valine,isoleucine,phenylalanine,essential amino acid,serine,lysine
+461	methyl bromide	chloride,dichloride
+462	methyl salicylate	salicylic acid
+463	mineral oil	linseed oil
+464	monoamine	serotonin,neurotransmitter
+465	monoamine neurotransmitter	serotonin,noradrenaline,dopamine
+466	monohydrate	zinc sulfate
+467	monomer	copolymer,polymer
+468	monosaccharide	ketose,disaccharide,hexose,aldose,glycoside
+469	monounsaturated fatty acid	myristic acid,linoleic acid,oleic acid,palmitic acid
+470	montan wax	beeswax
+471	motor oil	kerosene
+472	mucin	glycoprotein
+473	mucoid	mucin
+474	muriatic acid	hydrochloric acid
+475	mustard oil	sesame oil,olive oil,vegetable oil,cooking oil
+476	mutton tallow	lard,beeswax
+477	myoglobin	hemoglobin
+478	myosin	actin
+479	myristic acid	linoleic acid,stearic acid,oleic acid
+480	myrrh	storax,stacte,copal,balsam,labdanum
+481	napalm	high explosive
+482	naphtha	fuel oil,kerosene
+483	natrolite	chabazite,heulandite
+484	neoprene	nylon,polyurethane,polyester
+485	nerve growth factor	growth factor,cytokine
+486	neurochemical	neurotransmitter
+487	neurotransmitter	monoamine,serotonin,acetylcholine
+488	nicotine	caffeine
+489	night soil	manure
+490	nitrate	ammonium,potassium nitrate,sodium nitrate
+491	nitric acid	hydrochloric acid,phosphoric acid
+492	nitride	oxide
+493	nitrile	diamine,imide,isocyanate
+494	nitrobenzene	benzene,toluene,aniline
+495	nitrogen dioxide	trioxide,monoxide,sulfur dioxide,carbon dioxide
+496	nitrogen oxide	monoxide,trioxide,nitrogen dioxide
+497	nitrogen trichloride	monoxide,pentoxide,trioxide
+498	nitrogenase	oxidase,enzyme
+499	nitroglycerin	potassium chlorate,explosive,tnt,ammonium nitrate,potassium nitrate
+500	nitrous acid	anhydride,nitric acid,oxalic acid,butyric acid
+501	noradrenaline	serotonin,monoamine,dopamine
+502	nuclear rna	deoxyribonucleic acid,protein
+503	nuclease	endonuclease,exonuclease
+504	nucleic acid	deoxyribonucleic acid,nucleoside
+505	nucleoside	nucleotide
+506	nucleotide	nucleoside,uracil,thymine,nucleic acid
+507	nylon	polyester,neoprene,polyamide
+508	octane	unleaded gasoline,gasoline
+509	oil	vegetable oil,mineral oil
+510	oleic acid	linoleic acid,stearic acid,palmitic acid
+511	oleoresin	balsam,essential oil
+512	oligosaccharide	polysaccharide,tetrasaccharide
+513	olive oil	sesame oil,vegetable oil,sunflower oil,coconut oil,cooking oil
+514	omega 3 fatty acid	fatty acid,linoleic acid
+515	omega 6 fatty acid	fatty acid,linoleic acid
+516	organic	humic acid
+517	organic compound	aromatic compound
+518	organophosphate	malathion,insecticide
+519	ornithine	arginine,citrulline
+520	oxalate	citrate,oxalic acid
+521	oxalic acid	anhydride
+522	oxidase	reductase,oxidoreductase
+523	oxidized ldl cholesterol	lipoprotein
+524	oxidoreductase	reductase
+525	oxyacid	quaternary ammonium compound
+526	oxygenase	decarboxylase,reductase
+527	oxyhemoglobin	hemoglobin
+528	palm oil	vegetable oil,coconut oil,sesame oil,olive oil,peanut oil
+529	palmitic acid	stearic acid,linoleic acid,oleic acid,myristic acid
+530	papain	trypsin,protease
+531	paraffin	kerosene,oil,wax
+532	paraquat	malathion,herbicide,insecticide
+533	parathion	organophosphate,malathion
+534	peanut oil	vegetable oil,sunflower oil,sesame oil,soybean oil,canola oil,coconut oil,corn oil
+535	pectin	starch,dextrin,polysaccharide,gelatin
+536	pennyroyal oil	essential oil
+537	pentose	hexose,ribose
+538	pentoxide	trioxide,tetroxide
+539	pepsin	trypsin,protease,pepsinogen,lipase,ptyalin
+540	pepsinogen	pepsin,trypsin
+541	peptide	polypeptide
+542	perchlorate	chlorate
+543	perchloric acid	anhydride
+544	perchloride	iron perchloride
+545	permanganate	potassium permanganate,perchloric acid,potassium dichromate
+546	peroxidase	glutathione peroxidase,oxidase,catalase,superoxide dismutase
+547	pesticide	insecticide,herbicide
+548	petroleum	petrochemical,oil
+549	phenol	benzoic acid,carbolic acid
+550	phenolic resin	synthetic resin,epoxy
+551	phenylalanine	tyrosine,leucine,tryptophan,amino acid,isoleucine,valine,histidine,glutamic acid,essential amino acid,proline
+552	phillipsite	natrolite,heulandite
+553	phosphatase	kinase
+554	phosphate	pyrophosphate
+555	phosphine	dichloride,azide
+556	phosphocreatine	adenosine triphosphate,iodotyrosine
+557	phospholipid	lipid,fatty acid
+558	phosphoprotein	protein
+559	phosphoric acid	hydrochloric acid
+560	phthalic acid	anhydride,ester
+561	phthalic anhydride	phthalic acid,ester,organic compound
+562	phytochemical	flavonoid
+563	picric acid	nitric acid
+564	pilocarpine	physostigmine
+565	pine tar	turpentine,balsam,mastic,creosote
+566	plasmin	plasminogen,thrombin,plasminogen activator
+567	plasminogen	plasmin,plasminogen activator,thrombin,elastase
+568	plasminogen activator	plasmin,thrombin,streptokinase
+569	plaster of paris	wax,gesso,plasticine
+570	plastic explosive	high explosive
+571	plexiglas	lucite,styrofoam
+572	polyamide	polyester,polyurethane,nylon
+573	polyester	nylon,polyamide,polyurethane
+574	polyester fiber	polyamide,nylon
+575	polyethylene	polyvinyl chloride,polyester,polyurethane
+576	polymer	copolymer,polyamide
+577	polymerase	dna polymerase,reverse transcriptase,endonuclease
+578	polymethyl methacrylate	copolymer,polystyrene
+579	polypeptide	protein,peptide
+580	polyphosphoric acid	anhydride
+581	polysaccharide	disaccharide,oligosaccharide
+582	polystyrene	polyethylene,polyurethane,polyvinyl chloride
+583	polyunsaturated fat	trans fatty acid
+584	polyunsaturated fatty acid	linoleic acid,fatty acid,oleic acid
+585	polyurethane	urethane,polyester
+586	polyvinyl acetate	polyvinyl chloride
+587	potash	gypsum,sodium nitrate
+588	potassium bicarbonate	sodium chloride,sulfate,sodium carbonate
+589	potassium bromide	chloride,iodide
+590	potassium carbonate	hydroxide,sulfate,sodium carbonate
+591	potassium chlorate	potassium nitrate,nitrate
+592	potassium chloride	sodium chloride,sulfate
+593	potassium cyanide	sodium cyanide,hydroxide,copper sulfate
+594	potassium dichromate	chromate,potassium permanganate,hydroxide,hypochlorite,permanganate
+595	potassium ferrocyanide	hydroxide
+596	potassium iodide	sodium iodide,chloride,bromide
+597	potassium nitrate	sodium nitrate,ammonium,sulfate
+598	potassium permanganate	potassium dichromate,hypochlorite,hydroxide
+599	proconvertin	coagulation factor,thromboplastin
+600	proenzyme	histaminase
+601	prolamine	protein
+602	proline	leucine,amino acid,serine,valine,alanine,isoleucine,glutamic acid,histidine,phenylalanine,tyrosine
+603	propellant explosive	high explosive
+604	propionic acid	butyric acid,ester
+605	prostate specific antigen	immunoglobulin,immunoglobulin g
+606	protease	trypsin
+607	prothrombin	thrombin,coagulation factor,fibrinogen
+608	provirus	endonuclease,transposon
+609	provitamin	beta carotene,carotene
+610	pseudoephedrine	ephedrine
+611	pulp	wood pulp
+612	purine	pyrimidine,nucleoside,thymine,cytosine
+613	pyrethrum	insecticide
+614	pyridine	acetamide,imidazole
+615	pyrimidine	purine,nucleoside,thymine,uracil,cytosine,adenine
+616	pyrites	gypsum
+617	quinone	flavin
+618	racemic acid	tartaric acid
+619	raffinose	maltose,galactose,hexose
+620	rape oil	coconut oil
+621	reactant	intermediate
+622	reductase	oxidoreductase
+623	residual oil	naphtha
+624	resin	synthetic resin
+625	resorcinol	benzoic acid,phenol
+626	reverse transcriptase	dna polymerase,polymerase
+627	rh antibody	monoclonal antibody
+628	ribonuclease	endonuclease,protease
+629	ribonucleic acid	transfer rna
+630	ribose	deoxyribose,nucleoside,pyrophosphate,monosaccharide
+631	ricinoleic acid	myristic acid,stearic acid,oleic acid,saturated fatty acid
+632	rochelle salt	sodium chloride
+633	roman candle	squib
+634	rotenone	insecticide
+635	rubber	neoprene
+636	saddle soap	shampoo
+637	safflower oil	peanut oil,sunflower oil,soybean oil,vegetable oil,canola oil,corn oil,coconut oil
+638	salad oil	olive oil,sesame oil,vegetable oil
+639	salicylate	salicylic acid
+640	salt	sodium chloride
+641	sandarac	copal,mastic
+642	saponin	glycoside,flavone
+643	sarcosine	betaine
+644	sardine oil	vegetable oil
+645	sassafras oil	essential oil
+646	saturated fatty acid	fatty acid,myristic acid,oleic acid,palmitic acid
+647	scale wax	gesso,lucite
+648	scopolamine	hyoscyamine,alkaloid,ergotamine
+649	seal oil	grease,wax,bitumen,tallow,lard
+650	seawater	water,fresh water
+651	serine	threonine,tyrosine,cysteine,histidine,leucine,amino acid,asparagine
+652	serotonin	noradrenaline,monoamine,dopamine
+653	serum albumin	transferrin,globulin,plasma protein
+654	serum globulin	plasma protein,transferrin,albumin
+655	sesame oil	olive oil,vegetable oil
+656	shale oil	petroleum
+657	shampoo	toothpaste
+658	shellac wax	beeswax
+659	shoe polish	soap,shampoo
+660	silex	flint
+661	silica	silicate
+662	silicate	silica
+663	silicon carbide	nitride
+664	silicone	silicone rubber,polyurethane
+665	silicone rubber	polyurethane,neoprene
+666	siloxane	polymer
+667	silver bromide	iodide,silver chloride,chloride
+668	silver chloride	hydroxide,iodide,bromide
+669	silver iodide	sodium iodide
+670	silver nitrate	chromate
+671	ski wax	polish,beeswax
+672	smokeless powder	cordite,high explosive
+673	soap	bar soap,castile soap,detergent,laundry detergent
+674	soap flakes	bar soap,wax
+675	soap powder	bar soap
+676	sodium carbonate	hydroxide,sodium chloride,sulfate,potassium carbonate
+677	sodium carboxymethyl cellulose	sulfate
+678	sodium chlorate	potassium nitrate,sodium carbonate,potassium chlorate,sodium chloride,sulfate,hypochlorite
+679	sodium chloride	potassium chloride,sulfate,hydroxide
+680	sodium cyanide	chloride,hydroxide
+681	sodium dichromate	hypochlorite,potassium dichromate,potassium permanganate,chromate,sodium chloride
+682	sodium hydride	hydroxide
+683	sodium hydroxide	sodium carbonate,sulfate,hypochlorite
+684	sodium hypochlorite	calcium hypochlorite,sodium hydroxide,potassium permanganate,hypochlorous acid,sodium chloride,sodium carbonate,hydroxide
+685	sodium iodide	chloride,bromide
+686	sodium nitrate	potassium nitrate,ammonium,sulfate,sodium chloride,potassium chloride
+687	sodium phosphate	sulfate,sodium chloride
+688	sodium sulphate	sulfate,sodium chloride,potassium chloride,sodium carbonate,salt
+689	soft water	hard water
+690	softener	detergent
+691	soil conditioner	manure,detergent,water,fertilizer
+692	sorbic acid	phosphoric acid
+693	soybean oil	vegetable oil,sunflower oil,peanut oil,canola oil,cottonseed oil,coconut oil,corn oil
+694	sparkler	squib
+695	sperm oil	spermaceti,vegetable oil,lanolin,gas oil
+696	spermaceti	wax,tallow,sperm oil,whale oil,stearin
+697	squib	firecracker,sparkler
+698	stachyose	raffinose
+699	stacte	myrrh,storax,labdanum
+700	stand oil	linseed oil
+701	stannic chloride	trichloride,bromide
+702	stannous fluoride	sodium fluoride
+703	starch	dextrin,cornstarch,pectin
+704	stearic acid	oleic acid,palmitic acid,myristic acid,linoleic acid
+705	stearin	spermaceti
+706	steroid	cortisone
+707	sterol	steroid,ergosterol
+708	storax	myrrh,balsam,copal,bdellium
+709	streptodornase	streptokinase
+710	streptokinase	plasminogen activator
+711	styrene	copolymer,butadiene
+712	styrofoam	polyurethane,polystyrene
+713	sucrose	fructose,maltose,dextrose,lactose
+714	sulfonate	sulfonic acid
+715	sulfonic acid	organic compound
+716	sulfur dioxide	monoxide,hydrogen sulfide,sulfide,trioxide
+717	sulfur hexafluoride	monoxide,oxide
+718	sulfur oxide	sulfide
+719	sunflower oil	vegetable oil,soybean oil,peanut oil,coconut oil,sesame oil,corn oil,olive oil,canola oil
+720	superoxide dismutase	glutathione peroxidase,peroxidase,catalase
+721	sweet oil	cocoa butter,sesame oil,mineral oil
+722	synthetic resin	polyamide
+723	tallow	lard,beeswax
+724	tallow oil	vegetable oil,olive oil,lard,coconut oil,linseed oil,sesame oil,soybean oil,peanut oil
+725	tap water	fresh water,distilled water,seawater
+726	tartar emetic	tartrate
+727	tartrate	maleate,hydrochloride
+728	taurine	citric acid
+729	telomerase	enzyme,transcriptase,reverse transcriptase
+730	tetanus immunoglobulin	tetanus antitoxin
+731	tetrafluoroethylene	copolymer
+732	tetrahalide	binary compound
+733	tetrasaccharide	glycoside
+734	tetrose	triose
+735	tetroxide	trioxide,oxide
+736	tetryl	tnt,explosive,high explosive,picric acid,explosive compound
+737	thiocyanate	chloride,iodide,oxalate
+738	threonine	serine,tyrosine,leucine,isoleucine,valine,histidine,amino acid,cysteine,phenylalanine
+739	thrombin	plasmin,prothrombin,plasminogen activator,coagulation factor
+740	thromboplastin	coagulation factor
+741	thymine	cytosine,guanine,uracil,adenine,pyrimidine,purine
+742	thymol	linalool,cymene
+743	thyroglobulin	plasminogen activator
+744	titanium dioxide	oxide,zinc oxide
+745	tnt	high explosive,explosive,tetryl,picric acid,ammonium nitrate,plastic explosive
+746	toilet soap	laundry detergent,shampoo,toothpaste,bar soap
+747	tolu	benzoin,balsam
+748	toluene	benzene,hexane,methylene chloride
+749	tooth powder	toothpaste
+750	toothpaste	shampoo
+751	trans fatty acid	fatty acid,linoleic acid
+752	transcriptase	reverse transcriptase
+753	transfer rna	deoxyribonucleic acid,ribonucleic acid
+754	transferrin	globulin,ferritin,albumin,plasma protein
+755	transposon	reverse transcriptase
+756	triazine	organic compound
+757	trichloride	inorganic compound
+758	trichloroacetic acid	oxalic acid
+759	trichloroethylene	methylene chloride,carbon tetrachloride
+760	triglyceride	fatty acid,cholesterol
+761	trimer	dimer
+762	triose	tetrose,ketose,monosaccharide
+763	trioxide	pentoxide,tetroxide,monoxide
+764	trisaccharide	disaccharide,prolamine,oligosaccharide
+765	trypsin	protease,elastase,pepsin,lipase
+766	trypsinogen	elastase,trypsin,protease
+767	tryptophan	tyrosine,phenylalanine,amino acid,essential amino acid,leucine,histidine,isoleucine,glutamic acid
+768	tumor necrosis factor	interleukin,cytokine,growth factor
+769	tuna oil	olive oil
+770	tung oil	linseed oil
+771	turpentine	linseed oil,balsam
+772	tyramine	histamine
+773	tyrosine	phenylalanine,serine,leucine,threonine,tryptophan,histidine,isoleucine,amino acid
+774	ubiquinone	quinone
+775	unleaded gasoline	octane
+776	unsaturated fatty acid	fatty acid,myristic acid,oleic acid
+777	uracil	thymine,cytosine,guanine,adenine,nucleoside,pyrimidine
+778	uranyl nitrate	ammonium
+779	uranyl oxalate	hydroxide
+780	urate	uric acid,urea,oxalate
+781	urea	uric acid,urease,ammonia
+782	urea formaldehyde resin	melamine resin,urethane
+783	urease	catalase,oxidase,enzyme
+784	urethane	polyurethane,epoxy,synthetic resin
+785	uric acid	oxalic acid
+786	urobilinogen	uric acid
+787	valine	isoleucine,leucine,phenylalanine,glutamic acid,alanine,tyrosine,amino acid,threonine,aspartic acid,proline
+788	vanadium pentoxide	oxide,trioxide
+789	vanillin	hydroxybenzoic acid,tartaric acid
+790	vegetable oil	sesame oil,coconut oil,cooking oil,olive oil,soybean oil
+791	vegetable wax	beeswax,lanolin
+792	very low density lipoprotein	hdl cholesterol
+793	vinyl polymer	copolymer,polyamide,synthetic resin,polystyrene
+794	walnut oil	linseed oil,vegetable oil,sesame oil,sunflower oil
+795	warhead	high explosive
+796	water	seawater,fresh water,distilled water
+797	water of crystallization	distilled water,salt
+798	water softener	detergent,liquid soap
+799	wax	beeswax
+800	whale oil	spermaceti,sperm oil,paraffin,tallow,kerosene,wax,lard
+801	wood tar	turpentine,beeswax,creosote,copal
+802	wool oil	lanolin,tallow,beeswax,vegetable oil,linseed oil
+803	xanthine	purine,uracil,nucleoside
+804	xanthophyll	carotenoid
+805	zanzibar copal	storax,mastic,balsam
+806	zeaxanthin	carotene,lycopene,beta carotene,carotenoid
+807	zeolite	silicate
+808	zinc sulfate	hydroxide
+809	zymase	ptyalin

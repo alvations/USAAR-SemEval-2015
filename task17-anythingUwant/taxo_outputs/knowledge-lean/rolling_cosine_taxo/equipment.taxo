@@ -1,0 +1,199 @@
+0	strapping	pressure suit
+1	pallet boxes	pallets
+2	minneapolis-moline	tractor
+3	atom probe	microprobe
+4	tower viewer	solar telescope,copyscope
+5	mauritius radio telescope	robotic telescope
+6	optical telescope	reflecting telescope,infrared telescope
+7	scanning tunneling microscope	fluorescence microscope
+8	schmidt camera	astrograph
+9	impact microscope	optical microscope
+10	massey ferguson 399	tractor,minneapolis moline,farmall
+11	nasa infrared telescope facility	infrared telescope,optical telescope
+12	knife-edge scanning microscope	fluorescence microscope
+13	indicated airspeed	airspeed indicator
+14	wheel conveyor	screw conveyor
+15	space solar telescope	optical telescope,infrared telescope,solar telescope
+16	tail-pulse generator	ball transfer table
+17	shuckburgh telescope	reflecting telescope,optical telescope
+18	korsch telescope	optical telescope,reflecting telescope
+19	newtonian telescope	reflecting telescope,optical telescope
+20	subaru telescope	optical telescope,reflecting telescope,infrared telescope
+21	hubble space telescope	optical telescope,infrared telescope,reflecting telescope
+22	chainsaw safety clothing	eye protection
+23	reflecting telescope	optical telescope,newtonian telescope
+24	coudé auxiliary telescope	optical telescope,infrared telescope
+25	stockert radio telescope	optical telescope
+26	klevtsov–cassegrain telescope	optical telescope,reflecting telescope
+27	type 60 tracked tractor	artillery tractor
+28	m49 telescope	optical telescope,reflecting telescope
+29	racing helmet	stock car
+30	galileoscope	astroscan
+31	airspeed indicator	variometer,indicated airspeed
+32	crossley telescope	reflecting telescope
+33	challenger tractor	farmall
+34	heliometer	astrograph
+35	james gregory telescope	reflecting telescope
+36	phoropter	slit lamp,monocular
+37	swedish solar telescope	optical telescope,solar telescope
+38	spotting scope	finderscope
+39	hyfrecator	hiboy
+40	james lick telescope	reflecting telescope,optical telescope
+41	long michelson interferometer	optical telescope
+42	mons telescope	optical telescope,infrared telescope
+43	bathometer	pyrheliometer
+44	subsoiler	chemigation valve
+45	total internal reflection fluorescence microscope	fluorescence microscope
+46	advanced crew escape suit	pressure suit
+47	otto struve telescope	optical telescope,reflecting telescope
+48	molonglo observatory synthesis telescope	optical telescope,infrared telescope
+49	bok telescope	optical telescope
+50	modified dall–kirkham telescope	optical telescope,astroscan,reflecting telescope
+51	environmental scanning electron microscope	scanning electron microscope
+52	eso 3.6 m telescope	optical telescope,infrared telescope
+53	solar telescope	optical telescope,infrared telescope
+54	noise dosimeter	sound level meter
+55	permeameter	nephelometer
+56	large millimeter telescope	optical telescope,infrared telescope,reflecting telescope
+57	close helm	kegelhelm
+58	zenith telescope	optical telescope,reflecting telescope
+59	slat conveyor	roller conveyor
+60	carlsberg meridian telescope	optical telescope,infrared telescope,reflecting telescope
+61	ogs telescope	optical telescope,infrared telescope
+62	twist compression tester	hiboy
+63	very large telescope	optical telescope,reflecting telescope
+64	swedish vacuum solar telescope	solar telescope,optical telescope,infrared telescope,reflecting telescope
+65	achromatic telescope	refracting telescope,reflecting telescope,optical telescope,newtonian telescope
+66	tow conveyor	artillery tractor
+67	inverted microscope	fluorescence microscope,optical microscope
+68	scanning hall probe microscope	fluorescence microscope
+69	refracting telescope	reflecting telescope,optical telescope,newtonian telescope
+70	mooney viscometer	rheoscope
+71	automated patrol telescope	optical telescope
+72	nordic optical telescope	optical telescope
+73	bridge crane	gantry crane,cranes
+74	hexapod-telescope	optical telescope,reflecting telescope
+75	morris cdsw	artillery tractor
+76	variometer	airspeed indicator
+77	farmall	tractor,minneapolis moline
+78	great refractor	refracting telescope,optical telescope
+79	trolley conveyor	screw conveyor
+80	cathodoluminescence microscope	fluorescence microscope,optical microscope
+81	dutch open telescope	reflecting telescope
+82	pfund telescope	optical telescope
+83	vertical conveyor	screw conveyor
+84	chute conveyor	bucket conveyor
+85	einstein observatory	optical telescope,telescope
+86	canada–france–hawaii telescope	optical telescope,reflecting telescope
+87	stacker crane	gantry crane,cranes
+88	paver	odometer
+89	pilot direction indicator	variometer
+90	major atmospheric cerenkov experiment telescope	optical telescope
+91	reber radio telescope	optical telescope,reflecting telescope
+92	list of agricultural equipment	agricultural equipment
+93	víctor m. blanco telescope	optical telescope,infrared telescope
+94	discovery channel telescope	optical telescope,reflecting telescope
+95	jib crane	cranes,gantry crane
+96	lurie–houghton telescope	optical telescope,reflecting telescope
+97	microscope	optical microscope,fluorescence microscope
+98	liverpool telescope	optical telescope
+99	hale telescope	reflecting telescope
+100	anna l. nickel telescope	reflecting telescope,optical telescope
+101	three-mirror anastigmat	optical telescope
+102	robotic telescope	optical telescope,reflecting telescope
+103	palomar testbed interferometer	telescope
+104	bulk load containers	intermodal containers
+105	astronomical netherlands satellite	infrared telescope
+106	esa space debris telescope	infrared telescope,optical telescope
+107	infrared telescope	optical telescope
+108	ribchester helmet	newstead helmet
+109	steamroller	harvester
+110	vista (telescope)	optical telescope
+111	cathetometer	macrometer
+112	x-ray telescope	optical telescope,solar telescope
+113	space surveillance telescope	infrared telescope,optical telescope
+114	stratoscope	astroscan
+115	pyrheliometer	bathometer,actinometer
+116	ooty radio telescope	optical telescope
+117	bernard lyot telescope	reflecting telescope
+118	magnetic belt conveyor	screw conveyor,bucket conveyor
+119	chain conveyor	roller conveyor
+120	order picker	pallet jack
+121	viper telescope	optical telescope,infrared telescope
+122	microprobe	scientific instrument,scanning electron microscope
+123	comet seeker	actinometer,reflecting telescope
+124	belt dryer	screw conveyor
+125	telescope	optical telescope,reflecting telescope
+126	macrometer	rheoscope
+127	prompt telescopes	telescope,infrared telescope,optical telescope
+128	stroboscope	monocular
+129	craig telescope	reflecting telescope,optical telescope
+130	pneumatic conveyor	screw conveyor
+131	finderscope	monocular,optical telescope
+132	xo telescope	optical telescope,astroscan,infrared telescope
+133	conveyor	screw conveyor
+134	rheoscope	macrometer
+135	tower telescope	solar telescope,optical telescope,infrared telescope
+136	european extremely large telescope	optical telescope,infrared telescope
+137	southern african large telescope	optical telescope
+138	mpg/eso telescope	optical telescope,infrared telescope
+139	cerro chajnantor atacama telescope	optical telescope
+140	balloon-borne telescope	optical telescope,infrared telescope
+141	chandra x-ray observatory	solar telescope,optical telescope
+142	effelsberg 100-m radio telescope	optical telescope,infrared telescope
+143	military equipment	communication equipment
+144	fluorescence microscope	optical microscope
+145	small telescope	optical telescope,reflecting telescope
+146	actinometer	pyrheliometer
+147	scintillating bolometer	portable data terminal
+148	sysmex xe-2100	automated analyser
+149	optical microscope	fluorescence microscope
+150	3.67 m advanced electro optical system telescope	optical telescope
+151	gornergrat infrared telescope	infrared telescope,optical telescope
+152	ferguson te20	tractor
+153	infinite-axis telescope	optical telescope
+154	jacobus kapteyn telescope	optical telescope,reflecting telescope
+155	gantry crane	cranes
+156	farmall cub	tractor,minneapolis moline
+157	bradford robotic telescope	optical telescope
+158	farmall 1026	tractor
+159	siding spring 2.3 m telescope	optical telescope,reflecting telescope
+160	mercator telescope	optical telescope
+161	vlt survey telescope	optical telescope,infrared telescope
+162	motorcycle helmet	bicycle helmet
+163	plethysmograph	hydrometer
+164	multiphoton fluorescence microscope	fluorescence microscope,optical microscope
+165	kunlun dark universe survey telescope	optical telescope,infrared telescope
+166	laboratory equipment	medical equipment
+167	sardinia radio telescope	optical telescope
+168	samuel oschin telescope	optical telescope,reflecting telescope
+169	tauchmann telescope	optical telescope,infrared telescope,reflecting telescope
+170	national large solar telescope	optical telescope,infrared telescope,solar telescope
+171	turn table	chemigation valve
+172	southern astrophysical research telescope	infrared telescope
+173	hydrometer	viscometer
+174	bucket conveyor	screw conveyor
+175	visor	helmet
+176	chinese giant solar telescope	solar telescope,optical telescope
+177	vibrating conveyor	sortation conveyor
+178	cfa 1.2 m millimeter-wave telescope	optical telescope,infrared telescope,reflecting telescope
+179	aec matador	artillery tractor
+180	tractor-trailer	truck
+181	gregorian telescope	reflecting telescope,newtonian telescope
+182	operating microscope	optical microscope,fluorescence microscope
+183	cosmic anisotropy telescope	optical telescope
+184	wolter telescope	optical telescope,reflecting telescope
+185	bicycle helmet	motorcycle helmet
+186	razdow telescope	optical telescope,reflecting telescope
+187	petrographic microscope	fluorescence microscope,scanning electron microscope
+188	binoculars	small telescope
+189	schmidt–newton telescope	optical telescope,reflecting telescope
+190	office equipment	agricultural equipment,medical equipment
+191	carnegie telescope	optical telescope,reflecting telescope,infrared telescope
+192	james webb space telescope	infrared telescope,optical telescope
+193	uppsala southern schmidt telescope	optical telescope,hale telescope
+194	primeval structure telescope	optical telescope
+195	40-foot telescope	optical telescope,reflecting telescope
+196	ebro trucks	truck
+197	nasmyth telescope	reflecting telescope
+198	atacama cosmology telescope	optical telescope,infrared telescope
