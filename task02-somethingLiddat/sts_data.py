@@ -72,14 +72,6 @@ def get_sts_scores():
     with io.open('score.all', 'r') as fin:
         sts_scores = [float(i) for i in fin]
         return sts_scores
-    
-
-
-
-create_metor_out_file()
-
-
-
 
 
 

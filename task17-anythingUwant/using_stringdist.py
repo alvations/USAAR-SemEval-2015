@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 import io, sys, string
 from collections import defaultdict
 from itertools import chain
+from difflib import get_close_matches
 reload(sys); sys.setdefaultencoding("utf-8")
 
 from nltk.corpus import wordnet as wn
@@ -32,5 +33,21 @@ def generate_taxonomy_from_within(subcorpus, dateset='test'):
     return term_to_hypernyms
 
 
-
+def generate_taxonomy_from_string(subcorpus, dataset='test'):
+    """
+    >>> for i,j in generate_taxonomy_from_string('science').iteritems():
+    >>>     print i,j
+    >>>     break
+    morphology meteorology,phonology
+    """
+    term_to_hypernyms = {}
+    terms = [term for termid, term in texeval_corpus.terms('test', subcorpus)]
+    
+    for t1 in terms:
+        hypernyms = [t2 for t2 in get_close_matches(t1, terms) if
+                     t1 != t2 and len(t1) > 3]
+        if hypernyms:
+            term_to_hypernyms[t1] = ",".join(hypernyms)
+    
+    return term_to_hypernyms
 
