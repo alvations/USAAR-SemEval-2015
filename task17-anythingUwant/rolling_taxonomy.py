@@ -39,4 +39,3 @@ for subcorpus in subcorpora:
         term, hypernym = term_hypernym
         outline = '{}\t{}\t{}\n'.format(i, term, hypernym).decode('utf8')
         fout.write(unicode(outline))
-    
