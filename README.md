@@ -17,5 +17,5 @@ Contributors
  - Liling Tan
  - Rohit Gupta (USAAR-WLV) 
  - Carol Scarton (USAAR-SHEFFIELD)
- - Noam Ordan (USAAR-SENSIBLE)
+ - Noam Ordan (USAAR-chronos)
  - Josef van Genabith (USAAR-WLV, USAAR-SHEFFIELD)
