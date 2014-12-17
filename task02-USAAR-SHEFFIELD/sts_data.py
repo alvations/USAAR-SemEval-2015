@@ -26,6 +26,10 @@ STS2014_GOLD = {'STS.input.deft-news.txt': 'STS.gs.deft-news.txt',
                 'STS.input.headlines.txt': 'STS.gs.headlines.txt',
                 'STS.input.tweet-news.txt': 'STS.gs.tweet-news.txt'}
 
+STS2015_test = ['STS.input.answers-forums.txt',  'STS.input.images.txt', 
+                'STS.input.answers-students.txt', 'STS.input.headlines.txt', 
+                'STS.input.belief.txt']
+
 STS_DATA_DIR = 'STS-data/'
 STS_DATA = {'STS2012-train/':STS2012_TRAIN,'STS2012-test/':STS2012_TEST,
             'STS2013-gold/':STS2013_GOLD, 'STS2014-gold/':STS2014_GOLD}
@@ -53,29 +57,24 @@ def create_dot_all_file():
                     fout3.write(score+'\n')
 
 def create_meteor_output_all_file():
-    cmd = 'java -Xmx2G -jar meteor-1.5/meteor-*.jar left.all right.all > meteor.output.all'
+    cmd = 'java -Xmx2G -jar meteor-1.5/meteor-*.jar left.train right.train > meteor.output.train'
     os.system(cmd)
 
-def create_metor_out_file():
-    with io.open('meteor.output.all', 'r') as fin, io.open('meteor.all', 'w') as fout:
+def create_metor_out_file(infile='meteor.output.train', outfile='meteor.train'):
+    with io.open('meteor.output.all', 'r') as fin, io.open(outfile, 'w') as fout:
         for i in re.findall(r'Segment [0-9].* score\:.*\n', fin.read()):
             fout.write(i.strip().split()[-1] + '\n')
+##create_metor_out_file('meteor.output.test', 'meteor.test')
 
-def get_meteor_scores():
-    with io.open('meteor.output.all', 'r') as fin:
+def get_meteor_scores(infile='meteor.output.train'):
+    with io.open(infile, 'r') as fin:
         meteor_scores = [float(i.strip().split()[-1]) for 
                                i in re.findall(r'Segment [0-9].* score\:.*\n', 
                                                fin.read())]
         return meteor_scores
 
-def get_sts_scores():
-    with io.open('score.all', 'r') as fin:
+def get_sts_scores(infile='score.train'):
+    with io.open(infile, 'r') as fin:
         sts_scores = [float(i) for i in fin]
         return sts_scores
-
-
-
-
-
-
 
