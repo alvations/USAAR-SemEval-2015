@@ -35,16 +35,20 @@ x_test = x
 runs = []
 
 for _ in range(5):
+    
     train_latent_matrix = get_latent_matrix(x,y,x)
-    test_latent_matrix = get_latent_matrix(x,y,x_test)
+    #test_latent_matrix = get_latent_matrix(x,y,x_test)
+    
     # Clean out rows with NaN.
     mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
     newx = train_latent_matrix[mask]
     newy = y[mask]
-
+    
+    test_latent_matrix = newx
+    
     last_layer = BayesianRidge()
     last_layer.fit(newx, newy)
     output = last_layer.predict(test_latent_matrix)
     
-    for i in output:
+    for i,j in zip(output, newy):
         print i
