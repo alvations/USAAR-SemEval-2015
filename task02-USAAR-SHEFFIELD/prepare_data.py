@@ -24,5 +24,4 @@ def prepare_training_data_modelz():
     
     np.savetxt('x.meteor.train', meteor_scores)
     np.savetxt('y.meteor.train', sts_scores)
-    
-prepare_training_data_modelz()
+    np.savetxt('x.meteor.test', test_meteor_scores)
