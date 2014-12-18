@@ -10,6 +10,8 @@ def get_asiya_scores():
     
     feature_data = {}
     for infile in os.listdir(indir):
+        if not infile.startswith('features'):
+            continue
         if infile in ['features.cp', 'features.sr', 'features.ne', 
                       'features.esa']:
             continue
@@ -31,3 +33,27 @@ def get_asiya_scores():
             seventy_seven.append(j)
     
     return seventy_seven, to_remove
+
+
+#def get_asiya_scores_for_test():
+'''
+indir = 'Asiya-outputs/'
+feature_data = {}
+
+for infile in os.listdir(indir):
+    
+    if not infile.startswith('report'):
+        continue
+    if infile not in ['report.test.meteor', 'report.test.sp', 
+                      'report.test.ngram']:
+        continue
+    for line in io.open(indir+infile, 'r'):
+        print infile, line.split()
+        break
+    
+    data = [[float(i) for i in line.strip().split()] 
+                for line in io.open(indir+infile, 'r')]
+    feature_data[infile] = data
+    for line in data:
+        print len(line), line
+'''
