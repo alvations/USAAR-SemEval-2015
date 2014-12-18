@@ -36,27 +36,41 @@ x_test = x
 
 runs = []
 
-for _ in range(1):
+#for _ in range(1):
     
-    train_latent_matrix = get_latent_matrix(x,y,x)
-    #test_latent_matrix = get_latent_matrix(x,y,x_test)
+train_latent_matrix = get_latent_matrix(x,y,x)
+#test_latent_matrix = get_latent_matrix(x,y,x_test)
+
+# Clean out rows with NaN.
+#mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
+#newx = train_latent_matrix[mask]
+#newy = y[mask]
+
+newx = np.nan_to_num(train_latent_matrix)
+newy = y
+
+test_latent_matrix = newx
+
+#last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
+last_layer = BayesianRidge()
+last_layer.fit(newx, newy)
+output = last_layer.predict(test_latent_matrix)
+runs.append(output)
+
+'''        
+fout = open('modelx.output', 'w')
+for line in zip(*runs):
+    avg =sum(line)/len(line)
+    if avg > 5:
+        avg = 5.0
+    elif avg < 0:
+        avg = 0.0
+    fout.write(str(avg)[:6]+'\n')
+'''
     
-    # Clean out rows with NaN.
-    #mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
-    #newx = train_latent_matrix[mask]
-    #newy = y[mask]
-    
-    newx = np.nan_to_num(train_latent_matrix)
-    newy = y
-    
-    test_latent_matrix = newx
-    
-    #last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
-    last_layer = BayesianRidge()
-    last_layer.fit(newx, newy)
-    output = last_layer.predict(test_latent_matrix)
-    runs.append(output)
-    
-    for i,j in zip(output, newy):
-        print i, j
-        
+fout = open('modelx.analysis', 'w')
+
+mean_error = []
+for j,k in zip(output, y): 
+    mean_error.append(math.fabs(k-j))   
+fout.write('ALL:', str(sum(mean_error) / float(len(mean_error))))
