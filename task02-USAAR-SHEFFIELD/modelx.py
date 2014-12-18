@@ -36,7 +36,7 @@ x_test = x
 
 runs = []
 
-for _ in range(10):
+for _ in range(1):
     
     train_latent_matrix = get_latent_matrix(x,y,x)
     #test_latent_matrix = get_latent_matrix(x,y,x_test)
