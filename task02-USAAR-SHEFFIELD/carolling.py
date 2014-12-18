@@ -32,9 +32,9 @@ regressors = {'lr':LinearRegression(),
 'par':PassiveAggressiveRegressor(),
 'ransac':RANSACRegressor(),
 'lgr':LogisticRegression(),
-'svr_lin':SVR(kernel='linear', C=1e3),
-'svr_poly':SVR(kernel='poly', C=1e3, degree=2),
 'svr_rbf':SVR(kernel='rbf', C=1e3, gamma=0.1)}
+#'svr_lin':SVR(kernel='linear', C=1e3)}
+#'svr_poly':SVR(kernel='poly', C=1e3, degree=2)}
 
 def build_regressors(num):
     rgs = regressors[num]

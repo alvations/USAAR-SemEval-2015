@@ -15,29 +15,46 @@ from sklearn.svm import SVR
 from sklearn.gaussian_process import GaussianProcess
 from sklearn.tree import DecisionTreeRegressor
 
+
+def get_latent_matrix(_x,_y,_z):
+    latent_matrix = np.array(zip(LinearRegression().fit(_x,_y).predict(_z),
+    BayesianRidge(compute_score=True).fit(_x,_y).predict(_z),
+    ElasticNet().fit(_x,_y).predict(_z),
+    PassiveAggressiveRegressor().fit(_x,_y).predict(_z),
+    RANSACRegressor().fit(_x,_y).predict(_z),
+    LogisticRegression().fit(_x,_y).predict(_z)))
+    #SVR(kernel='linear', C=1e3).fit(_x,_y).predict(_z),
+    #SVR(kernel='poly', C=1e3, degree=2).fit(_x,_y).predict(_z),
+    #SVR(kernel='rbf', C=1e3, gamma=0.1).fit(_x,_y).predict(_z)))
+    return latent_matrix
+
 x = np.loadtxt('x.meteor.train')[:,np.newaxis]
 y = np.loadtxt('y.meteor.train')
 x_test = np.loadtxt('x.meteor.test')[:,np.newaxis]
 
+runs = []
 
-latent_matrix = np.array(zip(LinearRegression().fit(x,y).predict(x_test),
-BayesianRidge(compute_score=True).fit(x,y).predict(x_test),
-ElasticNet().fit(x,y).predict(x_test),
-PassiveAggressiveRegressor().fit(x,y).predict(x_test),
-RANSACRegressor().fit(x,y).predict(x_test),
-LogisticRegression().fit(x,y).predict(x_test),
-SVR(kernel='linear', C=1e3).fit(x,y).predict(x_test),
-SVR(kernel='poly', C=1e3, degree=2).fit(x,y).predict(x_test),
-SVR(kernel='rbf', C=1e3, gamma=0.1).fit(x,y).predict(x_test)))
+for _ in range(5):
+    train_latent_matrix = get_latent_matrix(x,y,x)
+    test_latent_matrix = get_latent_matrix(x,y,x_test)
+    # Clean out rows with NaN.
+    mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
+    newx = train_latent_matrix[mask]
+    newy = y[mask]
 
+    #last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
+    last_layer = BayesianRidge()
+    last_layer.fit(newx, newy)
 
-mask = ~np.any(np.isnan(latent_matrix), axis=1)
-newx = latent_matrix[mask]
-newy = y[mask]
-
-
-last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
-last_layer.fit(newx, newy)
-sts_task_output = last_layer.predict(x_test)
-
-print len(sts_task_output)
+    output = last_layer.predict(test_latent_matrix)
+    assert len(output) == 8500
+    runs.append(output)
+    
+for line in zip(*runs):
+    avg =sum(line)/len(line)
+    if avg > 5:
+        print 5
+    if avg < 0:
+        print 0
+    else:
+        print str(avg).format(6)

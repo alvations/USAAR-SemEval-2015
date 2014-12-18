@@ -151,7 +151,6 @@ svr_rbf = SVR(kernel='rbf', C=1e3, gamma=0.1)
 y_rbf = svr_rbf.fit(x, y)  
 y_rbf_sts_scores = y_rbf.predict(xt)
 
-
 scores = np.array(zip(lr_sts_scores,
 br_sts_scores,
 par_sts_scores,
