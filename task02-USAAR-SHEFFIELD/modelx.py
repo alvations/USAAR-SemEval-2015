@@ -6,6 +6,7 @@ import cPickle as pickle
 import numpy as np
 
 from sklearn.svm import SVR
+from sklearn.linear_model import BayesianRidge
 
 def get_latent_matrix(_x,_y,_z):
     m = 'asiya'
@@ -41,13 +42,17 @@ for _ in range(10):
     #test_latent_matrix = get_latent_matrix(x,y,x_test)
     
     # Clean out rows with NaN.
-    mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
-    newx = train_latent_matrix[mask]
-    newy = y[mask]
+    #mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
+    #newx = train_latent_matrix[mask]
+    #newy = y[mask]
+    
+    newx = np.nan_to_num(train_latent_matrix)
+    newy = y
     
     test_latent_matrix = newx
     
-    last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
+    #last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
+    last_layer = BayesianRidge()
     last_layer.fit(newx, newy)
     output = last_layer.predict(test_latent_matrix)
     runs.append(output)

@@ -1,6 +1,6 @@
 #!/usr/bin/env python -*- coding: utf-8 -*-
 
-import math
+import math, io
 
 import numpy as np
 
@@ -36,28 +36,33 @@ x_test = np.loadtxt('x.meteor.test')[:,np.newaxis]
 
 runs = []
 
-for _ in range(100):
+for _ in range(5):
     train_latent_matrix = get_latent_matrix(x,y,x)
     test_latent_matrix = get_latent_matrix(x,y,x_test)
     # Clean out rows with NaN.
-    mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
-    newx = train_latent_matrix[mask]
-    newy = y[mask]
+    #mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
+    #newx = train_latent_matrix[mask]
+    #newy = y[mask]
+    
+    newx = np.nan_to_num(train_latent_matrix)
+    newy = y
 
-    last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
-    #last_layer = BayesianRidge()
+    #last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
+    last_layer = BayesianRidge()
     last_layer.fit(newx, newy)
 
     output = last_layer.predict(test_latent_matrix)
     assert len(output) == 8500
     runs.append(output)
 
-fout = io.open('modelz.output', 'w')
+#for i in runs:
+#print len(i)
+   
+fout = open('modelz.output', 'w')
 for line in zip(*runs):
     avg =sum(line)/len(line)
     if avg > 5:
-        fout.write(str(5.0000)+'\n')
-    if avg < 0:
-        fout.write(str(0.0000)+'\n')
-    else:
-        fout.write(str(round(avg,4))+'\n')
+        avg = 5.0
+    elif avg < 0:
+        avg = 0.0
+    fout.write(str(avg)[:6]+'\n')
