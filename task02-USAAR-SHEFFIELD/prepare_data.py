@@ -23,6 +23,6 @@ def prepare_training_data_modelz():
     sts_scores = np.array(get_sts_scores('score.train'))
     
     np.savetxt('x.meteor.train', meteor_scores)
-    np.savetxt('x.meteor.train', sts_scores)
+    np.savetxt('y.meteor.train', sts_scores)
     
 prepare_training_data_modelz()
