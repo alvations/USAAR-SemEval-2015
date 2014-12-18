@@ -73,4 +73,4 @@ fout = open('modelx.analysis', 'w')
 mean_error = []
 for j,k in zip(output, y): 
     mean_error.append(math.fabs(k-j))   
-fout.write('ALL:', str(sum(mean_error) / float(len(mean_error))))
+fout.write('ALL:' + str(sum(mean_error) / float(len(mean_error))))
