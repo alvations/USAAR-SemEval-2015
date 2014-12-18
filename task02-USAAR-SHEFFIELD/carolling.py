@@ -31,7 +31,8 @@ def build_regressors(num):
     'svr_rbf':SVR(kernel='rbf', C=1e3, gamma=0.1)}
     rgs = regressors[num]
     rgs.fit(x, y)
-    pickle.dump(num+'.pk', rgs)
+    with open(num+'.pk', 'wb') as fid:
+        pickle.dump(fid, rgs)
     
 def main(num):
     build_regressors(num)
