@@ -15,6 +15,8 @@ from sklearn.svm import SVR
 from sklearn.gaussian_process import GaussianProcess
 from sklearn.tree import DecisionTreeRegressor
 
+import random
+random.seed(0)
 
 def get_latent_matrix(_x,_y,_z):
     latent_matrix = np.array(zip(LinearRegression().fit(_x,_y).predict(_z),
@@ -34,7 +36,7 @@ x_test = np.loadtxt('x.meteor.test')[:,np.newaxis]
 
 runs = []
 
-for _ in range(5):
+for _ in range(10):
     train_latent_matrix = get_latent_matrix(x,y,x)
     test_latent_matrix = get_latent_matrix(x,y,x_test)
     # Clean out rows with NaN.
@@ -42,8 +44,8 @@ for _ in range(5):
     newx = train_latent_matrix[mask]
     newy = y[mask]
 
-    #last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
-    last_layer = BayesianRidge()
+    last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
+    #last_layer = BayesianRidge()
     last_layer.fit(newx, newy)
 
     output = last_layer.predict(test_latent_matrix)
@@ -57,4 +59,4 @@ for line in zip(*runs):
     if avg < 0:
         print 0
     else:
-        print str(avg).format(6)
+        print str(avg).zfill(6)

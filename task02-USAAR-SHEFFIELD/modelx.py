@@ -1,10 +1,11 @@
 #!/usr/bin/env python -*- coding: utf-8 -*-
 
 import math
+import cPickle as pickle
 
 import numpy as np
 
-import cPickle as pickle
+from sklearn.svm import SVR
 
 def get_latent_matrix(_x,_y,_z):
     m = 'asiya'
@@ -34,7 +35,7 @@ x_test = x
 
 runs = []
 
-for _ in range(5):
+for _ in range(10):
     
     train_latent_matrix = get_latent_matrix(x,y,x)
     #test_latent_matrix = get_latent_matrix(x,y,x_test)
@@ -46,9 +47,9 @@ for _ in range(5):
     
     test_latent_matrix = newx
     
-    last_layer = BayesianRidge()
+    last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
     last_layer.fit(newx, newy)
     output = last_layer.predict(test_latent_matrix)
     
     for i,j in zip(output, newy):
-        print i
+        print i, j
