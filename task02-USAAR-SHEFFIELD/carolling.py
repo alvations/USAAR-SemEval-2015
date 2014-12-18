@@ -16,8 +16,13 @@ from sklearn.gaussian_process import GaussianProcess
 from sklearn.tree import DecisionTreeRegressor
 
 
-x = np.loadtxt('x.asiya.train')
-y = np.loadtxt('y.asiya.train')
+m = 'modelx'
+if m == 'modelx':
+    x = np.loadtxt('x.asiya.train')
+    y = np.loadtxt('y.asiya.train')
+elif m == 'modelz':
+    x = np.loadtxt('x.meteor.train')
+    y = np.loadtxt('y.meteor.train')
 
 regressors = {'lr':LinearRegression(),
 'br':BayesianRidge(compute_score=True),
