@@ -36,7 +36,7 @@ x_test = np.loadtxt('x.meteor.test')[:,np.newaxis]
 
 runs = []
 
-for _ in range(10):
+for _ in range(100):
     train_latent_matrix = get_latent_matrix(x,y,x)
     test_latent_matrix = get_latent_matrix(x,y,x_test)
     # Clean out rows with NaN.
@@ -51,12 +51,13 @@ for _ in range(10):
     output = last_layer.predict(test_latent_matrix)
     assert len(output) == 8500
     runs.append(output)
-    
+
+fout = io.open('modelz.output', 'w')
 for line in zip(*runs):
     avg =sum(line)/len(line)
     if avg > 5:
-        print 5
+        fout.write(str(5.0000)+'\n')
     if avg < 0:
-        print 0
+        fout.write(str(0.0000)+'\n')
     else:
-        print str(avg).zfill(6)
+        fout.write(str(round(avg,4))+'\n')

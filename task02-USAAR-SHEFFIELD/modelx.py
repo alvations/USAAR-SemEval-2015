@@ -50,6 +50,8 @@ for _ in range(10):
     last_layer = SVR(kernel='rbf', C=1e3, gamma=0.1)
     last_layer.fit(newx, newy)
     output = last_layer.predict(test_latent_matrix)
+    runs.append(output)
     
     for i,j in zip(output, newy):
         print i, j
+        
