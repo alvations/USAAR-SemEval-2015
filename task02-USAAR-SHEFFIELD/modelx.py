@@ -20,9 +20,9 @@ def get_latent_matrix(_x,_y,_z):
     latent_matrix = np.array(zip(lr.fit(_x,_y).predict(_z),
     br.fit(_x,_y).predict(_z),
     enr.predict(_z),
-    par().fit(_x,_y).predict(_z),
-    ransac().fit(_x,_y).predict(_z),
-    lgr().fit(_x,_y).predict(_z),
+    par.fit(_x,_y).predict(_z),
+    ransac.fit(_x,_y).predict(_z),
+    lgr.fit(_x,_y).predict(_z),
     svr_rbf.fit(_x,_y).predict(_z)))
     
     return latent_matrix
