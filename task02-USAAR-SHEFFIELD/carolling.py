@@ -32,7 +32,7 @@ def build_regressors(num):
     rgs = regressors[num]
     rgs.fit(x, y)
     with open(num+'.pk', 'wb') as fid:
-        pickle.dump(fid, rgs)
+        pickle.dump(rgs, fid)
     
 def main(num):
     build_regressors(num)
