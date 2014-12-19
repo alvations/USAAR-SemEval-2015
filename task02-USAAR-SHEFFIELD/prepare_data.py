@@ -2,7 +2,7 @@
 import numpy as np
 
 from sts_data import get_meteor_scores, get_sts_scores
-from asiya import get_asiya_scores
+from asiya import get_asiya_scores, get_asiya_test_scores
 
 
 def prepare_training_data_modelx():
@@ -16,6 +16,8 @@ def prepare_training_data_modelx():
     np.savetxt('x.asiya.train', x)
     np.savetxt('y.asiya.train', y)
 
+    test_asiya_scores = np.array(get_asiya_test_scores())
+    np.savetxt('x.asiya.test', test_asiya_scores)
 
 def prepare_training_data_modelz():
     meteor_scores = np.array(get_meteor_scores('meteor.output.train'))

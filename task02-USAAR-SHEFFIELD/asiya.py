@@ -5,9 +5,9 @@ from itertools import chain
 
 import numpy as np
 
-def get_asiya_scores():
-    indir = 'Asiya-outputs/'
+indir = 'Asiya-outputs/'
     
+def get_asiya_scores():
     feature_data = {}
     for infile in os.listdir(indir):
         if not infile.startswith('features'):
@@ -33,6 +33,27 @@ def get_asiya_scores():
             seventy_seven.append(j)
     
     return seventy_seven, to_remove
+
+def get_asiya_test_scores():
+    feature_data = {}
+    for infile in os.listdir(indir):
+        if not infile.startswith('features.test'):
+            continue
+        if infile not in ['features.test.meteor', 'features.test.sp', 
+                          'features.test.ngram']:
+            continue
+        data = [[float(i) for i in line.strip().split()] 
+                for line in io.open(indir+infile, 'r')]
+        feature_data[infile] = data
+        
+    _seventy_seven = [i + j + k  for i,j,k in 
+                     zip(feature_data['features.test.meteor'], 
+                         feature_data['features.test.sp'], 
+                         feature_data['features.test.ngram'])]
+    return _seventy_seven
+    for i,j in enumerate(_seventy_seven):
+        print i, len(j), j  
+        assert len(j) == 76
 
 
 #def get_asiya_scores_for_test():
