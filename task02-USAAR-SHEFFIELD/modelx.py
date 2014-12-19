@@ -38,8 +38,9 @@ runs = []
 
 for _ in range(10):    
     train_latent_matrix = get_latent_matrix(x,y,x)
+    np.savetxt('modelx.train.matrix', train_latent_matrix)
     test_latent_matrix = get_latent_matrix(x,y,x_test)
-    
+    np.savetxt('modelx.test.matrix', test_latent_matrix)
     # Clean out rows with NaN.
     #mask = ~np.any(np.isnan(train_latent_matrix), axis=1)
     #newx = train_latent_matrix[mask]
