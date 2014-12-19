@@ -1,0 +1,67 @@
+Brief description of your approach
+====
+
+Same as model X but uses the default Meteor English MT metrics instead of a variety of metrics output by Asiya. The purpose was to test whether additional features in our psuedo neural network makes a different. 
+
+Approach:
+1. Run Meteor evaluation script and produce a bunch of different metric scores for each sentence pair
+2. Run multiple linear regressors from the matrix of metrics from step 1 and predict a single value for each sentence pair. These linear regressors produces a layer of latent information
+3. Use a single linear regressor (that learns from the latent information from step 2) as a the last layer of the pseudo neural net to predict the output value for each sentence. 
+4. At tasking time step 1 used to produce the matrix for the test data and then the last layer linear regressor (from step 3) is used to produce the systme output. 
+
+
+Is your approach supervised?
+====
+Yes, multiple layers of supervisions
+
+
+Most important features used *
+====
+Pseudo neural nets made up of different regressors, we're not sure what to call it, possibly 'shallow learning' or 'shadow learning' or something.
+
+Important tools used
+====
+- Meteor MT evalation tool http://www.cs.cmu.edu/~alavie/METEOR/
+- The regressors involved are LinearRegression, BayesianRidge, ARDRegression, ElasticNet, LogisticRegression, RandomizedLogisticRegression, PassiveAggressiveRegressor, RANSACRegressor
+- Previous STS data
+
+Significant data pre- or post-processing
+====
+- Extracting the meteor vector before the psuedo neural network.
+
+
+External data used other than that provided by the task organizers
+====
+None
+
+References
+====
+
+@InProceedings{rios:2014:SemEval,
+  author    = {Rios, Miguel},
+  title     = {UoW: Multi-task Learning Gaussian Process for Semantic Textual Similarity},
+  booktitle = {Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014)},
+  month     = {August},
+  year      = {2014},
+  address   = {Dublin, Ireland},
+  publisher = {Association for Computational Linguistics and Dublin City University},
+  pages     = {779--784},
+  url       = {http://www.aclweb.org/anthology/S14-2138}
+}
+
+@InProceedings{rios-aziz-specia:2012:STARSEM-SEMEVAL,
+  author    = {Rios, Miguel  and  Aziz, Wilker  and  Specia, Lucia},
+  title     = {UOW: Semantically Informed Text Similarity},
+  booktitle = {{*SEM 2012}: The First Joint Conference on Lexical and Computational Semantics -- Volume 1: Proceedings of the main conference and the shared task, and Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation {(SemEval 2012)}},
+  month     = {7-8 June},
+  year      = {2012},
+  address   = {Montr\'{e}al, Canada},
+  publisher = {Association for Computational Linguistics},
+  pages     = {673--678},
+  url       = {http://www.aclweb.org/anthology/S12-1100}
+}
+
+
+Comments
+====
+The code use to produce the outputs can be found at https://github.com/alvations/USAAR-SemEval-2015. 

@@ -1,0 +1,64 @@
+Brief description of your approach
+====
+
+Instead of using the psuedo neural network that we used for model X, we test whether a single layer of classification works just as well with all the features output by Asiya.
+
+Approach:
+1. Run Asiya MT eval scripts and produce a bunch of different metric scores for each sentence pair
+2. Use a single linear regressor to predict the output value for each sentence. 
+
+
+Is your approach supervised?
+====
+Yes, Baysian Ridge Regressor
+
+
+Most important features used *
+====
+Pseudo neural nets made up of different regressors, we're not sure what to call it, possibly 'shallow learning' or 'shadow learning' or something.
+
+Important tools used
+====
+- Asiya http://asiya.lsi.upc.edu/
+- The regressors involved are BayesianRidge
+- Previous STS data
+
+Significant data pre- or post-processing
+====
+- Extracting the meteor vector before the psuedo neural network.
+
+
+External data used other than that provided by the task organizers
+====
+None
+
+References
+====
+
+@InProceedings{rios:2014:SemEval,
+  author    = {Rios, Miguel},
+  title     = {UoW: Multi-task Learning Gaussian Process for Semantic Textual Similarity},
+  booktitle = {Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014)},
+  month     = {August},
+  year      = {2014},
+  address   = {Dublin, Ireland},
+  publisher = {Association for Computational Linguistics and Dublin City University},
+  pages     = {779--784},
+  url       = {http://www.aclweb.org/anthology/S14-2138}
+}
+
+@InProceedings{rios-aziz-specia:2012:STARSEM-SEMEVAL,
+  author    = {Rios, Miguel  and  Aziz, Wilker  and  Specia, Lucia},
+  title     = {UOW: Semantically Informed Text Similarity},
+  booktitle = {{*SEM 2012}: The First Joint Conference on Lexical and Computational Semantics -- Volume 1: Proceedings of the main conference and the shared task, and Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation {(SemEval 2012)}},
+  month     = {7-8 June},
+  year      = {2012},
+  address   = {Montr\'{e}al, Canada},
+  publisher = {Association for Computational Linguistics},
+  pages     = {673--678},
+  url       = {http://www.aclweb.org/anthology/S12-1100}
+}
+
+Comments
+====
+The code use to produce the outputs can be found at https://github.com/alvations/USAAR-SemEval-2015. 
