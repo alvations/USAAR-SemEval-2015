@@ -36,7 +36,7 @@ x_test = np.loadtxt('x.meteor.test')[:,np.newaxis]
 
 runs = []
 
-for _ in range(5):
+for _ in range(10):
     train_latent_matrix = get_latent_matrix(x,y,x)
     test_latent_matrix = get_latent_matrix(x,y,x_test)
     # Clean out rows with NaN.
@@ -58,7 +58,7 @@ for _ in range(5):
 #for i in runs:
 #print len(i)
    
-fout = open('modelz.output', 'w')
+fout = open('modelz.10.output', 'w')
 for line in zip(*runs):
     avg =sum(line)/len(line)
     if avg > 5:

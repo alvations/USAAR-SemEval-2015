@@ -55,7 +55,7 @@ for _ in range(10):
     # output = last_layer.predict(train_latent_matrix)
     runs.append(output)
 
-fout = open('modelx.output', 'w')
+fout = open('modelx.10.output', 'w')
 for line in zip(*runs):
     avg =sum(line)/len(line)
     if avg > 5:
