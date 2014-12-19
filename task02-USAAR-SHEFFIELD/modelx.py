@@ -63,7 +63,7 @@ for line in zip(*runs):
     elif avg < 0:
         avg = 0.0
     outline = str(avg)[:6]
-    assert float(outline)
+    print avg
     fout.write(str(avg)[:6]+'\n')
 
 '''
