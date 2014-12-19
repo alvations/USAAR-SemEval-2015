@@ -18,9 +18,6 @@ def prepare_training_data_modelx():
 
     test_asiya_scores = np.array(get_asiya_test_scores())
     np.savetxt('x.asiya.test', test_asiya_scores)
-    
-test_asiya_scores = np.array(get_asiya_test_scores())
-np.savetxt('x.asiya.test', test_asiya_scores)
 
 
 def prepare_training_data_modelz():
