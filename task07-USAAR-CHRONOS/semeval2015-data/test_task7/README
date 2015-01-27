@@ -1,0 +1,13 @@
+﻿For the files testT1.txt and testT2.txt the system has to choose ONE AND ONLY  time period  for each of the granularity levels and to mark it as yes=, instead of no= 
+
+For the file testT3.txt the system can choose multiple phrases to mark as yes= or it could chose none.
+
+For detailed information please consult the README fiel on the task web page: http://alt.qcri.org/semeval2015/task7/data/uploads/readme_2.txt
+
+
+OUTPUT:
+PLEASE RETURN AN ARCHIVE CONTAINING A DIRECTORY WITH THREE FILES WITH EXACTLY SAME NAME. THE NAME OF THE ARCHIVE, THE SAME AS THE NAME OF THE DIRECTORY, SHOULD BE YOUR TEAM NAME.
+
+THANK YOU AND GOOD LUCK!
+
+
