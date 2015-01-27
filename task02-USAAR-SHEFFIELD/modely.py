@@ -21,7 +21,7 @@ for _ in range(10):
     runs.append(output)
 
 
-fout = open('modely.10.output', 'w')
+#fout = open('modely.10.output', 'w')
 for line in zip(*runs):
     avg =sum(line)/len(line)
     if avg > 5:
@@ -29,6 +29,6 @@ for line in zip(*runs):
     elif avg < 0:
         avg = 0.0
     print str(float(avg))[:6]
-    fout.write(str(float(avg))[:6]+'\n')
+    #fout.write(str(float(avg))[:6]+'\n')
 
 
