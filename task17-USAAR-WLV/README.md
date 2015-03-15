@@ -29,5 +29,11 @@ Due to the 4 page limitations of the paper, we were not able to squeeze more inf
 **Did you use any sentence containing "is a" or only sentences containing a SemEval term? or only the first sentence of a Wikipedia article?**
 - Yes, we use sentences containing `is_a` as well as all other sentences within the article that contains the term. We use the full article when training our neural net vector space. Our hypothesis is that any words that appears in the same wiki article as the term is somewhat related to it. So training a vector space from the whole article gives denser vectors with more information.
 
-
+**What are the limitations of your system?**
+- As one of the sharp reviewers of our paper pointed out, we basically have a hyper-hyponym pair generator instead of real taxonomy builder. The reviewer:
+ - *the task is to build a taxonomy. In the paper, nothing is talked about the strategy to structure the semantic space. Once hypernym/hyponyms pairs have been discovered, how terms are structured. If there is a link between each word pair, there may exist many cycles and too many edges which would render a useless taxonomy. Here the authors should clearly explain there strategy as it is the aim of the SEMEVAL contest. For example, some simple problems can occur. If "food" is the root of the taxonomy, the authors may calculate: v(food) op v(is-a_food). Then what is the root of the root? The authors will find a candidate in the space, which of course will be wrong. How do they deal with this simple problem?"*
+- That was one of the problem that occurred during evaluation and we couldn't resolve the problem of the top of the domain ontology not linking to anything so our initial strategy was to ignore the entity at the top of the ontology since the TOP of all ontology should ideally be linked to nothing.
+- But we're talking about sub-taxonomy of a specific domain here so our solution was just to link the top of the domain to `entity` concept or to its hypernym concept as per Wordnet.
+- As highlighted in the paper our concern for pure hyper-hyponym pairs has caused the multi-inner cycles and low F&M scores, so the only resolution that we could see is to map all hyper-hyponym pairs onto a graph and then prune the graph to get an ontology with minimal cycles. 
+ 
 
