@@ -35,5 +35,7 @@ Due to the 4 page limitations of the paper, we were not able to squeeze more inf
 - That was one of the problem that occurred during evaluation and we couldn't resolve the problem of the top of the domain ontology not linking to anything so our initial strategy was to ignore the entity at the top of the ontology since the TOP of all ontology should ideally be linked to nothing.
 - But we're talking about sub-taxonomy of a specific domain here so our solution was just to link the top of the domain to `entity` concept or to its hypernym concept as per Wordnet.
 - As highlighted in the paper our concern for pure hyper-hyponym pairs has caused the multi-inner cycles and low F&M scores, so the only resolution that we could see is to map all hyper-hyponym pairs onto a graph and then prune the graph to get an ontology with minimal cycles. 
+- Still we think that the entity-relation-entity triplet (in this case hyper-hyponyms) generation approach is useful for the taxonomy induction without caring about the top node because we dont really need to know that food->entity since it should be a given, the edges between the food terms and which term is the most "hyper-food" connecting to food is more important. Also this is scalable to other relation to build a other knowledge bases rahter than hierarchical ontology
+ 
  
 
