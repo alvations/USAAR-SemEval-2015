@@ -24,7 +24,7 @@ Due to the 4 page limitations of the paper, we were not able to squeeze more inf
  - `science`: 279 out of 464, `WN_science`: 260 out of 451
 
 **Did you only use "is a"? Or did you use any other definitional patterns ("are called", "known as", "a type of", ...)**
-- Nope, we use the full wiki articles processed and extracted as described above.
+- Yes, only "is a". Nope, we didn't use any other patterns, we use the full wiki articles processed and extracted as described above.
 
 **Did you use any sentence containing "is a" or only sentences containing a SemEval term? or only the first sentence of a Wikipedia article?**
 - Yes, we use sentences containing `is_a` as well as all other sentences within the article that contains the term. We use the full article when training our neural net vector space. Our hypothesis is that any words that appears in the same wiki article as the term is somewhat related to it. So training a vector space from the whole article gives denser vectors with more information.
