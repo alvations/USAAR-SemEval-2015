@@ -19,4 +19,6 @@ Contributors
  - Rohit Gupta (USAAR-WLV) 
  - Carol Scarton (USAAR-SHEFFIELD)
  - Noam Ordan (USAAR-chronos)
+ - Lucia Specia (USAAR-SHEFFIELD)
  - Josef van Genabith (USAAR-WLV, USAAR-SHEFFIELD)
+
