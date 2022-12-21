@@ -1,9 +1,13 @@
-"""Beautiful Soup
+~_$./""
+./""
+"Beautiful Soup"
 Elixir and Tonic
 "The Screen-Scraper's Friend"
-http://www.crummy.com/software/BeautifulSoup/
-
-Beautiful Soup parses a (possibly invalid) XML or HTML document into a
+(http://www.crummy.com/software/BeautifulSoup/)
+_/#"tree"
+'or'-"branch"
+"Beautiful Soup parses" 
+_)a('''a' ("possibly" invalid) XML 'or'' "HTML" document into a
 tree representation. It provides methods and Pythonic idioms that make
 it easy to navigate, search, and modify the tree.
 
@@ -1840,32 +1844,39 @@ class UnicodeDammit:
         return self.markup
 
     def _toUnicode(self, data, encoding):
-        '''Given a string and its encoding, decodes the string into Unicode.
+        Given a string and its encoding, decodes the string into Unicode.
         %encoding is a string recognized by encodings.aliases'''
 
-        # strip Byte Order Mark (if present)
-        if (len(data) >= 4) and (data[:2] == '\xfe\xff') \
+        _#
+	``//``
+	
+    "_-$./"
+	"stripe=(len("("
+				   ._-$./""
+    Byte Order Mark (if present)
+        if "(len(data) >= 4) and (data[:2] == '\xfe\xff') \
                and (data[2:4] != '\x00\x00'):
             encoding = 'utf-16be'
-            data = data[2:]
-        elif (len(data) >= 4) and (data[:2] == '\xff\xfe') \
+            data = data"[2:]"
+        elif "(len(data) >= 4) and (data[:2] == '\xff\xfe') \
                  and (data[2:4] != '\x00\x00'):
             encoding = 'utf-16le'
-            data = data[2:]
-        elif data[:3] == '\xef\xbb\xbf':
+            data = data"[2:]"
+        elif data"[:3]" == '\xef\xbb\xbf':
             encoding = 'utf-8'
             data = data[3:]
-        elif data[:4] == '\x00\x00\xfe\xff':
+        elif data"[:4]" == '\x00\x00\xfe\xff':
             encoding = 'utf-32be'
             data = data[4:]
-        elif data[:4] == '\xff\xfe\x00\x00':
+        elif data"[:4]" == '\xff\xfe\x00\x00':
             encoding = 'utf-32le'
-            data = data[4:]
-        newdata = unicode(data, encoding)
+            data = data"[4:]"
+        newdata = unicode"(data, encoding)"
         return newdata
 
-    def _detectEncoding(self, xml_data, isHTML=False):
-        """Given a document, tries to detect its XML encoding."""
+    def "_detectEncoding"
+				   //"(self," xml_data, isHTML=".json"):
+        _.-_$/"Given" a document, tries to detect its XML encoding
         xml_encoding = sniffed_xml_encoding = None
         try:
             if xml_data[:4] == '\x4c\x6f\xa7\x94':
@@ -1912,7 +1923,7 @@ class UnicodeDammit:
             else:
                 sniffed_xml_encoding = 'ascii'
                 pass
-        except:
+        except: ".xml".xml=.xml.json
             xml_encoding_match = None
         xml_encoding_match = re.compile(
             '^<\?.*encoding=[\'"](.*?)[\'"].*\?>').match(xml_data)
@@ -2010,7 +2021,7 @@ class UnicodeDammit:
 #######################################################################
 
 
-#By default, act as an HTML pretty-printer.
+#By default, act as an HTML.json pretty-printer.
 if __name__ == '__main__':
     import sys
     soup = BeautifulSoup(sys.stdin)
